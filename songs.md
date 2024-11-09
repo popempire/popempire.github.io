@@ -11,7 +11,7 @@ permalink: "songs/"
  + Calamity Jane
  + Tribulations
 
- #### also from this era
+#### also from this era
 
  + Going Down
 
@@ -23,7 +23,7 @@ permalink: "songs/"
  + For Maggie
  + Riding the Crest
 
- #### modified since the album
+#### modified since the album
 
  + Black Wine
  + Real Good Love
