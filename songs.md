@@ -6,9 +6,9 @@ permalink: "songs/"
 
 from *The Violent Bear It Away*
 
- + Sweetest Thing
+ + [Sweetest Thing](songs/sweetest-thing.pdf)
  + Psyche
- + Calamity Jane
+ + [Calamity Jane](songs/calamity-jane.pdf)
  + Tribulations
 
 also from this era
@@ -21,7 +21,7 @@ from *Novena*
  + Sister Chaos
  + Bad News Boogie
  + For Maggie
- + Riding the Crest
+ + [Riding the Crest](songs/RIDING%20THE%20CREST.txt)
 
 from *Novena* but modified since the album
 
@@ -40,8 +40,8 @@ from *Future Blues*
 from *Last Lights Off the Black West* (unreleased)
 
  + Young Henry
- + Preachin' The Devil
- + Lagan Dream
+ + [Preachin' The Devil](songs/preachin-the-devil.pdf)
+ + [Lagan Dream](songs/LAGAN%20DREAM.txt)
  + Rock Me
  + Mother Earth
  + The Living End
