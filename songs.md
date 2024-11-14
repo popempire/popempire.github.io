@@ -21,7 +21,7 @@ from *Novena*
  + Sister Chaos
  + Bad News Boogie
  + For Maggie
- + [Riding the Crest](songs/RIDING%20THE%20CREST.txt)
+ + [Riding the Crest](RIDING%20THE%20CREST.txt)
 
 from *Novena* but modified since the album
 
@@ -41,7 +41,7 @@ from *Last Lights Off the Black West* (unreleased)
 
  + Young Henry
  + [Preachin' The Devil](songs/preachin-the-devil.pdf)
- + [Lagan Dream](songs/LAGAN%20DREAM.txt)
+ + [Lagan Dream](LAGAN%20DREAM.txt)
  + Rock Me
  + Mother Earth
  + The Living End
