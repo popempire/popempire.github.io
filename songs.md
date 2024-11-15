@@ -47,5 +47,5 @@ from *Last Lights Off the Black West* (unreleased)
  + The Living End
  + Black Dog Blues
  + Tom Dula
- + Dying Silver Dagger Blues
+ + [Dying Silver Dagger Blues](silver-dagger.txt)
  + God's Grandeur
