@@ -16,7 +16,7 @@ permalink: "songs/"
 ### *Novena* era ###
  
  + The Way
- + Sister Chaos
+ + [Sister Chaos](sister-chaos.txt)
  + Bad News Boogie
  + For Maggie
  + [Riding the Crest](RIDING%20THE%20CREST.txt)
