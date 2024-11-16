@@ -4,18 +4,16 @@ title: "Pop Empire Song List"
 permalink: "songs/"
 ---
 
-from *The Violent Bear It Away*
+### *The Violent Bear It Away* era ###
 
  + [Sweetest Thing](songs/sweetest-thing.pdf)
  + Psyche
  + [Calamity Jane](songs/calamity-jane.pdf)
  + Tribulations
 
-also from this era
-
  + Going Down
 
-from *Novena*
+### *Novena* era ###
  
  + The Way
  + Sister Chaos
@@ -23,21 +21,19 @@ from *Novena*
  + For Maggie
  + [Riding the Crest](RIDING%20THE%20CREST.txt)
 
-from *Novena* but modified since the album
-
  + Black Wine
  + Real Good Love
  + Nightwalking
  + Fool All Over
 
-from *Future Blues*
+### *Future Blues* ###
 
  + I-75 Blues
  + Ain't Got a Cent
  + Blue Circle
  + Shoot Me When I'm Happy
 
-from *Last Lights Off the Black West* (unreleased)
+### *Last Lights Off the Black West* (unreleased) ###
 
  + Young Henry
  + [Preachin' The Devil](songs/preachin-the-devil.pdf)
