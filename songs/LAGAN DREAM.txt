@@ -3,18 +3,11 @@ LAGAN DREAM
 
 ### Chords ###
 
-|Csus        |Bb          |Csus        |            |
-
-|Csus        |Bb          |Csus  F/C   |Csus        |
-
-|F     C     |F           |FΔ7   G7    |C           |
-
-|C-          |C     |Bb          |Csus  F/C   |Csus        |
-
-
+*half-time*
+--------------------------------------- intro
 Isus    Isus    Isus    Isus
 Isus    Isus    Isus   <Isus>
----------------------------------------
+--------------------------------------- verse/solo
 Isus    Isus    bVII    bVII
 Isus    Isus    Isus   <Isus>
 Isus    Isus    bVII    bVII
