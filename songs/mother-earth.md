@@ -1,4 +1,6 @@
 ---
+layout: blank
+title: Mother Earth
 ---
 MOTHER EARTH
 ============
@@ -14,4 +16,3 @@ MOTHER EARTH
     |B      |B      |A      |A/G    |
 
     |E      |E      |E      |E      |
-    
