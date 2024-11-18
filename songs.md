@@ -14,7 +14,7 @@ permalink: "songs/"
  + Going Down
 
 ### *Novena* era ###
- 
+
  + The Way
  + [Sister Chaos](sister-chaos.txt)
  + Bad News Boogie
@@ -39,7 +39,7 @@ permalink: "songs/"
  + [Preachin' The Devil](songs/preachin-the-devil.pdf)
  + [Lagan Dream](LAGAN%20DREAM.txt)
  + Rock Me
- + Mother Earth
+ + [Mother Earth](songs/mother-earth)
  + The Living End
  + Black Dog Blues
  + Tom Dula

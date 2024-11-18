@@ -1,6 +1,7 @@
 ---
 layout: blank
 title: Mother Earth
+permalink: songs/mother-earth
 ---
 MOTHER EARTH
 ============
