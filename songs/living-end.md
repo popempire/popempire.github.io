@@ -3,7 +3,7 @@ layout: blank
 permalink: songs/living-end
 ---
 The Living End
-==============
+--------------
 
 J.A.M.C. Psychocandy 1985
 
