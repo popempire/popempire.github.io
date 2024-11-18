@@ -50,6 +50,8 @@ Memphis Slim & The House Rockers 1951
 ---------------------------------------
 ~~~
 
+<div style="break-after:page"></div>
+
 ### Bass Tab ###
 
 ~~~
