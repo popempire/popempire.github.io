@@ -6,7 +6,7 @@ permalink: "songs/"
 
 ### *The Violent Bear It Away* era ###
 
- + [Sweetest Thing](songs/sweetest-thing.pdf)
+ + [Sweetest Thing](sweetest-thing.txt)
  + Psyche
  + [Calamity Jane](songs/calamity-jane.pdf)
  + Tribulations
