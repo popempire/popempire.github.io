@@ -10,7 +10,6 @@ permalink: "songs/"
  + Psyche
  + [Calamity Jane](songs/calamity-jane.pdf)
  + Tribulations
-
  + Going Down
 
 ### *Novena* era ###
@@ -20,7 +19,6 @@ permalink: "songs/"
  + Bad News Boogie
  + For Maggie
  + [Riding the Crest](RIDING%20THE%20CREST.txt)
-
  + Black Wine
  + Real Good Love
  + Nightwalking
@@ -40,7 +38,7 @@ permalink: "songs/"
  + [Lagan Dream](LAGAN%20DREAM.txt)
  + Rock Me
  + [Mother Earth](mother-earth)
- + The Living End
+ + [The Living End](living-end)
  + Black Dog Blues
  + Tom Dula
  + [Dying Silver Dagger Blues](silver-dagger.txt)
