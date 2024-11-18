@@ -39,7 +39,7 @@ permalink: "songs/"
  + [Preachin' The Devil](songs/preachin-the-devil.pdf)
  + [Lagan Dream](LAGAN%20DREAM.txt)
  + Rock Me
- + [Mother Earth](songs/mother-earth)
+ + [Mother Earth](mother-earth)
  + The Living End
  + Black Dog Blues
  + Tom Dula
