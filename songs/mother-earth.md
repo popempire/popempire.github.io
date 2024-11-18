@@ -6,6 +6,8 @@ permalink: songs/mother-earth
 MOTHER EARTH
 ============
 
+Memphis Slim & The House Rockers 1951
+
 ### Chords ###
 ~~~
 --------------------------------------- intro
