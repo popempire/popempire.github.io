@@ -6,12 +6,12 @@ layout: blank
 
 first part:
 
-    swell   88 8000 000   C-2   perc 2
-    great   80 7430 000
+    swell       88 8000 000   C-2   perc 2
+    great       80 7430 000
 
 from "that's no way":
 
-            80 0008 888
+                80 0008 888
 
 ### Young Henry ###
 
