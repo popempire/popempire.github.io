@@ -43,3 +43,5 @@ permalink: "songs/"
  + Tom Dula
  + [Dying Silver Dagger Blues](silver-dagger.txt)
  + God's Grandeur
+
+[organ registrations](hammond-reg-llotbw.html)
