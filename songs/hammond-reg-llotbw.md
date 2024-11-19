@@ -36,9 +36,7 @@ part ii:
 
 ### Rock Me ###
 
-intro:
-
-                30 7501 234   C-3     rotor fast
+    intro       30 7501 234   C-3     rotor fast
 
 ### Preachin' The Devil
 
@@ -49,13 +47,9 @@ squabble
 
 ### The Living End ###
 
-first part
+    first part  00 8813 020
 
-                00 8813 020
-
-end part
-
-                80 0008 888
+    end part    80 0008 888
 
 ### Mother Earth ###
 
