@@ -10,12 +10,12 @@ Notations, Symbols & Conventions Reference
 |---------------|-----------|-----------|
 |major          |{0,4,7}    |C          |
 |minor          |{0,3,7}    |C-         |
-|dominant seventh|{0.4,7,10}|C<sup>7</sup>|
+|dominant seventh|{0,4,7,10}|C<sup>7</sup>|
 
 HTML entities
 -------------
 
 |Name           |Entity     |Unicode    |Symbol     |
 |---------------|-----------|-----------|-----------|
-|flat           |flat       |           |&flat;     |
-|shartp         |sharp      |           |&sharp;    |
+|flat           |flat       |           |<span>&flat;</span>     |
+|shartp         |sharp      |           |<span>&sharp;</span>    |
