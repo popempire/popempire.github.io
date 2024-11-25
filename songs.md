@@ -45,3 +45,4 @@ permalink: "songs/"
  + God's Grandeur
 
 [organ registrations](hammond-reg-llotbw.html)
+[notation reference guide](reference)
