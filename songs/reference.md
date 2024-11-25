@@ -49,6 +49,6 @@ HTML entities
 |&sharp;        |♯     |N  |
 |&degree;       |°     |N  |
 |&amp;mdash;    |&mdash;|Y |
-|&Oslash;       |Ø     |N  |
+|&amp;Oslash;   |Ø     |Y  |
 
-<table><tr><td>&sharp;&flat;&deg;&Oslash;</td></tr></table>
+<div>&sharp;&flat;&deg;&Oslash;</div>
