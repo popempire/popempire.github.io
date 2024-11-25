@@ -34,7 +34,7 @@ permalink: "songs/"
 ### *Last Lights Off the Black West* (unreleased) ###
 
  + Young Henry
- + [Preachin' The Devil](songs/preachin-the-devil)
+ + [Preachin' The Devil](preachin-the-devil)
  + [Lagan Dream](LAGAN%20DREAM.txt)
  + Rock Me
  + [Mother Earth](mother-earth)
