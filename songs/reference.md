@@ -19,7 +19,7 @@ Notations, Symbols & Conventions Reference
 |major seventh      |{0,4,7,11} |C<sup>Δ7</sup>|E-/C, C/B|
 |minor seventh      |{0,3,7,10} |C-<sup>7</sup>|E♭/C, C-/B♭|
 |diminished seventh |{0,3,6,9}  |C°<sup>7</sup>|E♭°/C, C°/A|
-|half-diminished seventh|{0,3,6,10}|C<sup>7♭5</sup>|C<sup>E♭-/C, C°/B♭|
+|half-diminished seventh|{0,3,6,10}|C<sup>7♭5</sup>|C<sup>Ø</sup>, E♭-/C, C°/B♭|
 |major sixth        |{0,4,7,9}  |C<sup>6</sup>|A-/C, A-<sup>7</sup>|
 |add nine           |{0,2,4,7}  |C<sup>add9</sup>|C<sup>2</sup>, C/D|
 |suspended seventh  |{0,5,7,10} |C<sup>7sus</sup>|F<sup>sus2</sup>/C|
@@ -41,6 +41,6 @@ HTML entities
 |&sharp;        |♯     |N  |
 |&degree;       |°     |N  |
 |&amp;mdash;    |&mdash;|Y |
-|&Oslash;       |      |N  |
+|&Oslash;       |Ø     |N  |
 
 <table><tr><td>&sharp;&flat;&deg;&Oslash;</td></tr></table>
