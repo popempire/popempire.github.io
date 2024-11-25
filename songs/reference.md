@@ -19,7 +19,7 @@ HTML entities
 
 |Name           |Entity     |Unicode    |Symbol     |
 |---------------|-----------|-----------|-----------|
-|flat           |flat       |           |&mdash;    |
+|flat           |flat       |           |<td>&flat;</td>
 |sharp          |sharp      |           |&sharp;    |
 
 <table><tr><td>&sharp;&flat;</td></tr></table>
