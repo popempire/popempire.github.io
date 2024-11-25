@@ -13,13 +13,14 @@ Notations, Symbols & Conventions Reference
 |dominant seventh   |{0,4,7,10} |C<sup>7</sup>|
 |major sixth        |{0,4,7,9}  |C<sup>6</sup>|
 |major seventh      |{0,4,7,11} |C<sup>Δ7</sup>|
+|suspended fourth   |{0,5,7}    |C<sup>sus</sup>|
 
 HTML entities
 -------------
 
-|Name           |Entity     |Unicode    |Symbol     |
-|---------------|-----------|-----------|-----------|
-|flat           |flat       |           |<td>&flat;</td>
-|sharp          |sharp      |           |&sharp;    |
+|Name           |Entity     |Unicode    |Symbol|
+|---------------|-----------|-----------|------|
+|flat           |&flat;     |           |♭     |       
+|sharp          |&sharp;    |           |♯     |
 
 <table><tr><td>&sharp;&flat;</td></tr></table>
