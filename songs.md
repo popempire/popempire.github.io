@@ -44,5 +44,5 @@ permalink: "songs/"
  + [Dying Silver Dagger Blues](silver-dagger.txt)
  + God's Grandeur
 
-[organ registrations](hammond-reg-llotbw.html)
+[organ registrations](hammond-reg-llotbw.html)  
 [notation reference guide](reference)
