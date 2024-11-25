@@ -17,5 +17,5 @@ HTML entities
 
 |Name           |Entity     |Unicode    |Symbol     |
 |---------------|-----------|-----------|-----------|
-|flat           |flat       |           |<span>&flat;</span>     |
-|shartp         |sharp      |           |<span>&sharp;</span>    |
+|flat           |flat       |           |&mdash;     |
+|shartp         |sharp      |           |&sharp;    |
