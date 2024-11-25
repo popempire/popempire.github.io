@@ -6,7 +6,11 @@ permalink: songs/reference
 Notations, Symbols & Conventions Reference
 ==========================================
 
-|Chord Name         |           |Example    |Equivalent(s)  |
+|Dyads              |           |Example    |Equivalent(s)  |
+|-------------------|-----------|-----------|---------------|
+|power chord        |{0,7}      |C<sup>5</sup>|
+|-------------------|-----------|-----------|---------------|
+|Triads             |           |Example    |Equivalent(s)  |
 |-------------------|-----------|-----------|---------------|
 |major              |{0,4,7}    |C          |
 |minor              |{0,3,7}    |C-         |
@@ -14,6 +18,8 @@ Notations, Symbols & Conventions Reference
 |augmented          |{0,4,8}    |C+         |
 |suspended fourth   |{0,5,7}    |C<sup>sus</sup>|C<sup>4</sup>|
 |suspended second   |{0,2,7}    |C<sup>sus2</sup>|G<sup>sus</sup>/C|
+|-------------------|-----------|-----------|---------------|
+|Tetrads            |           |           |               |
 |-------------------|-----------|-----------|---------------|
 |dominant seventh   |{0,4,7,10} |C<sup>7</sup>|E°/C, C/B♭|
 |major seventh      |{0,4,7,11} |C<sup>Δ7</sup>|E-/C, C/B|
@@ -24,6 +30,8 @@ Notations, Symbols & Conventions Reference
 |add nine           |{0,2,4,7}  |C<sup>add9</sup>|C<sup>2</sup>, C/D|
 |suspended seventh  |{0,5,7,10} |C<sup>7sus</sup>|F<sup>sus2</sup>/C|
 |                   |{0,2,7,10} |           |G/C|
+|-------------------|-----------|-----------|---------------|
+|Pentads            |           |           |               |
 |-------------------|-----------|-----------|---------------|
 |dominant ninth     |{0,2,4,7,10}|C<sup>9</sup>|G-<sup>6</sup>/C|
 |major ninth        |{0,2,4,7,11}|C<sup>Δ9</sup>|G<sup>6</sup>/C, E<sup>-7</sup>/C|
