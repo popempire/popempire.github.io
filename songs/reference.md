@@ -6,16 +6,20 @@ permalink: songs/reference
 Notations, Symbols & Conventions Reference
 ==========================================
 
-|Chord Name     |           |Example    |
-|---------------|-----------|-----------|
-|major          |{0,4,7}    |C          |
-|minor          |{0,3,7}    |C-         |
-|dominant seventh|{0,4,7,10}|C<sup>7</sup>|
+|Chord Name         |           |Example    |
+|-------------------|-----------|-----------|
+|major              |{0,4,7}    |C          |
+|minor              |{0,3,7}    |C-         |
+|dominant seventh   |{0,4,7,10} |C<sup>7</sup>|
+|major sixth        |{0,4,7,9}  |C<sup>6</sup>|
+|major seventh      |{0,4,7,11} |C<sup>Δ7</sup>|
 
 HTML entities
 -------------
 
 |Name           |Entity     |Unicode    |Symbol     |
 |---------------|-----------|-----------|-----------|
-|flat           |flat       |           |&mdash;     |
-|shartp         |sharp      |           |&sharp;    |
+|flat           |flat       |           |&mdash;    |
+|sharp          |sharp      |           |&sharp;    |
+
+&sharp;&flat;
