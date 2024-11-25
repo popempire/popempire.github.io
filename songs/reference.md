@@ -40,6 +40,6 @@ HTML entities
 |&flat;         |♭     |       
 |&sharp;        |♯     |
 |&degree;       |°     |
-|&mdash;        |<pre>&mdash;</pre>|
+|&amp;mdash;    |&mdash;|
 
 <table><tr><td>&sharp;&flat;&deg;</td></tr></table>
