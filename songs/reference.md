@@ -26,10 +26,11 @@ Notations, Symbols & Conventions Reference
 |                   |{0,2,7,10} |           |G/C|
 |-------------------|-----------|-----------|---------------|
 |dominant ninth     |{0,2,4,7,10}|C<sup>9</sup>|G-<sup>6</sup>/C|
-|major ninth        |{0,2,4,7,11}|C<sup>Δ9</sup>|G<sup>6</sup>/C, E-<sup>7</sup>/C|
+|major ninth        |{0,2,4,7,11}|C<sup>Δ9</sup>|G<sup>6</sup>/C, E<sup>-7</sup>/C|
 |minor ninth        |{0,2,3,7,10}|C-<sup>9</sup>|
 |minor seven add four|{0,3,5,7,10}|C-<sup>7(4)</sup>|minor pentatonic|
 |six nine           |{0,2,4,7,9}|C<sup>6/9</sup>|major pentatonic|
+|suspended nine     |{0,2,5,7,10}|C<sup>9sus</sup>|G<sup>-7</sup>/C|
 
 HTML entities
 -------------
