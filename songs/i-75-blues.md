@@ -8,38 +8,37 @@ I-75 Blues
 
 ### Chords ###
 
-~~~
 intro----------------------------------
-        F#      F#      F#      F#
+            F#          F#          F#          F#
 verse 1--------------------------------
-        F#      F#      F#      F#
-        B       B-B/A   F#      F#
-        C#      C#      B-B/A   F#      F#
+            F#          F#          F#          F#
+            B           B-B/A       F#          F#
+            C#          C#          B-B/A       F#          F#
 verse 2--------------------------------
-        F#      F#      F#      F#
-        B       B-B/A   F#      F#
-        C#      C#      B-B/A   F#      F#
+            F#          F#          F#          F#
+            B           B-B/A       F#          F#
+            C#          C#          B-B/A       F#          F#
 verse 3--------------------------------
-        F#      F#      F#      F#
-        B       B-B/A   F#      F#
-        C#      C#      B-B/A   F#      F#
+            F#          F#          F#          F#
+            B           B-B/A       F#          F#
+            C#          C#          B-B/A       F#          F#
 solo-----------------------------------
-        F#      F#      F#      F#
-        B       B-B/A   F#      F#
-        C#      C#      B-B/A   F#      F#
+            F#          F#          F#          F#
+            B           B-B/A       F#          F#
+            C#          C#          B-B/A       F#          F#
 verse 4--------------------------------
-        F#      F#      F#      F#
-        B       B-B/A   F#      F#
-        C#      C#      B-B/A   F#      F#
+            F#          F#          F#          F#
+            B           B-B/A       F#          F#
+            C#          C#          B-B/A       F#          F#
 verse 5--------------------------------
-        F#      F#      F#      F#
-        B       B-B/A   F#      F#
-        C#      C#      B-B/A   F#      F#
+            F#          F#          F#          F#
+            B           B-B/A       F#          F#
+            C#          C#          B-B/A       F#          F#
 solo 2---------------------------------
-        F#      F#      F#      F#
-        B       B-B/A   F#      F#
-        C#      C#      B-B/A   F#     <F#>
-~~~
+            F#          F#          F#          F#
+            B           B-B/A       F#          F#
+            C#          C#          B-B/A       F#         <F#>
+
 
 ### Bass Tab ###
 
