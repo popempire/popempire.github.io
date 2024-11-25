@@ -22,4 +22,4 @@ HTML entities
 |flat           |flat       |           |&mdash;    |
 |sharp          |sharp      |           |&sharp;    |
 
-&sharp;&flat;
+<span>&sharp;&flat;</span>
