@@ -27,7 +27,7 @@ permalink: "songs/"
 ### *Future Blues* ###
 
  + [I-75 Blues](i-75-blues)
- + Ain't Got a Cent
+ + [Ain't Got a Cent](aint-got-a-cent)
  + Blue Circle
  + Shoot Me When I'm Happy
 
