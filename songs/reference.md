@@ -42,6 +42,7 @@ Chords
 |minor seven add four|{0,3,5,7,10}|C-<sup>7(4)</sup>|minor pentatonic|
 |six nine           |{0,2,4,7,9}|C<sup>6/9</sup>|major pentatonic|
 |suspended nine     |{0,2,5,7,10}|C<sup>9sus</sup>|G<sup>-7</sup>/C, jazz sus|
+|                   |{0,2,5,7,9} |C<sup>6/9sus</sup>|F<sup>6/9</sup>/C, G-<sup>7(4)</sup>/C|
 
 HTML entities and codes
 -----------------------
@@ -54,4 +55,9 @@ HTML entities and codes
 |&amp;mdash;    |&mdash;|Y |
 |&amp;Oslash;   |Ø     |Y  |
 
-<div>&sharp;&flat;&deg;&Oslash;</div>
+<p>
+&sharp;
+&flat;
+&deg;
+&Oslash;
+</p>
