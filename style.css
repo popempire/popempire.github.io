@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wdth@112.5&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wdth,wght@0,75..112.5,200..700;1,75..112.5,200..700&display=swap');
+
+body {
+    background-color:#000000;
+    color:#ffffff;
+    text-align: center;
+    font-family: "Consolas", Consolas, "Inconsolata", monospace;
+    font-size:16px;
+    line-height:24px;
+    min-height:640px;
+    margin:0;
+    padding:0;}
+img, iframe { max-width: 100%;}
+hr {margin:10px 0;}
+
+.smallerText {font-size: 50%;}
+
+h1 {
+    font-family: "Archivo", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size:40px;
+    font-variation-settings:"wdth" 112.5;
+    text-transform: uppercase;
+    line-height:48px;
+    letter-spacing: -3px;}
+
+h2 {font-family: "garamond-premier-pro", serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size:36px;
+    line-height: 48px;}
+
+h3 {font-family: "garamond-premier-pro", serif;
+    font-weight:400;
+    font-size:28px;
+    line-height: 48px;
+    font-variant-caps:small-caps;}
+
+h4 {font-family: "garamond-premier-pro", serif;
+    font-weight:700;
+    font-size:24px;
+    line-height: 24px;}
+
+ul, ol {
+    text-align: left;
+}
+
+div#container { 
+    padding:1em;
+    max-width: 100%;
+}
+
+div#title {
+    margin:0 auto;
+    width:800px;
+    max-width:100%;
+    text-align:center;
+}
+div#title img {
+    margin:0 auto;
+    height:auto;
+    width:auto;
+    max-height:80px;
+    max-width:100%;
+}
+
+div#main {
+    margin:24px auto;
+    padding:0 12px 48px;
+    width:720px;
+    max-width:100%;
+}
+
+div#links { background-color: hsl(330,100%,60%); padding:1em; margin: 0 auto 40px; max-width:640px; }
+div#links a div { border: solid 1px white; padding: 1em; margin:1em;}
+div#links a div:hover { background-color:white;}
+div#links a:visited, div#links a {color:white;}
+div#links a:hover { color:black;}
+
+div.era {margin:0 auto;padding:0 10px 40px;clear:both;}
+
+div#footer {min-height:60px;font-size:10px;text-align:right;margin:60px auto;width:100%;}
+
