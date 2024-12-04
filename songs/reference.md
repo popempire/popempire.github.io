@@ -61,3 +61,36 @@ HTML entities and codes
 &deg;
 &Oslash;
 </p>
+
+<!--
+|   | 2 | 3 | 4 | 5 | 7 |
+|---|---|---|---|---|---|
+| 2 | 4 | 5 | 6 | 7 | 9 |
+| 3 | 5 | 6 | 7 | 8 | 10|
+| 4 | 6 | 7 | 8 | 9 | 11|
+| 5 | 7 | 8 | 9 | 10|   |
+| 7 | 9 | 10| 11|   |   |
+
+{0,2,4}
+{0,2,5}
+{0,2,6}
+{0,2,7}     suspended, 1st inversion
+{0,2,9}
+{0,3,5}
+{0,3,6}     diminished
+{0,3,7}     minor
+{0,3,8}     major, 1st inversion
+{0,3,10}    
+{0,4,6}
+{0,4,7}     major
+{0,4,8}     augmented
+{0,4,9}     minor, 1st inversion
+{0,4,11}    
+{0,5,7}     suspended
+{0,5,8}     minor, 2nd inversion
+{0,5,9}     major, 2nd inversion
+{0,5,10}    suspended, 2nd inversion
+{0,7,9}
+{0,7,10}    
+{0,7,11}    
+-->
