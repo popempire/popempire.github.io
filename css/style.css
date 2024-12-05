@@ -120,15 +120,14 @@ div#footer {
     width:100%;}
 
 #main p {
+    text-align: left;
     font-family:'garamond-premier-pro', 'Garamond', Garamond, serif;
-    font-size: 20px;}
+    font-size: 1rem;}
 
 p.sansSerif {
-    text-align: left;
     font-family: 'Archivo';
     font-weight: 400;
     font-variation-settings:'wdth' 100;
-    font-size: 18px;
 }
 
 /* color scheme classes */
