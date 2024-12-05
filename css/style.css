@@ -74,7 +74,6 @@ ul, ol {
 }
 
 pre { 
-    break-inside: avoid-page; 
     font-size: 0.833rem; }
 
 table { 
