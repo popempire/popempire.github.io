@@ -65,6 +65,7 @@ HTML entities and codes
 </p>
 
 <p>5<sup>1</sup>/<sub>3</sub></p>
+<p>5 1&#x2044;3</p>
 
 <!--
 |   | 2 | 3 | 4 | 5 | 7 |
