@@ -18,6 +18,12 @@ html, body {
     margin:0;
     padding:0; }
 
+@media print {
+    body {
+        background-color: #fff;
+        color:#000; }
+}
+
 a {
     color: hsl(330,100%,60%);
     text-decoration: none; }
