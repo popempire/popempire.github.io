@@ -86,15 +86,86 @@ div#main {
     max-width:100%;
 }
 
-div#links { background-color: hsl(330,100%,60%); padding:1em; margin: 24px auto 40px; max-width:640px; }
-div#links a div { border: solid 1px white; padding: 1em; margin:1em;}
-div#links a div:hover { background-color:white;}
-div#links a:visited, div#links a {color:white;}
-div#links a:hover { color:black;}
+div#links { 
+    background-color: hsl(330,100%,60%); 
+    padding:1em; 
+    margin: 24px auto 40px; 
+    max-width:640px; }
+div#links a div { 
+    border: solid 1px white; 
+    padding: 1em; 
+    margin:1em;}
+div#links a div:hover { 
+    background-color:white;}
+div#links a:visited, div#links a {
+    color:white;}
+div#links a:hover { 
+    color:black;}
 
-div.era {margin:0 auto;padding:0 10px 40px;clear:both;}
+div.linkArea {
+    padding:1em; 
+    margin: 0 auto 40px; 
+    max-width:640px;}
 
-div#footer {min-height:60px;font-size:10px;text-align:right;margin:60px auto;width:100%;}
+div.era {
+    margin:0 auto;
+    padding:0 10px 40px;
+    clear:both;}
+
+div#footer {
+    min-height:60px;
+    font-size:10px;
+    text-align:right;
+    margin:60px auto;
+    width:100%;}
+
+#main p {
+    font-family:'garamond-premier-pro', 'Garamond', Garamond, serif;
+    font-size: 20px;}
+
+p.sansSerif {
+    text-align: left;
+    font-family: 'Archivo';
+    font-weight: 400;
+    font-variation-settings:'wdth' 100;
+    font-size: 18px;
+}
+
+/* color scheme classes */
+
+.popTeal {
+    color:#000;
+    background-color: hsl(165,80%,60%);}
+.popTeal2 {
+    color: hsl(165,80%,60%);
+    background-color:#000;}
+.popPink {
+    color:#fff;
+    background-color: hsl(330,100%,60%);}
+.popLitePink {
+    color:#000;
+    background-color:hsl(330,100%,80%);}
+.popLitePink2 {
+    color:hsl(330,100%,80%);
+    background-color:#000;}
+.popPink2 {
+    color:hsl(330,100%,60%);
+    background-color:#000;}
+.popBW {
+    color:#000;
+    background-color: #fff;}
+
+/* font classes */
+
+.fontGaramond {
+    font-family: 'garamond-premier-pro', 'Garamond', Garamond, serif;
+    font-style: normal;}
+
+.fontGranjon {
+    font-family: 'garamond-premier-pro', 'Garamond', Garamond, serif;
+    font-style: italic;}
+.fontGranjon em {
+    font-style: normal;}
 
 .smallerText {
     font-size: 50%;}
