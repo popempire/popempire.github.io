@@ -18,10 +18,13 @@ html, body {
     margin:0;
     padding:0; }
 
-a, a:hover {
-    color: hsl(330,100%,60%);}
+a {
+    color: hsl(330,100%,60%);
+    text-decoration: none; }
 a:visited {
     color: hsl(330,100%,80%);}
+a:hover {
+    text-decoration: underline; }
 
 img, iframe {
     max-width: 100%;}
