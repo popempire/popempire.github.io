@@ -20,7 +20,7 @@ html, body {
     padding:0; }
 
 @media print {
-    body {
+    html, body {
         margin: 0 0.5in;
         background-color: #fff;
         color:#000; }
