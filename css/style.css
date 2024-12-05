@@ -72,29 +72,16 @@ h4 {font-family: "garamond-premier-pro", serif;
     line-height: 1.5rem;}
 
 ul, ol {
-    text-align: left;
-}
+    text-align: left; }
 
-pre { 
+pre {
     text-align: left;
     margin-left: 4em;
     font-size: 0.833rem; }
 
-table { 
-    font-size: 0.833rem; }
-th { 
-    width: 12ch; 
-    background-color: rgba(0,0,0,0.2); }
-td { 
-    width: 8ch; 
-    font-size: 1.25em; 
-    padding: 0.5em 0.5ch; 
-    background-color:#eee; 
-    position: relative; }
-
 /* ID-specific styles */
 
-div#container { 
+div#container {
     padding:1em;
     max-width: 100%;
 }
@@ -120,25 +107,25 @@ div#main {
     max-width:100%;
 }
 
-div#links { 
-    background-color: hsl(330,100%,60%); 
-    padding:1em; 
-    margin: 24px auto 40px; 
+div#links {
+    background-color: hsl(330,100%,60%);
+    padding:1em;
+    margin: 24px auto 40px;
     max-width:640px; }
-div#links a div { 
-    border: solid 1px white; 
-    padding: 1em; 
+div#links a div {
+    border: solid 1px white;
+    padding: 1em;
     margin:1em;}
-div#links a div:hover { 
+div#links a div:hover {
     background-color:white;}
 div#links a:visited, div#links a {
     color:white;}
-div#links a:hover { 
+div#links a:hover {
     color:black;}
 
 div.linkArea {
-    padding:1em; 
-    margin: 0 auto 40px; 
+    padding:1em;
+    margin: 0 auto 40px;
     max-width:640px;}
 
 div.era {
