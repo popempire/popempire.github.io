@@ -1,3 +1,7 @@
+---
+layout: blank
+---
+
 Young Henry parts 1 and 2
 =========================
 
