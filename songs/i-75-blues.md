@@ -6,8 +6,6 @@ permalink: songs/i-75-blues
 I-75 Blues
 ----------
 
-0&x0332;00
-
 ### Chords ###
 
 intro---------------------------------
