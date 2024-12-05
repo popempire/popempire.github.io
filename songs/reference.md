@@ -54,12 +54,14 @@ HTML entities and codes
 |&degree;       |°     |N  |
 |&amp;mdash;    |&mdash;|Y |
 |&amp;Oslash;   |Ø     |Y  |
+|&#x1D110;      |      |N  |
 
 <p>
 &sharp;
 &flat;
 &deg;
 &Oslash;
+&#x1D110;
 </p>
 
 <!--
