@@ -21,7 +21,7 @@ html, body {
 
 @media print {
     body {
-        margin: auto 0.5in;
+        margin: 0 0.5in;
         background-color: #fff;
         color:#000; }
 }
