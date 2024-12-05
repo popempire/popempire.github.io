@@ -5,7 +5,7 @@ layout: default
 God's Grandeur
 --------------
 
-A poem by Gerard Manley Hopkins
+A sonnet by Gerard Manley Hopkins, written in 1877, not published until the 1910s
 
     The world is charged with the grandeur of God.
         It will flame out, like shining from shook foil;
