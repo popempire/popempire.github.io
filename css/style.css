@@ -125,7 +125,8 @@ div#footer {
 #main p {
     text-align: left;
     font-family:'garamond-premier-pro', 'Garamond', Garamond, serif;
-    font-size: 1rem;}
+    font-size: 1rem;
+    margin-bottom: 1em; }
 
 p.sansSerif {
     font-family: 'Archivo';
