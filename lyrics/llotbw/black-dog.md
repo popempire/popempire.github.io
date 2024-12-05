@@ -22,7 +22,7 @@ Black Dog Blues
     She looked me in the eye, said, I'm sorry, don't you know?
     Your loving friend has said her last goodbye
 
-    Remember when you told me, you said you wish you was tree?
+    Remember when you told me, you said you wish you was a tree?
     Walking in the garden, said you wish you was a tree
     I should like to get to know you then—I'd sleep beneath your shade
     Soft breeze be the last thing that I hear
