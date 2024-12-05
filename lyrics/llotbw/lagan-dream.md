@@ -14,6 +14,10 @@ in northern Donegal County. English lyrics attributed to Joseph Campbell.
 
 Lewis Carroll, *Alice's Adventures in Wonderland*, chapter 2.
 
+A *leannan sidhe* in Irish folklore is a fairy-lover, a beautiful woman of the 
+fairy folk who would take a mortal lover. Those mortal lovers are known to live
+brief but highly inspired lives.
+
 ### Lyrics
 
     Where gentle tides go rolling by
