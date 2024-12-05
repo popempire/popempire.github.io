@@ -40,7 +40,7 @@ permalink: "songs/"
  + [Mother Earth](mother-earth)
  + [The Living End](living-end)
  + Black Dog Blues
- + Tom Dula
+ + [Tom Dula](tom-dula)
  + [Dying Silver Dagger Blues](silver-dagger.txt)
  + God's Grandeur
 
