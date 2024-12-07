@@ -22,6 +22,7 @@ Chords
 |suspended fourth   |{0,5,7}    |C<sup>sus</sup>|C<sup>4</sup>|
 |suspended second   |{0,2,7}    |C<sup>sus2</sup>|G<sup>sus</sup>/C|
 |                   |{0,7,10}   |C<sup>5(7)</sup>|
+|                   |{0,4,6}    |C(♭5)      |
 
 |Tetrads            |           |           |               |
 |-------------------|-----------|-----------|---------------|
@@ -35,6 +36,8 @@ Chords
 |add nine           |{0,2,4,7}  |C<sup>add9</sup>|C<sup>2</sup>|
 |suspended seventh  |{0,5,7,10} |C<sup>7sus</sup>|
 |                   |{0,2,7,10} |           |G-/C|
+|                   |{0,2,7,11} |           |G/C|
+
 
 |Pentads            |           |           |               |
 |-------------------|-----------|-----------|---------------|
