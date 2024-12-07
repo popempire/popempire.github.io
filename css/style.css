@@ -83,28 +83,29 @@ pre {
 
 div#container {
     padding:1em;
-    max-width: 100%;
-}
+    max-width: 100%; }
 
 div#title {
     margin:0 auto;
     width:800px;
     max-width:100%;
-    text-align:center;
-}
+    text-align:center; }
 div#title img {
     margin:0 auto;
     height:auto;
     width:auto;
     max-height:80px;
-    max-width:100%;
-}
+    max-width:100%; }
 
 div#main {
     margin:24px auto;
     padding:0 12px 48px;
     width:720px;
-    max-width:100%;
+    max-width:100%;}
+    
+@media screen and (min-width: 800px) {
+    div#main {
+        columns: 2;}
 }
 
 div#links {
