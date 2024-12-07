@@ -38,7 +38,7 @@ permalink: "songs/"
  + [Lagan Dream](LAGAN%20DREAM.txt)
  + Rock Me
  + [Mother Earth](mother-earth)
- + [The Living End](living-end)
+ + [The Living End]({% link songs/living-end.md %})
  + Black Dog Blues
  + [Tom Dula](tom-dula)
  + [Dying Silver Dagger Blues](silver-dagger.txt)
