@@ -30,12 +30,12 @@ Young Henry pts I & II
     --- verse 3 ---
     V   IV  I   I  
     IV  IV  I   I   I
-    V   IV  I   I   I   I
+    V   IV  I   I   i   i
     IV  IV  I   I   I
     --- verse 4 ---
     V   IV  I   I   I   I
     IV  IV  I   I   I
-    V   IV  I   I   I   I
+    V   IV  I   I   i   i
     IV  IV  I   I   I
 
 #### part ii ####
@@ -44,34 +44,40 @@ Young Henry pts I & II
     I   I   I   I
     I   I   I   I
 
-*modulate! +1*
+*modulate +1 and a little faster each verse!*
 
-    --- verse 5 ---
+    --- verse 5, 6, 7 ---
     V   ii7 I   I
     IV  IV  I   I   I
-    V   IV  I   I   I   I
+    V   IV  I   I   i   i
     IV  iv  I   I   I
 
-*modulate! +1*
-
-    --- verse 6 ---
-    V   ii7 I   I
-    IV  IV  I   I   I
-    V   IV  I   I   I   I
-    IV  iv  I   I   I
-
-*modulate! +1*
-
-    --- verse 7 ---
-    V   ii7 I   I
-    IV  IV  I   I   I
-    V   IV  I   I   I   I
-    IV  iv  I   I   I
-
-*modulate! +1*
+*modulate +1 and a litle faster*
 
     --- verse 8 ---
     V   ii7 I   I
     IV  IV  I   I   I
-    V   IV  I   I   I   I
+    V   IV  I   I   i   i
     IV  iv/1  <I>
+
+###
+
+    [G]Lie down, young [C]Hen[G]ry  
+    and [C]stay all night with [G]me  
+    The golden [C]cords a[G]round my bed  
+    shall [C]be supplied to [G]thee  
+
+    Oh no, I [C]can't lie [G]down  
+    nor [C]stay all night with [G]thee  
+    for I've got a [C]girl in the [G]sweet sunny South  
+    and [C]tonight she's waitin' up for [G]me  
+
+    He [D]leaned her up a[C]gainst the [G]wall  
+    and [C]kissed her there in the [G]dark  
+    [D]She wrapped her [C]arms all a[G]round and a[Gm]round  
+    and [C]stabbed him through his [G]heart  
+
+    [D]Lie there, false-[C]heart[G]ed Henry  
+    till the [C]flesh rot from your [G]bone  
+    [D]That little [C]girl in the [G]sweet sunny [Gm]South  
+    may [C]wait for you a[G]lone  
