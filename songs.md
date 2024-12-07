@@ -8,7 +8,7 @@ permalink: "songs/"
 
  + [Sweetest Thing](sweetest-thing.txt)
  + Psyche
- + [Calamity Jane](songs/calamity-jane.pdf)
+ + [Calamity Jane](calamity-jane)
  + Tribulations
  + Going Down
 
