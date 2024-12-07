@@ -1,7 +1,7 @@
 ---
 layout: blank
 permalink: songs/calamity-jane
-tags: song,chords,bass tab,gtr tab,TVBIA
+tags: [song, chords, bass tab, gtr tab, TVBIA]
 ---
 
 Calamity Jane
