@@ -60,7 +60,7 @@ Young Henry pts I & II
     V   IV  I   I   i   i
     IV  iv/1  <I>
 
-###
+### ChordPro ###
 
     [G]Lie down, young [C]Hen[G]ry  
     and [C]stay all night with [G]me  
