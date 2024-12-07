@@ -21,18 +21,20 @@ Chords
 |augmented          |{0,4,8}    |C+         |
 |suspended fourth   |{0,5,7}    |C<sup>sus</sup>|C<sup>4</sup>|
 |suspended second   |{0,2,7}    |C<sup>sus2</sup>|G<sup>sus</sup>/C|
+|                   |{0,7,10}   |C<sup>5(7)</sup>|
 
 |Tetrads            |           |           |               |
 |-------------------|-----------|-----------|---------------|
-|dominant seventh   |{0,4,7,10} |C<sup>7</sup>|E°/C, C/B♭|
-|major seventh      |{0,4,7,11} |C<sup>Δ7</sup>|E-/C, C/B|
-|minor seventh      |{0,3,7,10} |C-<sup>7</sup>|E♭/C, C-/B♭|
-|diminished seventh |{0,3,6,9}  |C°<sup>7</sup>|E♭°/C, C°/A|
-|half-diminished seventh|{0,3,6,10}|C<sup>7♭5</sup>|C<sup>Ø</sup>, E♭-/C, C°/B♭|
-|major sixth        |{0,4,7,9}  |C<sup>6</sup>|A-/C, A-<sup>7</sup>|
-|add nine           |{0,2,4,7}  |C<sup>add9</sup>|C<sup>2</sup>, C/D|
-|suspended seventh  |{0,5,7,10} |C<sup>7sus</sup>|F<sup>sus2</sup>/C|
-|                   |{0,2,7,10} |           |G/C|
+|dominant seventh   |{0,4,7,10} |C<sup>7</sup>|E°/C  |
+|major seventh      |{0,4,7,11} |C<sup>Δ7</sup>|E-/C |
+|minor seventh      |{0,3,7,10} |C-<sup>7</sup>|E♭/C |
+|minor major seventh|{0,3,7,11} |C-<sup>M7</sup>|E♭+/C|
+|diminished seventh |{0,3,6,9}  |C°<sup>7</sup>|E♭°/C|
+|half-diminished seventh|{0,3,6,10}|C<sup>7♭5</sup>|C<sup>Ø</sup>, E♭-/C|
+|major sixth        |{0,4,7,9}  |C<sup>6</sup>|A-<sup>7</sup>/C|
+|add nine           |{0,2,4,7}  |C<sup>add9</sup>|C<sup>2</sup>|
+|suspended seventh  |{0,5,7,10} |C<sup>7sus</sup>|
+|                   |{0,2,7,10} |           |G-/C|
 
 |Pentads            |           |           |               |
 |-------------------|-----------|-----------|---------------|
@@ -54,7 +56,7 @@ HTML entities and codes
 |&degree;       |°     |N  |
 |&amp;mdash;    |&mdash;|Y |
 |&amp;Oslash;   |Ø     |Y  |
-|&#x1D110;      |      |N  |
+|&amp;#x1D110;  |𝄐     |Y  |
 
 <p>
 &sharp;
