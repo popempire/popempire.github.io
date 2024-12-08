@@ -103,8 +103,8 @@ main, div#main {
     width:720px;
     max-width:100%;}
     
-.twoColumn {
-    @media (min-width: 800px) {
+@media (min-width: 800px) {
+    .twoColumn {
         columns: 2;}
     }
 
