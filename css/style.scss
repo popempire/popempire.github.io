@@ -103,10 +103,10 @@ main, div#main {
     width:720px;
     max-width:100%;}
     
-@media screen and (min-width: 800px) {
-    .2cols {
+.twoColumn {
+    @media (min-width: 800px) {
         columns: 2;}
-}
+    }
 
 nav, div#links {
     background-color: hsl(330,100%,60%);
