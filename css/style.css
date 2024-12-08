@@ -82,7 +82,7 @@ pre {
 /* ID-specific styles */
 
 div#container {
-    padding:1em;
+    padding: 1rem;
     max-width: 100%; }
 
 header {
@@ -97,14 +97,14 @@ header img {
     max-height:2.5rem;
     max-width:100%; }
 
-main, div#main {
-    margin:24px auto;
-    padding:0 12px 48px;
-    width:720px;
-    max-width:100%;}
+main {
+    margin: 1.5rem auto;
+    padding: 0 0.75rem 3rem;
+    max-width: 100%;}
     
 @media (min-width: 800px) {
     .twoColumn {
+
         columns: 2;}
     }
 
