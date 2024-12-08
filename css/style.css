@@ -58,12 +58,12 @@ h2 {font-family: "garamond-premier-pro", serif;
     font-weight: 400;
     font-style: italic;
     font-size: 2.25rem;
-    line-height: 3rem;}
+    line-height: 2.5rem;}
 
 h3 {font-family: "garamond-premier-pro", serif;
     font-weight:400;
     font-size: 1.75rem;
-    line-height: 3rem;
+    line-height: 2rem;
     font-variant-caps:small-caps;}
 
 h4 {font-family: "garamond-premier-pro", serif;
@@ -108,41 +108,28 @@ main {
         columns: 2;}
     }
 
-nav, div#links {
+nav {
     background-color: hsl(330,100%,60%);
-    padding:1em;
-    margin: 24px auto 40px;
-    max-width:640px; }
-div#links a div, nav a div {
+    padding: 1em;
+    margin: 1.5rem auto 2.5rem;
+    max-width: 72ch; }
+nav a div {
     border: solid 1px white;
     padding: 1em;
-    margin:1em;}
-div#links a div:hover, nav a div:hover {
+    margin: 1em;}
+nav a div:hover {
     background-color:white;}
-div#links a:visited, div#links a,
 nav a:visited, nav a {
     color:white;}
-div#links a:hover, nav a:hover {
+nav a:hover {
     color:black;}
-
-div.linkArea {
-    padding:1em;
-    margin: 0 auto 40px;
-    max-width:640px;}
 
 div.era {
     margin:0 auto;
     padding:0 10px 40px;
     clear:both;}
 
-div#footer {
-    min-height:60px;
-    font-size:10px;
-    text-align:right;
-    margin:60px auto;
-    width:100%;}
-
-#main p {
+main p {
     text-align: left;
     font-family:'garamond-premier-pro', 'Garamond', Garamond, serif;
     font-size: 1rem;
