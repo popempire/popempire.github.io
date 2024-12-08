@@ -108,20 +108,21 @@ div#main {
         columns: 2;}
 }
 
-div#links {
+nav, div#links {
     background-color: hsl(330,100%,60%);
     padding:1em;
     margin: 24px auto 40px;
     max-width:640px; }
-div#links a div {
+div#links a div, nav a div {
     border: solid 1px white;
     padding: 1em;
     margin:1em;}
-div#links a div:hover {
+div#links a div:hover, nav a div:hover {
     background-color:white;}
-div#links a:visited, div#links a {
+div#links a:visited, div#links a,
+nav a:visited, nav a {
     color:white;}
-div#links a:hover {
+div#links a:hover, nav a:hover {
     color:black;}
 
 div.linkArea {
