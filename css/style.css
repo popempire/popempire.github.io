@@ -94,17 +94,17 @@ header img {
     margin:0 auto;
     height:auto;
     width:auto;
-    max-height:80px;
+    max-height:2.5rem;
     max-width:100%; }
 
-div#main {
+main, div#main {
     margin:24px auto;
     padding:0 12px 48px;
     width:720px;
     max-width:100%;}
     
 @media screen and (min-width: 800px) {
-    div#main {
+    main, div#main {
         columns: 2;}
 }
 
