@@ -45,5 +45,5 @@ tags: index
  + [Dying Silver Dagger Blues](silver-dagger.txt)
  + God's Grandeur
 
-##### [organ registrations](hammond-reg-llotbw.html)  
+##### [organ registrations](../misc/hammond-reg-llotbw.html)  
 ##### [notation reference guide](reference)
