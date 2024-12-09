@@ -111,6 +111,8 @@ main {
 @media (min-width: 800px) {
     .twoColumn {
         columns: 2;}
+    .twoColumn section {
+      break-inside: avoid-column; }
     }
 
 nav {
