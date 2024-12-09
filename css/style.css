@@ -7,9 +7,6 @@ LITE PINK   hsl(330,100%,80%)
 TEAL        hsl(165,80%,60%)
 */
 
-h1, h2, h3, h4, h5, h6 {    /* override some defaults */
-    margin: 0 0 1rem;}
-
 html {
     font-size: 16px;}
 body {
@@ -46,6 +43,9 @@ img, iframe {
 
 hr {
     margin:10px 0;}
+
+h1, h2, h3, h4, h5, h6 {    /* override some defaults */
+    margin: 1rem;}
 
 h1 {
     font-family: "Archivo", sans-serif;
@@ -99,6 +99,8 @@ header img {
     width:auto;
     max-height:2.5rem;
     max-width:100%; }
+header h1 {
+    margin: 0; }
 
 footer {
     margin: 1rem auto 0; }
