@@ -1,5 +1,5 @@
 ---
-layout: default-2col
+layout: default
 title: "Pop Empire Song List"
 permalink: "songs/"
 tags: index
