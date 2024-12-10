@@ -85,6 +85,7 @@ pre {
 
 div#container {
     padding: 1rem;
+    margin: 0 auto;
     max-width: 85ch; }
 
 header {
@@ -105,8 +106,7 @@ footer {
 
 main {
     margin: 1.5rem auto;
-    padding: 0 0.75rem 3rem;
-    max-width: 100%;}
+    padding: 0 0.75rem 3rem; }
 
 @media (min-width: 800px) {
     .twoColumn {
