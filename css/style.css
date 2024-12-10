@@ -17,7 +17,7 @@ body {
     font-size:1rem;
     line-height:1.5rem;
     min-height:40rem;
-    width: 85ch;
+    max-width: 85ch;
     margin:0 auto;
     padding:0; }
 
