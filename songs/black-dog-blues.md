@@ -58,8 +58,8 @@ Black Dog Blues
 
     |C♯         |C♯         |BΔ7        |BΔ7        |
 
-    |F♯         |F♯         |F♯         |F♯         |
-
+    |F♯         |F♯         |F♯         |X          |
+                             ^
     ---verse 4---
 
     |F♯         |F♯         |F♯         |F♯         |
@@ -70,3 +70,4 @@ Black Dog Blues
 
     |F♯         |F♯         |F♯         |F♯         |
 
+    |<F♯>       |
