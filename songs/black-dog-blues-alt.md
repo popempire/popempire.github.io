@@ -32,13 +32,13 @@ Black Dog Blues
 
 #### verse 2
 
-    |F♯         |F♯         |F♯         |F♯         |
+    |F♯        |F♯        |F♯        |F♯        |
 
-    |B          |B          |B7        |F♯    |F♯   |
+    |B         |B         |B7        |F♯   |F♯  |
 
-    |C♯         |C♯         |BΔ7        |BΔ7        |
+    |C♯        |C♯        |BΔ7       |BΔ7       |
 
-    |F♯         |F♯         |F♯         |F♯         |
+    |F♯        |F♯        |F♯        |F♯        |
 
 #### verse 3
 
