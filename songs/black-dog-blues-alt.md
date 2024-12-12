@@ -60,6 +60,7 @@ Black Dog Blues
 
     |F♯         |F♯         |F♯         |X          |
                              ^
+
 #### verse 4
 
     F♯ ////  ////  ////  ////
