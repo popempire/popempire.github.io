@@ -37,7 +37,7 @@ tags: index
  + [Young Henry](young-henry)
  + [Preachin' The Devil](preachin-the-devil)
  + [Lagan Dream](LAGAN%20DREAM.txt)
- + Rock Me
+ + [Rock Me](rock-me)
  + [Mother Earth](mother-earth)
  + [The Living End]({% link songs/living-end.md %})
  + [Black Dog Blues](/songs/black-dog/)
