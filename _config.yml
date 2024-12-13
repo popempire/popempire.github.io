@@ -1,1 +1,6 @@
 name: Pop Empire
+
+collections:
+
+  chords:
+    output: true
