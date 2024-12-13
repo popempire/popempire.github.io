@@ -40,7 +40,7 @@ tags: index
  + [Rock Me](rock-me)
  + [Mother Earth](mother-earth)
  + [The Living End]({% link songs/living-end.md %})
- + [Black Dog Blues](/songs/black-dog/)
+ + [Black Dog Blues](/songs/black-dog/) ([*](/songs/black-dog-alt/))
  + [Tom Dula](tom-dula)
  + [Dying Silver Dagger Blues](silver-dagger.txt)
  + God's Grandeur
