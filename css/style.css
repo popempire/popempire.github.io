@@ -115,6 +115,8 @@ main {
         columns: 2;}
     .twoColumn section, .twoColumn pre {
       break-inside: avoid-column; }
+    .twoColumn::first-line {
+        line-height: 1em; }
     }
 
 nav {
