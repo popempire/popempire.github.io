@@ -22,7 +22,7 @@ tags: index
  + [Riding the Crest](RIDING%20THE%20CREST.txt)
  + Black Wine
  + Real Good Love
- + Nightwalking
+ + [Nightwalking](/songs/nightwalking/)
  + Fool All Over
 
 ### *Future Blues* ###
