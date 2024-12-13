@@ -75,11 +75,11 @@ Young Henry pts I & II
 
     He [D]leaned her up a[C]gainst the [G]wall  
     and [C]kissed her there in the [G]dark  
-    [D]She wrapped her [C]arms all a[G]round and a[Gm]round  
+    [D]She wrapped her [C]arms all a[G]round and a[G-]round  
     and [C]stabbed him through his [G]heart  
 
     [D]Lie there, false-[C]heart[G]ed Henry  
     till the [C]flesh rot from your [G]bone  
-    [D]That little [C]girl in the [G]sweet sunny [Gm]South  
+    [D]That little [C]girl in the [G]sweet sunny [G-]South  
     may [C]wait for you a[G]lone  
 ```
