@@ -23,7 +23,7 @@ body {
 
 @media print {
     body {
-        margin: 0 0.5in;
+        margin: 0 0.25in;
         background-color: #fff;
         color:#000; }
     footer {
