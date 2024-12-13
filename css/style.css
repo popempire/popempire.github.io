@@ -80,6 +80,7 @@ ul, ol {
 pre {
     text-align: left;
     /*margin-left: 4em;*/
+    line-height: 1rem;
     font-size: 0.833rem; }
 
 /* ID-specific styles */
