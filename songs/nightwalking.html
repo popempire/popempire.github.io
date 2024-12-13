@@ -8,6 +8,6 @@ permalink: /songs/nightwalking/
 <h3>Chords</h3>
 
 <div class="twoColumn">
-  {%- assign chords = site.chords | where 'name', 'nightwalking' -%}
+  {%- assign chords = site.chords | where 'slug', 'nightwalking' -%}
   {{- chords[0].content -}}
 </div>
