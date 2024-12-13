@@ -9,5 +9,7 @@ permalink: /songs/nightwalking/
 
 <div class="twoColumn">
   {%- assign chords = site.chords | where 'slug', 'nightwalking' -%}
-  {{- chords[0].content -}}
+  {% for theChords in chords %}
+    {{- theChords.content -}}
+  {% endfor %}
 </div>
