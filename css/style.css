@@ -110,7 +110,7 @@ main {
     margin: 1rem auto;
     padding: 0 0.5rem 2rem; }
 
-@media (min-width: 800px) {
+@media print, (min-width: 800px) {
     .twoColumn {
         columns: 2;}
     .twoColumn section, .twoColumn pre {
