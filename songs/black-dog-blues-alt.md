@@ -14,7 +14,7 @@ Black Dog Blues
 
     |C♯        |C♯        |BΔ7       |BΔ7       |
 
-    |F♯        |F♯        |F♯        |F♯        |
+    |F♯        |F♯        |F♯        |F♯        |F♯        |
 
 *full band*
 
