@@ -4,3 +4,4 @@ collections:
 
   chords:
     output: true
+    permalink: /chords/:name
