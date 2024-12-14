@@ -8,7 +8,7 @@ Rock Me
 
 ### Chords ###
 
-{%- include chords.html slug="rock-me" -%}
+{% include chords.html slug="rock-me" %}
 
 ### Bass Tab ###
 
