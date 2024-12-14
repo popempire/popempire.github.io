@@ -21,7 +21,7 @@ tags: index
  + For Maggie
  + [Riding the Crest](RIDING%20THE%20CREST.txt)
  + Black Wine
- + Real Good Love
+ + [Real Good Love](real-good-love)
  + [Nightwalking](/songs/nightwalking/)
  + Fool All Over
 
