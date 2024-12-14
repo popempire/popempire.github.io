@@ -16,7 +16,9 @@ permalink: /songs/real-good-love/
       pre b { font-size: 1.5em; letter-spacing: -0.25em; }
       .chords { font-size:200%; font-weight: bold; height: 2.5rem; }
       .lyrics { color: #666; letter-spacing: 0.5ch; }
-      .line section { display:inline; float:left; }
+      .line section, .line div.bar { display:inline; float:left; }
+      .line div.bar { border-right: 2pt solid black; }
+      .line div.bar:first-child { border-left: 2pt solid black; }
       @media print {
         body { margin-left: 0.5in; }
       }
@@ -73,6 +75,41 @@ permalink: /songs/real-good-love/
       <b>D</b><sup>5</sup>        <b>F</b>     <b>D</b><sup>5</sup>        <b>F</b>
       ////  //  ////  ////  //  ////
     </pre>
+
+    <div class="songPart">
+      <div class="line">
+        <div class="bar">
+          <div class="chords">D<sub>5</sub></div>
+          <div class="lyrics"></div>
+          <div class="rhythm">////</div>
+        </div>
+        <div class="bar">
+          <div class="chords"></div>
+          <div class="lyrics"></div>
+          <div class="rhythm">//</div>
+        </div>
+        <div class="bar">
+          <div class="chords">F</div>
+          <div class="lyrics"></div>
+          <div class="rhythm">////</div>
+        </div>
+        <div class="bar">
+          <div class="chords">D<sub>5</sub></div>
+          <div class="lyrics"></div>
+          <div class="rhythm">////</div>
+        </div>
+        <div class="bar">
+          <div class="chords"></div>
+          <div class="lyrics"></div>
+          <div class="rhythm">//</div>
+        </div>
+        <div class="bar">
+          <div class="chords">F</div>
+          <div class="lyrics"></div>
+          <div class="rhythm">////</div>
+        </div>
+      </div>
+    </div>
 
   </body>
 </html>
