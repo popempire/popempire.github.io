@@ -17,9 +17,9 @@ permalink: /songs/real-good-love/
       .chords, .chordChart b { font-size:200%; font-weight: bold; height: 2.5rem; }
       .lyrics, .rhythm, .chordChart i { color: #666; letter-spacing: 0.5ch; }
       .line { clear: both; }
-      .line section, div.line>div, .chordChart>div div { display:inline; float:left; }
-      .line div.bar, .chordChart>div div { border-right: 2pt solid black; padding: 0 1ch; }
-      .line div.bar:first-child, .chordChart>div div:first-child { border-left: 2pt solid black; }
+      .line section, div.line>div, .chordChart section>div { display:inline; float:left; }
+      .line div.bar, .chordChart section>div { border-right: 2pt solid black; padding: 0 1ch; }
+      .line div.bar:first-child, .chordChart section>div:first-child { border-left: 2pt solid black; }
       .line div.bar span, .chordChart span { display:inline;float:left; }
       .chordChart b, .chordChart i { display:block;}
       .chordChart>div, .chordChart section>div { clear:both; }
@@ -141,14 +141,12 @@ permalink: /songs/real-good-love/
     </div>
 
     <div class="chordChart">
-      <section>   <!-- song section -->
-        <div>           <!-- line -->
-          <div>             <!-- measure/bar -->
-            <span>          <!-- partial measure chord section -->
-              <b>C<sub>7</sub></b>     <!-- chord name -->
-              <i>////</i>    <!-- rhythmic value -->
-            </span>
-          </div>
+      <section>   <!-- line -->
+        <div>             <!-- measure/bar -->
+          <span>          <!-- partial measure chord section -->
+            <b>C<sub>7</sub></b>     <!-- chord name -->
+            <i>////</i>    <!-- rhythmic value -->
+          </span>
         </div>
       </section>
     </div>
