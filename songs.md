@@ -10,7 +10,7 @@ tags: index
  + [Sweetest Thing](sweetest-thing.txt)
  + Psyche
  + [Calamity Jane](calamity-jane)
- + Tribulations
+ + [Tribulations](tribulations)
  + Going Down
 
 ### *Novena* era ###
