@@ -12,32 +12,17 @@ permalink: /songs/real-good-love/
       table { border-spacing: 0; border-collapse: collapse; }
       /*td { padding-right: 1rem; }*/
       sub, sup { font-size: 1.2rem;}
-      .chords { font-size:200%; }
-      span.chord { display:table-cell; width: 6ch; font-weight: bold; position:relative; }
-      .chords small, .chords sup, .chords sub { font-size: 50%; }
-      .chord sup { position:absolute; left:0; top:0;}
-      .chord { border-left: 2pt solid black; border-right: 2pt solid black;
-        margin:0; height: 1.5em; }
+      .chords { font-size:200%; font-weight: bold; }
+      .line section { display:inline; float:left; }
       @media print {
         body { margin-left: 0.5in; }
       }
     </style>
   </head>
   <body>
-    
-    <div class="chords">
-      <div style="display:table-row;">
-        <span class="chord">D</span>
-        <span class="chord">(D<sub>5</sub>)<sup>//</sup></span>
-        <span class="chord">F</span>
-        <span class="chord">D</span>
-        <span class="chord"><u>D<sub>5</sub></u></span>
-        <span class="chord">F</span>
-      </div>
-    </div>
 
     <table>
-      <tr style="font-size:200%;font-weight: bold;">
+      <tr class="chords">
         <td></td>
         <td>D<sub>5</sub></td>
         <td></td>
@@ -51,6 +36,25 @@ permalink: /songs/real-good-love/
         <td>//// &nbsp;</td><td>// &nbsp;</td><td>//// &nbsp;</td>
       </tr>
     </table>
+
+    <div class="line">
+      <section>
+        <div class="chords">D<sub>5</sub></div>
+        <div class="lyrics">////&nbsp;&nbsp;//&nbsp;&nbsp;</div>
+      </section>
+      <section>
+        <div class="chords">F</div>
+        <div class="lyrics">//// &nbsp;</div>
+      </section>
+      <section>
+        <div class="chords">D<sub>5</sub></div>
+        <div class="lyrics">////&nbsp;&nbsp;//&nbsp;&nbsp;</div>
+      </section>
+      <section>
+        <div class="chords">F</div>
+        <div class="lyrics">//// &nbsp;</div>
+      </section>
+    </div>
 
   </body>
 </html>
