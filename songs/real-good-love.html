@@ -9,22 +9,28 @@ permalink: /songs/real-good-love/
     <style type="text/css">
       html { font-size: 10pt; font-family: monospace; }
       body { width: 96ch; }
-      table.chordChart { border-spacing: 0 1em; border-collapse: separate; }
-      sub, sup { font-size: 1.2rem;}
-      sup+sub, sub+sup { position:relative; left: -1ch; }
+
       pre sub, pre sup { font-size:0.75em; }
       pre b { font-size: 1.5em; }
-      .chords, .chordChart b { font-size:200%; font-weight: bold; height: 2.5rem; }
-      .lyrics, .rhythm, .chordChart i { color: #666; letter-spacing: 0.5ch; }
-      .line, .chordChart section, .chordChart { clear: both; }
-      .line section, div.line>div, .chordChart section>div { display:inline; float:left; }
-      .line div.bar, .chordChart section>div { border-right: 2pt solid black; padding: 0 1ch; }
-      .line div.bar:first-child, .chordChart section>div:first-child { border-left: 2pt solid black; }
-      .line div.bar span, .chordChart span { display:inline;float:left; }
+
+      table.chordChart { border-spacing: 0 1em; border-collapse: separate; clear:both; }
+      sub, sup { font-size: 75%;}
+      sup+sub, sub+sup { position:relative; left: -1ch; }f
+      
+      .chord, .chordChart b { font-size:200%; font-weight: bold; height: 2.5rem; }
+      .lyric, .rhythm, .chordChart i { color: #aaa; letter-spacing: 0.5ch; }
       .chordChart b, .chordChart i { display:block;}
-      /*table.chordChart, table.chordChart tr { display: block; }*/
+
+      div.bar span, .chordChart td span { display:inline;float:left; }
+
+      .line, .chordChart>div { clear: both; }
+      .line>div, .chordChart>div>div { display:inline; float:left; }
+      .line div.bar, .chordChart>div>div { border-right: 2pt solid black; padding: 0 1ch; }
+      .line div.bar:first-child, .chordChart>div>div:first-child { border-left: 2pt solid black; }
+
       table.chordChart td { /*display:inline; float:left;*/ border-right: 2pt solid black; padding: 0 1ch; }
       table.chordChart td:first-child { border-left: 2pt solid black; }
+
       @media print {
         body { margin-left: 0.5in; }
       }
@@ -32,57 +38,12 @@ permalink: /songs/real-good-love/
   </head>
   <body>
 
-    <table>
-      <tr class="chords">
-        <td></td>
-        <td>D<sub>5</sub></td>
-        <td></td>
-        <td>F</td>
-        <td>D<sub>5</sub></td>
-        <td></td>
-        <td>F</td>
-      </tr>
-      <tr class="lyrics">
-        <td>| </td><td>//// |&nbsp;</td><td>// |&nbsp;</td><td>//// |&nbsp;</td>
-        <td>//// &nbsp;</td><td>// &nbsp;</td><td>//// &nbsp;</td>
-      </tr>
-    </table>
-
-    <div class="line">
-      <section>
-        <div class="chords">D<sub>5</sub></div>
-        <div class="lyrics">////&nbsp;&nbsp;</div>
-      </section>
-      <section>
-        <div class="chords"></div>
-        <div class="lyrics">//&nbsp;&nbsp;</div>
-      </section>
-      <section>
-        <div class="chords">F</div>
-        <div class="lyrics">//// &nbsp;</div>
-      </section>
-      <section>
-        <div class="chords">D<sub>5</sub></div>
-        <div class="lyrics">////&nbsp;&nbsp;</div>
-      </section>
-      <section>
-        <div class="chords"></div>
-        <div class="lyrics">//&nbsp;&nbsp;</div>
-      </section>
-      <section>
-        <div class="chords">F</div>
-        <div class="lyrics">//// &nbsp;</div>
-      </section>
-    </div>
-
-    <hr style="clear:both;">
-
     <pre>
       <b>D</b><sup>5</sup>        <b>F</b>     <b>D</b><sup>5</sup>        <b>F</b>
       ////  //  ////  ////  //  ////
     </pre>
 
-    <div class="songPart">
+    <div class="chordChart">
       <div class="line">
         <div class="bar">
           <div class="chords">D<sub>5</sub></div>
@@ -139,26 +100,6 @@ permalink: /songs/real-good-love/
           <div class="rhythm">////</div>
         </div>
       </div>
-    </div>
-
-    <div class="chordChart">
-      <section>   <!-- line -->
-        <div>             <!-- measure/bar -->
-          <span>          <!-- partial measure chord section -->
-            <b>C<sub>7</sub></b>     <!-- chord name -->
-            <i>////</i>    <!-- rhythmic value -->
-          </span>
-        </div>
-      </section>
-    </div>
-
-    <div class="chordChart">
-      <section>
-        <div><b>D<sub>6</sub></b><i>....</i></div>
-        <div><b></b><i>....</i></div>
-        <div><span><b>G</b><i>..</i></span><span><b>G<sub>-7</sub></b><i>..</i></span></div>
-        <div><b>D<sub>6</sub></b><i>....</i></div>
-      </section>
     </div>
 
     <table class="chordChart">
