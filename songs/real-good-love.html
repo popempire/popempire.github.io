@@ -13,23 +13,24 @@ permalink: /songs/real-good-love/
       pre sub, pre sup { font-size:0.75em; }
       pre b { font-size: 1.5em; }
 
-      table.chordChart { border-spacing: 0 1em; border-collapse: separate; clear:both; }
       sub, sup { font-size: 75%;}
-      sup+sub, sub+sup { position:relative; left: -1ch; }f
-      
-      .chord, .chordChart b { font-size:200%; font-weight: bold; height: 2.5rem; }
-      .lyrics, .rhythm, .chordChart i { color: #aaa; letter-spacing: 0.5ch; }
-      .chordChart b, .chordChart i { display:block;}
+      sup+sub, sub+sup { position:relative; left: -1ch; }
+
+      .chord, .chordChart b { display:block; font-size:200%; font-weight: bold; height: 2.5rem; }
+      .lyrics, .rhythm, .chordChart i { display:block; color: #aaa; letter-spacing: 0.5ch; }
 
       div.bar span, .chordChart td span { display:inline;float:left; }
 
+      table.chordChart { border-spacing: 0 1em; border-collapse: separate; clear:both; }
+      table.chordChart td { /*display:inline; float:left;*/ border-right: 2pt solid black; padding: 0 1ch; }
+      table.chordChart td:first-child { border-left: 2pt solid black; }
+      
       .line, .chordChart>div { clear: both; }
       .line>div, .chordChart>div>div { display:inline; float:left; }
       .line div.bar, .chordChart>div>div { border-right: 2pt solid black; padding: 0 1ch; }
       .line div.bar:first-child, .chordChart>div>div:first-child { border-left: 2pt solid black; }
 
-      table.chordChart td { /*display:inline; float:left;*/ border-right: 2pt solid black; padding: 0 1ch; }
-      table.chordChart td:first-child { border-left: 2pt solid black; }
+      
 
       @media print {
         body { margin-left: 0.5in; }
