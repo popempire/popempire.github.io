@@ -22,7 +22,7 @@ div.bar span, .chordChart td span { display:inline;float:left; }
 table.chordChart { border-spacing: 0 1em; border-collapse: separate; }
 table.chordChart td { /*display:inline; float:left;*/ 
   border-right: 1pt solid black; padding: 0 1ch; }
-table.chordChart td:first-child { border-left: 1pt solid black; }
+table.chordChart tr td:first-of-type { border-left: 1pt solid black; }
 @media screen {
   table.chordChart td {border-color: white;}
 }
