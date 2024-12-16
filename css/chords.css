@@ -7,10 +7,6 @@
 .chordChart pre sub, .chordChart pre sup, pre.chordChart sub, pre.chordChart sup {
   font-size:1em; }
 
-.chordChart small {
-  font-stretch: condensed;
-  font-size: smaller; }
-
 /* SECTION TITLES / LABELS */
 table.chordChart th, div.chordChart div.label { 
   font-weight: bold; text-align: center;
@@ -26,6 +22,10 @@ table.chordChart th, div.chordChart div.label {
   position:relative; left: -1ch; }
 .lyrics, .rhythm, .chordChart i { 
   display:block; font-size:9pt; color: #aaa; letter-spacing: 1ch; height:0.5rem; }
+
+/* SMALL chords */
+.chordChart small {
+  font-stretch: extra-condensed; font-size: smaller; font-weight: normal;}
 
 /* LINE / CHORD AREA styling */
 table.chordChart { border-spacing: 0 1em; border-collapse: separate; }
