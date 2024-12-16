@@ -15,7 +15,7 @@ table.chordChart th, div.chordChart div.label {
   color:#000; background-color:hsl(330,100%,80%); }
 
 /* CHORD styling */
-.chord, .chordChart b { display:block;
+.chord, .chordChart b { display:block; position: relative;
   font-size:140%; font-weight: bold; height: 1.5rem; }
 .chord sub, .chord sup, .chordChart b sub, .chordChart b sup { 
   font-size: 75%;}
