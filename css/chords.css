@@ -7,8 +7,9 @@
 .chordChart pre sub, .chordChart pre sup, pre.chordChart sub, pre.chordChart sup {
   font-size:1em; }
 
-table.chordChart th, div.chordChart header { 
+table.chordChart th, div.chordChart div.label { 
   font-weight: bold; text-align: center;
+  display:block; width:100%;
   color:#000; background-color:hsl(330,100%,80%); }
 
 /* CHORD styling */
