@@ -50,3 +50,12 @@ div.bar:first-of-type, div.line>div:first-of-type, div.chordChart>div>div:first-
 .chordChart.narrow div.line>div, 
 .chordChart.narrow div.chordChart>div>div {
   padding-left: 0.5ch; }
+
+/* WIDE styling */
+.chordChart.wide i, .chordChart.wide .lyrics, .chordChart.wide .rhythm {
+  letter-spacing: 1.5ch; }
+.chordChart.wide td,
+.chordChart.wide div.bar, 
+.chordChart.wide div.line>div, 
+.chordChart.wide div.chordChart>div>div {
+  padding-left: 1.5ch; }
