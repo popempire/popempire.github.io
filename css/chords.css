@@ -9,6 +9,7 @@
 
 table.chordChart th { color:#000; background-color:hsl(330,100%,80%); text-align: center;}
 
+/* CHORD styling */
 .chord, .chordChart b { display:block;
   font-size:140%; font-weight: bold; height: 1.5rem; }
 .chord sub, .chord sup, .chordChart b sub, .chordChart b sup { 
@@ -18,16 +19,13 @@ table.chordChart th { color:#000; background-color:hsl(330,100%,80%); text-align
 .lyrics, .rhythm, .chordChart i { 
   display:block; font-size:9pt; color: #aaa; letter-spacing: 1ch; height:0.5rem; }
 
-.chordChart.narrow i, .chordChart.narrow .lyrics, .chordChart.narrow .rhythm {
-  letter-spacing: 0; }
-
-div.bar span, .chordChart td span { display:inline;float:left; }
-
-div.bar, div.line>div, div.chordChart>div>div { display:inline; float:left; }
-
+/* LINE / CHORD AREA styling */
 table.chordChart { border-spacing: 0 1em; border-collapse: separate; }
 div.line, div.chordChart>div { padding:1em 0; clear: both; }
 
+/* MEASURE/BAR styling */
+div.bar, div.line>div, div.chordChart>div>div { display:inline; float:left; }
+div.bar>span, .chordChart td>span { display:inline;float:left; }
 table.chordChart td,
 div.bar, div.line>div, div.chordChart>div>div { /*display:inline; float:left;*/ 
   border-right: 1pt solid;
@@ -36,6 +34,11 @@ table.chordChart tr td:first-of-type,
 div.bar:first-of-type, div.line>div:first-of-type, div.chordChart>div>div:first-of-type
  { border-left: 1pt solid;}
 
-
-
-  
+/* NARROW styling */
+.chordChart.narrow i, .chordChart.narrow .lyrics, .chordChart.narrow .rhythm {
+  letter-spacing: 0.5ch; }
+.chordChart.narrow td,
+.chordChart.narrow div.bar, 
+.chordChart.narrow div.line>div, 
+.chordChart.narrow div.chordChart>div>div {
+  padding-left: 0.5ch; }
