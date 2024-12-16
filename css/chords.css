@@ -8,9 +8,10 @@
   font-size:1em; }
 
 /* SECTION TITLES / LABELS */
+div.chordChart div.label { 
+  display:block; width:100%; padding:0; }
 table.chordChart th, div.chordChart div.label { 
   font-weight: bold; text-align: center;
-  display:block; width:100%; padding:0;
   color:#000; background-color:hsl(330,100%,80%); }
 
 /* CHORD styling */
@@ -25,7 +26,7 @@ table.chordChart th, div.chordChart div.label {
 
 /* SMALL chords */
 .chordChart small {
-  font-size: 9pt; font-stretch: ultra-condensed; letter-spacing: -0.2ch; font-weight: normal;}
+  font-size: 10pt; font-stretch: ultra-condensed; letter-spacing: -0.2ch; font-weight: normal;}
 
 /* LINE / CHORD AREA styling */
 table.chordChart { border-spacing: 0 1em; border-collapse: separate; }
