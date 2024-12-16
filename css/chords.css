@@ -22,8 +22,8 @@ div.bar span, .chordChart td span { display:inline;float:left; }
 
 table.chordChart { border-spacing: 0 1em; border-collapse: separate; }
 table.chordChart td { /*display:inline; float:left;*/ 
-  border-right: 1pt solid black; padding: 0 1ch; }
-table.chordChart tr td:first-of-type { border-left: 1pt solid black; }
+  border-right: 1pt solid; padding: 0 1ch; }
+table.chordChart tr td:first-of-type { border-left: 1pt solid;}
 @media screen {
   table.chordChart td {border-color: white;}
 }
@@ -33,7 +33,7 @@ table.chordChart tr td:first-of-type { border-left: 1pt solid black; }
 
 .line, .chordChart>div { clear: both; padding:1em 0; }
 div.bar, .line>div, .chordChart>div>div { display:inline; float:left; 
-  border-right: 1pt solid black; padding: 0 1ch; }
+  border-right: 1pt solid; padding: 0 1ch; }
 div.bar:first-child, .line>div:first-child, .chordChart>div>div:first-child { 
-  border-left: 1pt solid black; }
+  border-left: 1pt solid; }
   
