@@ -1,12 +1,13 @@
 .chordChart { font-size: 10pt; 
   font-family: "Consolas", Consolas, "Inconsolata", monospace;
+  text-align: left;
   clear:both;
   break-inside: avoid; }
 
 .chordChart pre sub, .chordChart pre sup, pre.chordChart sub, pre.chordChart sup {
   font-size:1em; }
 
-table.chordChart th { color:#000; background-color:hsl(330,100%,80%);}
+table.chordChart th { color:#000; background-color:hsl(330,100%,80%); text-align: center;}
 
 .chord, .chordChart b { display:block;
   font-size:140%; font-weight: bold; height: 1.5rem; }
