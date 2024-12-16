@@ -14,16 +14,19 @@ permalink: /songs/real-good-love/
       .chordChart sub, .chordChart sup { font-size: 75%;}
       .chordChart sup+sub, .chordChart sub+sup { position:relative; left: -1ch; }
 
-      .chord, .chordChart b { display:block; font-size:140%; font-weight: bold; height: 2rem; }
-      .lyrics, .rhythm, .chordChart i { display:block; color: #aaa; letter-spacing: 1ch; }
+      .chord, .chordChart b { display:block;
+        font-size:140%; font-weight: bold; height: 1.5rem; }
+      .lyrics, .rhythm, .chordChart i { display:block;
+        color: #aaa; letter-spacing: 1ch; height:0.5rem; }
 
       div.bar span, .chordChart td span { display:inline;float:left; }
 
-      table.chordChart { border-spacing: 0 1em; border-collapse: separate; clear:both; }
+      table.chordChart { border-spacing: 0 1em; border-collapse: separate; }
       table.chordChart td { /*display:inline; float:left;*/ 
         border-right: 1pt solid black; padding: 0 1ch; }
       table.chordChart td:first-child { border-left: 1pt solid black; }
       
+      .chordChart { clear:both; }
       .line, .chordChart>div { clear: both; padding:1em 0; }
       div.bar, .line>div, .chordChart>div>div { display:inline; float:left; 
         border-right: 1pt solid black; padding: 0 1ch; }
