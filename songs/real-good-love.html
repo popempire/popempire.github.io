@@ -7,7 +7,7 @@ permalink: /songs/real-good-love/
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <style type="text/css">
-      html { font-size: 10pt; font-family: monospace; }
+      html { font-size: 10pt; font-family: "Consolas", Consolas, "Inconsolata", monospace; }
       body { width: 96ch; }
 
       pre sub, pre sup { font-size:1em; }
@@ -21,13 +21,15 @@ permalink: /songs/real-good-love/
       div.bar span, .chordChart td span { display:inline;float:left; }
 
       table.chordChart { border-spacing: 0 1em; border-collapse: separate; clear:both; }
-      table.chordChart td { /*display:inline; float:left;*/ border-right: 2pt solid black; padding: 0 1ch; }
+      table.chordChart td { /*display:inline; float:left;*/ 
+        border-right: 2pt solid black; padding: 0 1ch; }
       table.chordChart td:first-child { border-left: 2pt solid black; }
       
       .line, .chordChart>div { clear: both; }
-      .line>div, .chordChart>div>div { display:inline; float:left; }
-      .line div.bar, .chordChart>div>div { border-right: 2pt solid black; padding: 0 1ch; }
-      .line div.bar:first-child, .chordChart>div>div:first-child { border-left: 2pt solid black; }
+      div.bar, .line>div, .chordChart>div>div { display:inline; float:left; 
+        border-right: 2pt solid black; padding: 0 1ch; }
+      div.bar:first-child, .line>div:first-child, .chordChart>div>div:first-child { 
+        border-left: 2pt solid black; }
 
       
 
