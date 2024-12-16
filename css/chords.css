@@ -28,7 +28,7 @@ div.line, div.chordChart>div { padding:1em 0; clear: both; }
 table.chordChart td,
 div.bar, div.line>div, div.chordChart>div>div { /*display:inline; float:left;*/ 
   border-right: 1pt solid;
-  padding-left: 1ch; min-width: 4ch; }
+  padding-left: 1ch; min-width: 4ch; vertical-align: center;}
 table.chordChart tr td:first-of-type,
 div.bar:first-of-type, div.line>div:first-of-type, div.chordChart>div>div:first-of-type
  { border-left: 1pt solid;}
