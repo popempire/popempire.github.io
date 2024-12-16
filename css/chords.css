@@ -25,7 +25,7 @@ table.chordChart th, div.chordChart div.label {
 
 /* SMALL chords */
 .chordChart small {
-  font-stretch: extra-condensed; font-size: smaller; font-weight: normal;}
+  font-size: smaller; font-stretch: ultra-condensed; letter-spacing: -0.2ch; font-weight: normal;}
 
 /* LINE / CHORD AREA styling */
 table.chordChart { border-spacing: 0 1em; border-collapse: separate; }
