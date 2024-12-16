@@ -7,7 +7,9 @@ permalink: /songs/real-good-love/
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <style type="text/css">
-
+        .marcato::before {
+          content: "<span style='position:absolute; top:0.5em;'>^</span>";
+        }
     </style>
     <link type="text/css" href="{{ site.url }}/css/chords.css" rel="stylesheet">
   </head>
@@ -79,8 +81,7 @@ permalink: /songs/real-good-love/
           </span>
         </div>
         <div class="bar">
-          <div class="chord">
-            <span style="position:absolute; top:0;">^</span>
+          <div class="chord marcato">
             D<sub>6</sub></div>
           <div class="rhythm">////</div>
         </div>
