@@ -1,6 +1,7 @@
 .chordChart { font-size: 10pt; 
   font-family: "Consolas", Consolas, "Inconsolata", monospace;
-  clear:both; }
+  clear:both;
+  break-inside: avoid; }
 
 .chordChart pre sub, .chordChart pre sup, pre.chordChart sub, pre.chordChart sup {
   font-size:1em; }
