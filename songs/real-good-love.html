@@ -7,15 +7,20 @@ permalink: /songs/real-good-love/
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <style type="text/css">
-      html { font-size: 10pt; font-family: "Consolas", Consolas, "Inconsolata", monospace; }
-      body { width: 96ch; }
 
-      pre sub, pre sup { font-size:1em; }
-      .chordChart sub, .chordChart sup { font-size: 75%;}
-      .chordChart sup+sub, .chordChart sub+sup { position:relative; left: -1ch; }
+      .chordChart { font-size: 10pt; 
+        font-family: "Consolas", Consolas, "Inconsolata", monospace;
+        clear:both; }
+
+      .chordChart pre sub, .chordChart pre sup, pre.chordChart sub, pre.chordChart sup {
+        font-size:1em; }
 
       .chord, .chordChart b { display:block;
         font-size:140%; font-weight: bold; height: 1.5rem; }
+      .chord sub, .chord sup, .chordChart b sub, .chordChart b sup { 
+        font-size: 75%;}
+      .chord sup+sub, .chord sub+sup, .chordChart b sup+sub, .chordChart b sub+sup {
+         position:relative; left: -1ch; }
       .lyrics, .rhythm, .chordChart i { display:block;
         color: #aaa; letter-spacing: 1ch; height:0.5rem; }
 
@@ -26,7 +31,6 @@ permalink: /songs/real-good-love/
         border-right: 1pt solid black; padding: 0 1ch; }
       table.chordChart td:first-child { border-left: 1pt solid black; }
       
-      .chordChart { clear:both; }
       .line, .chordChart>div { clear: both; padding:1em 0; }
       div.bar, .line>div, .chordChart>div>div { display:inline; float:left; 
         border-right: 1pt solid black; padding: 0 1ch; }
