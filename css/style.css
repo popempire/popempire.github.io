@@ -191,3 +191,15 @@ main p {
 
 small, .smallerText {
     font-size: 50%; }
+
+/* CONDITIONAL STYLES FOR CHORD CHARTS */
+@media screen {
+    table.chordChart td,
+    div.bar, div.line>div, div.chordChart>div>div
+        {border-color: white;}
+    }
+@media print {
+    table.chordChart td,
+    div.bar, div.line>div, div.chordChart>div>div
+        { border-color: black;}
+    } 
