@@ -6,6 +6,8 @@
 .chordChart pre sub, .chordChart pre sup, pre.chordChart sub, pre.chordChart sup {
   font-size:1em; }
 
+table.chordChart th { color:#000; background-color:hsl(330,100%,80%);}
+
 .chord, .chordChart b { display:block;
   font-size:140%; font-weight: bold; height: 1.5rem; }
 .chord sub, .chord sup, .chordChart b sub, .chordChart b sup { 
