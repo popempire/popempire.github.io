@@ -14,9 +14,9 @@ table.chordChart th { color:#000; background-color:hsl(330,100%,80%); text-align
 .chord sub, .chord sup, .chordChart b sub, .chordChart b sup { 
   font-size: 75%;}
 .chord sup+sub, .chord sub+sup, .chordChart b sup+sub, .chordChart b sub+sup {
-   position:relative; left: -1ch; }
-.lyrics, .rhythm, .chordChart i { display:block;
-  color: #aaa; letter-spacing: 1ch; height:0.5rem; }
+  position:relative; left: -1ch; }
+.lyrics, .rhythm, .chordChart i { 
+  display:block; font-size:9pt; color: #aaa; letter-spacing: 1ch; height:0.5rem; }
 
 .chordChart.narrow i, .chordChart.narrow .lyrics, .chordChart.narrow .rhythm {
   letter-spacing: 0; }
