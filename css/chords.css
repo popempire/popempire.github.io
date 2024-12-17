@@ -137,5 +137,5 @@ pre.chordChart {
   letter-spacing: inherit; }
 pre.chordChart b, pre.chordChart i {
   font-size: 1em;
-  letter-spacing: normal;
+  letter-spacing: normal; margin: 0;
   display: inline; position: static; }
