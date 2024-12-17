@@ -31,6 +31,21 @@ table.chordChart th, div.chordChart div.label {
   display:block; font-size:9pt; color: #aaa; line-height: 5pt; height: 5pt;
   font-family: serif; font-stretch: condensed; font-style: italic; }
 
+/* CHORD ACCENT and ARTICULATION styling */
+.chord.marcato::before, .chordChart b.marcato::before {
+  content: "^";
+  position:absolute;
+  top: -0.5em; left:0; }
+.chord.diamond::before, .chordChart b.diamond::before {
+  content: "◇";
+  font-size: 12pt;
+  position: absolute;
+  top: -0.7em; left: -2pt; }
+.chord.push::before, .chordChart b.push::before {
+  content: ">";
+  position: absolute;
+  top: -0.6em; left: -0.6ch; }
+
 /* SMALL chords */
 .chordChart small {
   font-size: 10pt; font-stretch: condensed; letter-spacing: -0.2ch; font-weight: normal;}
