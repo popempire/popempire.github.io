@@ -30,7 +30,7 @@ table.chordChart th, div.chordChart div.label {
 
 /* CHORD styling */
 .chord, .chordChart b { display:block; position: relative;
-  font-size:14pt; font-weight: bold; height: 20pt; line-height: 20pt;
+  font-size:14pt; font-weight: bold; height: 16pt; line-height: 16pt;
   margin-right: 2pt; }
 .chord sub, .chord sup, .chordChart b sub, .chordChart b sup {
   vertical-align: baseline;
@@ -41,11 +41,11 @@ table.chordChart th, div.chordChart div.label {
   font-weight: normal;
   letter-spacing: -0.2ch; }
 .chord sup, .chordChart b sup {
-  bottom: 30%; }
+  bottom: 40%; }
 .chord sup+sub, .chord sub+sup, .chordChart b sup+sub, .chordChart b sub+sup {
   position:relative; left: -1ch; }
 .rhythm, .chordChart i {
-  display:block; font-size:9pt; color: #aaa; letter-spacing: 1ch; line-height: 5pt; height: 5pt; }
+  display:block; font-size:9pt; color: #aaa; letter-spacing: 1ch; line-height: 4pt; height: 4pt; }
 
 /* CHORD ANNOTATION */
 .lyrics {
@@ -58,18 +58,18 @@ table.chordChart th, div.chordChart div.label {
   content: "^";
   position:absolute;
   font-weight: bold;
-  top: -0.5em; left: -0.1ch; }
+  top: -0.4em; left: -0.1ch; }
 .chord.diamond::before, .chordChart b.diamond::before {
   content: "◇";
   font-size: 12pt;
   font-weight: normal;
   position: absolute;
-  top: -0.7em; left: -2pt; }
+  top: -0.8em; left: -2pt; }
 .chord.push::before, .chordChart b.push::before {
   content: ">";
   font-weight: normal;
   position: absolute;
-  top: -0.6em; left: -0.6ch; }
+  top: -0.6em; left: -0.7ch; }
 
 /* SMALL chords */
 .chordChart small {
