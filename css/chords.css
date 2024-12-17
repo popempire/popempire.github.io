@@ -13,7 +13,8 @@ table.chordChart th, div.chordChart div.label {
 
 /* CHORD styling */
 .chord, .chordChart b { display:block; position: relative;
-  font-size:140%; font-weight: bold; height: 1.5rem; }
+  font-size:140%; font-weight: bold; height: 1.5rem;
+  vertical-align: middle;}
 .chord sub, .chord sup, .chordChart b sub, .chordChart b sup {
   vertical-align: baseline;
   position: relative;
