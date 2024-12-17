@@ -45,7 +45,7 @@ table.chordChart th, div.chordChart div.label {
 .chord sup+sub, .chord sub+sup, .chordChart b sup+sub, .chordChart b sub+sup {
   position:relative; left: -1ch; }
 .rhythm, .chordChart i {
-  display:block; font-size:9pt; color: #aaa; letter-spacing: 1ch; line-height: 4pt; height: 4pt; }
+  display:block; font-size:9pt; color: #ccc; letter-spacing: 1ch; line-height: 4pt; height: 4pt; }
 
 /* CHORD ANNOTATION */
 .lyrics {
