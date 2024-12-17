@@ -9,6 +9,8 @@
   position:relative;
   top:0.5em;
   font-size:1em; }
+pre.chordChart b, pre.chordChart i {
+  display: inline; position: relative; }
 
 /* SECTION TITLES / LABELS */
 div.chordChart div.label {
