@@ -1,5 +1,22 @@
+@font-face {
+  font-family: myConsolas;
+  src: url("../fonts/consola.ttf"); }
+@font-face {
+  font-family: myConsolas;
+  font-weight: bold;
+  src: url("../fonts/consolab.ttf"); }
+@font-face {
+  font-family: myConsolas;
+  font-style: italic;
+  src: url("../fonts/consolai.ttf"); }
+@font-face {
+  font-family: myConsolas;
+  font-weight: bold;
+  font-style: italic;
+  src: url("../fonts/consolaz.ttf"); }
+
 .chordChart { font-size: 10pt;
-  font-family: "Consolas", Consolas, "Inconsolata", monospace;
+  font-family: "Consolas", Consolas, myConsolas, "Inconsolata", monospace;
   text-align: left;
   clear:both;
   break-inside: avoid; }
