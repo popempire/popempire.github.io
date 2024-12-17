@@ -4,14 +4,6 @@
   clear:both;
   break-inside: avoid; }
 
-.chordChart pre sub, .chordChart pre sup, pre.chordChart sub, pre.chordChart sup {
-  vertical-align: baseline;
-  position:relative;
-  top:0.5em;
-  font-size:1em; }
-pre.chordChart b, pre.chordChart i {
-  display: inline; position: relative; }
-
 /* SECTION TITLES / LABELS */
 div.chordChart div.label {
   display:block; width:100%; padding:0; }
@@ -67,3 +59,12 @@ div.bar:first-of-type, div.line>div:first-of-type, div.chordChart>div>div:first-
 .chordChart.wide div.line>div,
 .chordChart.wide div.chordChart>div>div {
   padding-left: 1.5ch; }
+
+/* PRE text-only styling */
+.chordChart pre sub, .chordChart pre sup, pre.chordChart sub, pre.chordChart sup {
+  vertical-align: baseline;
+  position:relative;
+  top:0.5em;
+  font-size:1em; }
+pre.chordChart b, pre.chordChart i {
+  display: inline; position: relative; }
