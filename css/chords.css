@@ -24,8 +24,8 @@ table.chordChart th, div.chordChart div.label {
 .rhythm, .chordChart i {
   display:block; font-size:9pt; color: #aaa; letter-spacing: 1ch; line-height: 5pt; height: 5pt; }
 .lyrics {
-  display:block; font-size:9pt; color: #aaa; font-stretch: condensed; line-height: 5pt; height: 5pt;
-}
+  display:block; font-size:9pt; color: #aaa; letter-spacing: -1pt; line-height: 5pt; height: 5pt;
+  font-family: serif; font-stretch: condensed; }
 
 /* SMALL chords */
 .chordChart small {
