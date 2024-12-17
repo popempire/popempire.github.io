@@ -30,8 +30,7 @@ table.chordChart th, div.chordChart div.label {
 
 /* CHORD styling */
 .chord, .chordChart b { display:block; position: relative;
-  font-size:14pt; font-weight: bold; height: 15pt; line-height: 15pt;
-  vertical-align: middle;}
+  font-size:14pt; font-weight: bold; height: 15pt; line-height: 15pt; }
 .chord sub, .chord sup, .chordChart b sub, .chordChart b sup {
   vertical-align: baseline;
   position: relative;
@@ -66,6 +65,10 @@ table.chordChart th, div.chordChart div.label {
 /* SMALL chords */
 .chordChart small {
   font-size: 10pt; font-stretch: condensed; letter-spacing: -0.2ch; font-weight: normal;}
+
+/* COMMENT styling */
+table.chordChart tr.comment, div.line.comment, div.chordChart>div.comment {
+  font-style: italic; }
 
 /* LINE of CHORD CHART styling */
 table.chordChart { border-spacing: 0 1em; border-collapse: separate; }
