@@ -30,7 +30,8 @@ table.chordChart th, div.chordChart div.label {
 
 /* CHORD styling */
 .chord, .chordChart b { display:block; position: relative;
-  font-size:14pt; font-weight: bold; height: 20pt; line-height: 20pt; }
+  font-size:14pt; font-weight: bold; height: 20pt; line-height: 20pt;
+  margin-right: 2pt; }
 .chord sub, .chord sup, .chordChart b sub, .chordChart b sup {
   vertical-align: baseline;
   position: relative;
