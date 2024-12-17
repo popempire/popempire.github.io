@@ -95,8 +95,10 @@ div.bar:first-of-type, div.line>div:first-of-type, div.chordChart>div>div:first-
  { border-left: 1pt solid;}
 
 /* NARROW styling */
-.chordChart.narrow i, .chordChart.narrow .lyrics, .chordChart.narrow .rhythm {
+.chordChart.narrow i, .chordChart.narrow .rhythm {
   letter-spacing: 0.5ch; }
+.chordChart.narrow .lyrics {
+  font-stretch: condensed; }
 .chordChart.narrow td,
 .chordChart.narrow div.bar,
 .chordChart.narrow div.line>div,
@@ -104,9 +106,11 @@ div.bar:first-of-type, div.line>div:first-of-type, div.chordChart>div>div:first-
   padding-left: 0.5ch; }
 
 /* WIDE styling */
-.chordChart.wide i, .chordChart.wide .lyrics, .chordChart.wide .rhythm {
+.chordChart.wide i, .chordChart.wide .rhythm {
   font-size:10pt;
   letter-spacing: 1.5ch; }
+.chordChart.wide .lyrics {
+  font-stretch: normal; }
 .chordChart.wide td,
 .chordChart.wide div.bar,
 .chordChart.wide div.line>div,
