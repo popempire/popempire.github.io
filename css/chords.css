@@ -13,7 +13,7 @@ table.chordChart th, div.chordChart div.label {
 
 /* CHORD styling */
 .chord, .chordChart b { display:block; position: relative;
-  font-size:140%; font-weight: bold; height: 1.5rem;
+  font-size:14pt; font-weight: bold; height: 15pt; line-height: 15pt;
   vertical-align: middle;}
 .chord sub, .chord sup, .chordChart b sub, .chordChart b sup {
   vertical-align: baseline;
@@ -22,7 +22,7 @@ table.chordChart th, div.chordChart div.label {
 .chord sup+sub, .chord sub+sup, .chordChart b sup+sub, .chordChart b sub+sup {
   position:relative; left: -1ch; }
 .lyrics, .rhythm, .chordChart i {
-  display:block; font-size:9pt; color: #aaa; letter-spacing: 1ch; height:0.5rem; }
+  display:block; font-size:9pt; color: #aaa; letter-spacing: 1ch; line-height: 5pt; height: 5pt; }
 
 /* SMALL chords */
 .chordChart small {
