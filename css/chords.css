@@ -69,6 +69,8 @@ table.chordChart th, div.chordChart div.label {
 /* COMMENT styling */
 table.chordChart tr.comment, div.line.comment, div.chordChart>div.comment {
   font-style: italic; }
+table.chordChart tr.comment td, div.line.comment>div, div.chordChart>div.comment>div {
+  border: none; }
 
 /* LINE of CHORD CHART styling */
 table.chordChart { border-spacing: 0 1em; border-collapse: separate; }
