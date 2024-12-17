@@ -56,7 +56,8 @@ table.chordChart th, div.chordChart div.label {
 .chord.marcato::before, .chordChart b.marcato::before {
   content: "^";
   position:absolute;
-  top: -0.5em; left:0; }
+  font-weight: bold;
+  top: -0.5em; left: -0.1ch; }
 .chord.diamond::before, .chordChart b.diamond::before {
   content: "◇";
   font-size: 12pt;
