@@ -30,7 +30,7 @@ table.chordChart th, div.chordChart div.label {
 
 /* CHORD styling */
 .chord, .chordChart b { display:block; position: relative;
-  font-size:14pt; font-weight: bold; height: 15pt; line-height: 15pt; }
+  font-size:14pt; font-weight: bold; height: 20pt; line-height: 20pt; }
 .chord sub, .chord sup, .chordChart b sub, .chordChart b sup {
   vertical-align: baseline;
   position: relative;
@@ -43,7 +43,10 @@ table.chordChart th, div.chordChart div.label {
   position:relative; left: -1ch; }
 .rhythm, .chordChart i {
   display:block; font-size:9pt; color: #aaa; letter-spacing: 1ch; line-height: 5pt; height: 5pt; }
+
+/* CHORD ANNOTATION */
 .lyrics {
+  position: absolute; white-space: nowrap;
   display:block; font-size:9pt; color: #aaa; line-height: 5pt; height: 5pt;
   font-family: serif; font-stretch: condensed; font-style: italic; }
 
