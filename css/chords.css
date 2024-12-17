@@ -20,9 +20,9 @@ table.chordChart th, div.chordChart div.label {
   position: relative;
   font-size: 75%;}
 .chord sub, .chordChart b sub {
-  top: 7pt; }
+  top: 25%; }
 .chord sup, .chordChart b sup {
-  bottom: 7pt; }
+  bottom: 25%; }
 .chord sup+sub, .chord sub+sup, .chordChart b sup+sub, .chordChart b sub+sup {
   position:relative; left: -1ch; }
 .rhythm, .chordChart i {
