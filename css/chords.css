@@ -131,7 +131,9 @@ pre.chordChart {
   vertical-align: baseline;
   position:relative;
   top:0.5em;
-  font-size:1em; }
+  font-size:1em;
+  font-weight: inherit;
+  letter-spacing: inherit; }
 pre.chordChart b, pre.chordChart i {
   font-size: 1em;
   letter-spacing: normal;
