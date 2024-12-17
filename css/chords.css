@@ -89,7 +89,7 @@ table.chordChart td,
 div.bar, div.line>div, div.chordChart>div>div { /*display:inline; float:left;*/
   position:relative;
   border-right: 1pt solid;
-  padding-left: 1ch; min-width: 4ch; }
+  padding-left: 0.5ch; min-width: 4ch; }
 table.chordChart tr td:first-of-type,
 div.bar:first-of-type, div.line>div:first-of-type, div.chordChart>div>div:first-of-type
  { border-left: 1pt solid;}
@@ -115,7 +115,7 @@ div.bar:first-of-type, div.line>div:first-of-type, div.chordChart>div>div:first-
 .chordChart.wide div.bar,
 .chordChart.wide div.line>div,
 .chordChart.wide div.chordChart>div>div {
-  padding-left: 1.5ch; }
+  padding-left: 1ch; }
 
 /* PRE text-only styling */
 pre.chordChart {
