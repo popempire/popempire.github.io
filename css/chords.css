@@ -1,27 +1,30 @@
-.chordChart { font-size: 10pt; 
+.chordChart { font-size: 10pt;
   font-family: "Consolas", Consolas, "Inconsolata", monospace;
   text-align: left;
   clear:both;
   break-inside: avoid; }
 
 .chordChart pre sub, .chordChart pre sup, pre.chordChart sub, pre.chordChart sup {
+  vertical-align: baseline;
+  position:relative;
+  top:0.5em;
   font-size:1em; }
 
 /* SECTION TITLES / LABELS */
-div.chordChart div.label { 
+div.chordChart div.label {
   display:block; width:100%; padding:0; }
-table.chordChart th, div.chordChart div.label { 
+table.chordChart th, div.chordChart div.label {
   font-weight: bold; text-align: center;
   color:#000; background-color:hsl(330,100%,80%); }
 
 /* CHORD styling */
 .chord, .chordChart b { display:block; position: relative;
   font-size:140%; font-weight: bold; height: 1.5rem; }
-.chord sub, .chord sup, .chordChart b sub, .chordChart b sup { 
+.chord sub, .chord sup, .chordChart b sub, .chordChart b sup {
   font-size: 75%;}
 .chord sup+sub, .chord sub+sup, .chordChart b sup+sub, .chordChart b sub+sup {
   position:relative; left: -1ch; }
-.lyrics, .rhythm, .chordChart i { 
+.lyrics, .rhythm, .chordChart i {
   display:block; font-size:9pt; color: #aaa; letter-spacing: 1ch; height:0.5rem; }
 
 /* SMALL chords */
@@ -36,7 +39,7 @@ div.line, div.chordChart>div { padding:1em 0; clear: both; }
 div.bar, div.line>div, div.chordChart>div>div { display:inline; float:left; }
 div.bar>span, .chordChart td>span { display:inline; float:left; position:relative; }
 table.chordChart td,
-div.bar, div.line>div, div.chordChart>div>div { /*display:inline; float:left;*/ 
+div.bar, div.line>div, div.chordChart>div>div { /*display:inline; float:left;*/
   position:relative;
   border-right: 1pt solid;
   padding-left: 1ch; min-width: 4ch; }
@@ -48,8 +51,8 @@ div.bar:first-of-type, div.line>div:first-of-type, div.chordChart>div>div:first-
 .chordChart.narrow i, .chordChart.narrow .lyrics, .chordChart.narrow .rhythm {
   letter-spacing: 0.5ch; }
 .chordChart.narrow td,
-.chordChart.narrow div.bar, 
-.chordChart.narrow div.line>div, 
+.chordChart.narrow div.bar,
+.chordChart.narrow div.line>div,
 .chordChart.narrow div.chordChart>div>div {
   padding-left: 0.5ch; }
 
@@ -58,7 +61,7 @@ div.bar:first-of-type, div.line>div:first-of-type, div.chordChart>div>div:first-
   font-size:10pt;
   letter-spacing: 1.5ch; }
 .chordChart.wide td,
-.chordChart.wide div.bar, 
-.chordChart.wide div.line>div, 
+.chordChart.wide div.bar,
+.chordChart.wide div.line>div,
 .chordChart.wide div.chordChart>div>div {
   padding-left: 1.5ch; }
