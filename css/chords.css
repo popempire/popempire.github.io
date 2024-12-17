@@ -34,11 +34,13 @@ table.chordChart th, div.chordChart div.label {
 .chord sub, .chord sup, .chordChart b sub, .chordChart b sup {
   vertical-align: baseline;
   position: relative;
-  font-size: 75%;}
+  font-size: 12pt;}
 .chord sub, .chordChart b sub {
-  top: 10%; }
+  top: 10%;
+  font-weight: normal;
+  letter-spacing: -0.2ch; }
 .chord sup, .chordChart b sup {
-  bottom: 40%; }
+  bottom: 30%; }
 .chord sup+sub, .chord sub+sup, .chordChart b sup+sub, .chordChart b sub+sup {
   position:relative; left: -1ch; }
 .rhythm, .chordChart i {
@@ -58,10 +60,12 @@ table.chordChart th, div.chordChart div.label {
 .chord.diamond::before, .chordChart b.diamond::before {
   content: "◇";
   font-size: 12pt;
+  font-weight: normal;
   position: absolute;
   top: -0.7em; left: -2pt; }
 .chord.push::before, .chordChart b.push::before {
   content: ">";
+  font-weight: normal;
   position: absolute;
   top: -0.6em; left: -0.6ch; }
 
