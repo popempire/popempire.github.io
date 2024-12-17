@@ -21,12 +21,15 @@ table.chordChart th, div.chordChart div.label {
   font-size: 75%;}
 .chord sup+sub, .chord sub+sup, .chordChart b sup+sub, .chordChart b sub+sup {
   position:relative; left: -1ch; }
-.lyrics, .rhythm, .chordChart i {
+.rhythm, .chordChart i {
   display:block; font-size:9pt; color: #aaa; letter-spacing: 1ch; line-height: 5pt; height: 5pt; }
+.lyrics {
+  display:block; font-size:9pt; color: #aaa; font-stretch: condensed; line-height: 5pt; height: 5pt;
+}
 
 /* SMALL chords */
 .chordChart small {
-  font-size: 10pt; font-stretch: ultra-condensed; letter-spacing: -0.2ch; font-weight: normal;}
+  font-size: 10pt; font-stretch: condensed; letter-spacing: -0.2ch; font-weight: normal;}
 
 /* LINE of CHORD CHART styling */
 table.chordChart { border-spacing: 0 1em; border-collapse: separate; }
