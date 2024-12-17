@@ -73,6 +73,8 @@ table.chordChart th, div.chordChart div.label {
 /* SMALL chords */
 .chordChart small {
   font-size: 10pt; font-stretch: condensed; letter-spacing: -0.2ch; font-weight: normal;}
+.chordChart small sub, .chordChart small sup {
+  font-size:9pt; }
 
 /* LINE of CHORD CHART styling */
 table.chordChart { border-spacing: 0 1em; border-collapse: separate; }
