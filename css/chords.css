@@ -15,6 +15,8 @@ table.chordChart th, div.chordChart div.label {
 .chord, .chordChart b { display:block; position: relative;
   font-size:140%; font-weight: bold; height: 1.5rem; }
 .chord sub, .chord sup, .chordChart b sub, .chordChart b sup {
+  vertical-align: baseline;
+  position: relative;
   font-size: 75%;}
 .chord sup+sub, .chord sub+sup, .chordChart b sup+sub, .chordChart b sub+sup {
   position:relative; left: -1ch; }
