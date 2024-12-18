@@ -19,7 +19,8 @@
   font-family: "Consolas", Consolas, myConsolas, "Inconsolata", monospace;
   text-align: left;
   clear:both;
-  break-inside: avoid; }
+  break-inside: avoid;
+  padding: 1em 0; }
 
 /* SECTION TITLES / LABELS */
 div.chordChart div.label {
