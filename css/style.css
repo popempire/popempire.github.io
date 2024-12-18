@@ -17,9 +17,10 @@ body {
     font-size:1rem;
     line-height:1.5rem;
     min-height:40rem;
+    width: 80ch;
     max-width:100%;
     margin:0 auto;
-    padding:0; }
+    padding: 1rem; }
 
 @media print {
     body {
@@ -43,7 +44,7 @@ img, iframe {
 
 hr {
     margin: 2rem 12rem;
-    border: 1pt dashed pink; }
+    border: 1pt dashed #ff99cc; }
 
 h1, h2, h3, h4, h5, h6 {
     margin: 1rem;}
@@ -85,11 +86,6 @@ pre {
     font-size: 0.833rem; }
 
 /* ID-specific styles */
-
-div#container {
-    padding: 1rem;
-    margin: 0 auto;
-    max-width: 80ch; }
 
 header {
     margin:0 auto 1rem;
