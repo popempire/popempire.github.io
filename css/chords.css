@@ -29,6 +29,14 @@ table.chordChart th, div.chordChart div.label {
   font-weight: bold; text-align: center;
   color:#000; background-color:hsl(330,100%,80%); }
 
+/* BRACES */
+div.line.braceLeft::before, table.chordChart tr.braceLeft::before {
+  content: "{";
+  font-size: 30pt;
+  position: absolute;
+  left:-1em;
+}
+
 /* CHORD styling */
 .chord, .chordChart b { display:block; position: relative;
   font-size:14pt; font-weight: bold; height: 16pt; line-height: 16pt;
