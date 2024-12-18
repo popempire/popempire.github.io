@@ -34,8 +34,19 @@ div.line.braceLeft::before, table.chordChart td.braceLeft::before {
   content: "{";
   font-size: 20pt;
   position: absolute;
-  left: 4pt;
   line-height: 17pt; }
+div.line.braceLeft::before {
+  left: 4pt; }
+table.chordChart td.braceLeft::before {
+  left: -12pt; }
+div.line.braceRight::after, table.chordChart td.braceRight::after {
+  content: "}";
+  font-size: 20pt;
+  line-height: 17pt; }
+div.line.braceRight::after {
+  left: 0; }
+table.chordChart td.braceRight::after {
+  left: 0; }
 
 /* CHORD styling */
 .chord, .chordChart b { display:block; position: relative;
