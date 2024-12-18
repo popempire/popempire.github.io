@@ -15,9 +15,7 @@
   font-style: italic;
   src: url("../fonts/consolaz.ttf"); }
 
-@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wdth@112.5&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wdth,wght@0,75..112.5,200..700;1,75..112.5,200..700&display=swap');
-  
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wdth,wght@0,62..125,100..900;1,62..125,100..900&family=Inconsolata:wdth,wght@50..200,200..900&display=swap');
 
 .chordChart { font-size: 10pt;
   font-family: "Consolas", myConsolas, "Inconsolata", monospace;
