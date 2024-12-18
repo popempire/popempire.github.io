@@ -45,10 +45,10 @@ div.line.braceRight::after, table.chordChart td.braceRight::after {
   position: absolute;
   line-height: 17pt; }
 div.line.braceRight::after {
+  display: inherit; }
+table.chordChart td.braceRight::after {
   right: -12pt;
   bottom: 4pt; }
-table.chordChart td.braceRight::after {
-  display:inherit; }
 
 /* CHORD styling */
 .chord, .chordChart b { display:block; position: relative;
