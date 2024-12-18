@@ -30,12 +30,11 @@ table.chordChart th, div.chordChart div.label {
   color:#000; background-color:hsl(330,100%,80%); }
 
 /* BRACES */
-div.line.braceLeft::before, table.chordChart tr.braceLeft::before {
+div.line.braceLeft::before, table.chordChart tr.braceLeft td:first-of-kind::before {
   content: "{";
-  font-size: 30pt;
+  font-size: 20pt;
   position: absolute;
-  left:-1em;
-}
+  left:-1em; }
 
 /* CHORD styling */
 .chord, .chordChart b { display:block; position: relative;
