@@ -2,9 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wdth,wght@0,75..112.5,200..700;1,75..112.5,200..700&display=swap');
 
 /*
-HOT PINK    hsl(330,100%,60%)
-LITE PINK   hsl(330,100%,80%)
-TEAL        hsl(165,80%,60%)
+HOT PINK    hsl(330,100%,60%)   #ff3399     rgb(255,51,153)
+LITE PINK   hsl(330,100%,80%)   #ff99cc     rgb(255,153,204)
+TEAL        hsl(165,80%,60%)    #47ebc2     rgb(71,235,195)
 */
 
 html {
@@ -182,7 +182,7 @@ main p {
 .fontGranjon {
     font-family: 'garamond-premier-pro', 'Garamond', Garamond, serif;
     font-style: italic;}
-.fontGranjon em {
+.fontGranjon em, .fontGranjon i {
     font-style: normal;}
 
 .sansSerif {
