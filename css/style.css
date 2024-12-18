@@ -13,7 +13,7 @@ body {
     background-color:#000000;
     color:#ffffff;
     text-align: center;
-    font-family: "Consolas", Consolas, "Inconsolata", monospace;
+    font-family: "Consolas", "Inconsolata", monospace;
     font-size:1rem;
     line-height:1.5rem;
     min-height:40rem;
@@ -141,7 +141,7 @@ div.era {
 
 main p {
     text-align: left;
-    font-family:'garamond-premier-pro', 'Garamond', Garamond, serif;
+    font-family: "garamond-premier-pro", "Garamond", serif;
     font-size: 1rem;
     margin-bottom: 1em; }
 
@@ -172,17 +172,17 @@ main p {
 /* font classes */
 
 .fontGaramond {
-    font-family: 'garamond-premier-pro', 'Garamond', Garamond, serif;
+    font-family: 'garamond-premier-pro', 'Garamond', serif;
     font-style: normal;}
 
 .fontGranjon {
-    font-family: 'garamond-premier-pro', 'Garamond', Garamond, serif;
+    font-family: 'garamond-premier-pro', 'Garamond', serif;
     font-style: italic;}
 .fontGranjon em, .fontGranjon i {
     font-style: normal;}
 
 .sansSerif {
-    font-family: 'Archivo';
+    font-family: 'Archivo', sans-serif;
     font-weight: 400;
     font-variation-settings:'wdth' 100; }
 
