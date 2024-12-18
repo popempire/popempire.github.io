@@ -42,11 +42,13 @@ table.chordChart td.braceLeft::before {
 div.line.braceRight::after, table.chordChart td.braceRight::after {
   content: "}";
   font-size: 20pt;
+  position: absolute;
   line-height: 17pt; }
 div.line.braceRight::after {
-  left: 0; }
+  right: -12pt;
+  bottom: 4pt; }
 table.chordChart td.braceRight::after {
-  left: 0; }
+  /* position*/ }
 
 /* CHORD styling */
 .chord, .chordChart b { display:block; position: relative;
