@@ -100,12 +100,12 @@ table.chordChart { border-spacing: 0 1em; border-collapse: separate; }
 div.line, div.chordChart>div { padding:1em 0; clear: both; }
 
 /* COMMENT styling */
-table.chordChart tr.comment, div.line.comment, div.chordChart>div.comment {
+table.chordChart td.comment, .chordChart div.comment {
   font-style: italic; }
-table.chordChart tr.comment td, div.line.comment>div, div.chordChart>div.comment>div,
-table.chordChart tr.comment td:first-of-type,
-div.line.comment>div:first-of-type,
-div.chordChart>div.comment>div:first-of-type {
+table.chordChart td.comment, div.chordChart div.comment,
+table.chordChart tr td.comment:first-of-type,
+div.chordChart div.comment:first-of-type,
+div.chordChart>div>div.comment:first-of-type {
   border: none; }
 
 /* MEASURE/BAR styling */
