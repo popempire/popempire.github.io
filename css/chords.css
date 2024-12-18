@@ -101,12 +101,14 @@ div.line, div.chordChart>div { padding:1em 0; clear: both; }
 
 /* COMMENT styling */
 table.chordChart td.comment, .chordChart div.comment {
-  font-style: italic; }
-table.chordChart td.comment, div.chordChart div.comment,
+  font-style: italic;
+  border: none;
+  vertical-align: middle; }
+/*table.chordChart td.comment, div.chordChart div.comment,
 table.chordChart tr td.comment:first-of-type,
 div.chordChart div.comment:first-of-type,
 div.chordChart>div>div.comment:first-of-type {
-  border: none; }
+  border: none; }*/
 
 /* MEASURE/BAR styling */
 div.bar, div.line>div, div.chordChart>div>div { display:inline; float:left; }
