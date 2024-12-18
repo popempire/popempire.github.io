@@ -100,7 +100,9 @@ table.chordChart { border-spacing: 0 1em; border-collapse: separate; }
 div.line, div.chordChart>div { padding:1em 0; clear: both; }
 
 /* COMMENT styling */
-table.chordChart td.comment, .chordChart div.comment {
+table.chordChart td.comment, .chordChart div.comment,
+table.chordChart td.comment:first-of-type,
+div.chordChart div.comment:first-of-type {
   font-style: italic;
   border: none;
   vertical-align: middle; }
@@ -114,7 +116,7 @@ div.chordChart>div>div.comment:first-of-type {
 div.bar, div.line>div, div.chordChart>div>div { display:inline; float:left; }
 div.bar>span, .chordChart td>span { display:inline; float:left; position:relative; }
 table.chordChart td,
-div.bar, div.line>div, div.chordChart>div>div { /*display:inline; float:left;*/
+div.bar, div.line>div, div.chordChart>div>div {
   position:relative;
   border-right: 1pt solid;
   padding-left: 0.5ch; min-width: 4ch; }
