@@ -16,7 +16,7 @@
   src: url("../fonts/consolaz.ttf"); }
 
 .chordChart { font-size: 10pt;
-  font-family: "Consolas", Consolas, myConsolas, "Inconsolata", monospace;
+  font-family: "Consolas", myConsolas, "Inconsolata", monospace;
   text-align: left;
   clear:both;
   break-inside: avoid;
