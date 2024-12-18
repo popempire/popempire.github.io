@@ -30,7 +30,7 @@ table.chordChart th, div.chordChart div.label {
   color:#000; background-color:hsl(330,100%,80%); }
 
 /* BRACES */
-div.line.braceLeft::before, table.chordChart tr.braceLeft td:first-of-kind::before {
+div.line.braceLeft::before, table.chordChart tr.braceLeft::before {
   content: "{";
   font-size: 20pt;
   position: absolute;
