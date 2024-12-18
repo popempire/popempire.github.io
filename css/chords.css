@@ -20,7 +20,7 @@
   text-align: left;
   clear:both;
   break-inside: avoid;
-  padding: 1em 0; }
+  padding: 1em; }
 
 /* SECTION TITLES / LABELS */
 div.chordChart div.label {
