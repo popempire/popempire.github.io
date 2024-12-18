@@ -30,21 +30,21 @@ table.chordChart th, div.chordChart div.label {
   color:#000; background-color:hsl(330,100%,80%); }
 
 /* BRACES */
-div.line.braceLeft::before, table.chordChart td.braceLeft::before {
+div.bar.braceLeft::before, table.chordChart td.braceLeft::before {
   content: "{";
   font-size: 20pt;
   position: absolute;
   line-height: 17pt; }
-div.line.braceLeft::before {
+div.bar.braceLeft::before {
   left: 4pt; }
 table.chordChart td.braceLeft::before {
   left: -12pt; }
-div.line.braceRight::after, table.chordChart td.braceRight::after {
+div.bar.braceRight::after, table.chordChart td.braceRight::after {
   content: "}";
   font-size: 20pt;
   position: absolute;
   line-height: 17pt; }
-div.line.braceRight::after {
+div.bar.braceRight::after {
   display: inherit; }
 table.chordChart td.braceRight::after {
   right: -12pt;
