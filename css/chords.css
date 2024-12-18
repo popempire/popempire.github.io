@@ -48,7 +48,7 @@ div.line.braceRight::after {
   right: -12pt;
   bottom: 4pt; }
 table.chordChart td.braceRight::after {
-  /* position*/ }
+  display:inherit; }
 
 /* CHORD styling */
 .chord, .chordChart b { display:block; position: relative;
