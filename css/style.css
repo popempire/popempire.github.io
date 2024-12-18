@@ -42,7 +42,8 @@ img, iframe {
     max-width: 100%;}
 
 hr {
-    margin:10px 0;}
+    margin: 2rem 12rem;
+    border: 1pt dashed pink; }
 
 h1, h2, h3, h4, h5, h6 {
     margin: 1rem;}
