@@ -101,7 +101,10 @@ table.chordChart td.braceRight::after {
 
 /* LINE of CHORD CHART styling */
 table.chordChart { border-spacing: 0 1em; border-collapse: separate; }
-div.line, div.chordChart>div { padding:1em 0; clear: both; }
+div.line, div.chordChart>div {
+  padding:1em 0;
+  clear: both;
+  display:inline-block; }
 
 /* COMMENT styling */
 table.chordChart tr.comment, div.line.comment, div.chordChart>div.comment {
