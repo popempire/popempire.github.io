@@ -23,8 +23,11 @@
   clear:both;
   break-inside: avoid;
   width: fit-content;
-  padding: 0 1em; 
-  margin: 1em 0; }
+  padding: 0 1em; }
+div.chordChart {
+  margin: 0 0 1em; }
+table.chordChart {
+  margin: 0 0 -1em; }
 
 /* SECTION TITLES / LABELS */
 div.chordChart div.label {
