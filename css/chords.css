@@ -87,20 +87,22 @@ table.chordChart td.braceRight+td { padding-left: 1.5em; }
 .chordChart q::before, .chordChart q::after { content: none; }
 
 /* CHORD ACCENT and ARTICULATION styling */
-.chord.marcato::before, .chordChart b.marcato::before {
+.chord.marcato::after, .chordChart b.marcato::after { /* MARCATO */
   content: "^";
   position:absolute;
   font-weight: bold;
   top: -0.4em; left: -0.1ch; }
-.chord.diamond::before, .chordChart b.diamond::before {
+.chord.diamond::after, .chordChart b.diamond::after { /* DIAMOND */
   content: "◇";
   font-size: 12pt;
   font-weight: normal;
   position: absolute;
   top: -0.8em; left: -2pt; }
-.chord.push::before, .chordChart b.push::before {
-  content: ">";
-  font-weight: normal;
+.chord.push::before, .chordChart b.push::before { /* PUSH */
+  content: "<";
+  font-family: "Archivo", sans-serif;
+  font-size: 12pt;
+  font-weight: 200;
   position: absolute;
   top: -0.6em; left: -0.7ch; }
 
@@ -121,7 +123,7 @@ div.chordChart div.comment:first-of-type {
   font-style: italic;
   border: none;
   line-height: 20pt;
-  height: 10pt; 
+  height: 10pt;
   padding-left: 1ch; }
 
 /* MEASURE/BAR styling */
