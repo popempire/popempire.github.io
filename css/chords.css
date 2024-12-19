@@ -50,10 +50,10 @@ div.bar.braceRight::after, table.chordChart td.braceRight::after {
   line-height: 20pt;
   right: -10pt;
   top: 0; }
-div.bar.braceLeft, table.chordChart td.braceLeft {
-  margin-left: 1em; }
-div.bar.braceRight, table.chordChart td.braceRight {
-  margin-right: 1em; }
+/*div.bar.braceLeft, table.chordChart td.braceLeft {
+  margin-left: 1em; }*/
+div.bar.braceRight { margin-right: 1em; }
+table.chordChart td.braceRight+td { padding-left: 1em; }
 
 /* CHORD styling */
 .chord, .chordChart b { display:block; position: relative;
