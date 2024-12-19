@@ -53,7 +53,7 @@ div.bar.braceRight::after, table.chordChart td.braceRight::after {
 /*div.bar.braceLeft, table.chordChart td.braceLeft {
   margin-left: 1em; }*/
 div.bar.braceRight { margin-right: 1em; }
-table.chordChart td.braceRight+td { padding-left: 1em; }
+table.chordChart td.braceRight+td { padding-left: 1.5em; }
 
 /* CHORD styling */
 .chord, .chordChart b { display:block; position: relative;
