@@ -25,7 +25,8 @@
   width: fit-content;
   padding: 0 1em; }
 div.chordChart {
-  margin: 0 0 1em; }
+  /*margin: 0 0 1em;*/
+  padding-top: 1em; }
 table.chordChart {
   margin: 0 0 -1em; }
 
