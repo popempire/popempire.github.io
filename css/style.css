@@ -17,14 +17,14 @@ body {
     font-size:1rem;
     line-height:1.5rem;
     min-height:40rem;
-    width: 80ch;
+    width: 7.5in;
     max-width:100%;
     margin:0 auto;
-    padding: 1rem; }
+    padding: 0 0.25in; }
 
 @media print {
     body {
-        margin: 0 0.25in;
+        margin-left: 0.5in;
         background-color: #fff;
         color:#000; }
     footer {
@@ -105,7 +105,7 @@ footer {
 
 main {
     margin: 1rem auto;
-    padding: 0 0.5rem 2rem; }
+    padding: 0 0 2rem; }
 
 @media print, (min-width: 800px) {
     .twoColumn {
@@ -199,4 +199,4 @@ small, .smallerText {
     table.chordChart td,
     div.bar, div.line>div, div.chordChart>div>div
         { border-color: black;}
-    } 
+    }
