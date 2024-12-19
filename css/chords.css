@@ -80,10 +80,11 @@ table.chordChart td.braceRight+td { padding-left: 1.5em; }
   display:block; font-size:9pt; color: #ccc; letter-spacing: 1ch; line-height: 4pt; height: 4pt; }
 
 /* CHORD ANNOTATION */
-.lyrics, chordChart q {
+.lyrics, .chordChart q {
   position: absolute; white-space: nowrap; bottom: 100%;
   display:block; font-size:9pt; color: #666; line-height: 5pt; height: 5pt;
   font-family: 'garamond-premier-pro', Garamond, serif; font-stretch: condensed; font-style: italic; }
+.chordChart q::before, .chordChart q::after { content: none; }
 
 /* CHORD ACCENT and ARTICULATION styling */
 .chord.marcato::before, .chordChart b.marcato::before {
