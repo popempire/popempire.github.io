@@ -147,7 +147,7 @@ div.bar:first-of-type, div.line>div:first-of-type, div.chordChart>div>div:first-
 .chordChart.narrow td,
 .chordChart.narrow div.bar,
 .chordChart.narrow div.line>div,
-.chordChart.narrow div.chordChart>div>div {
+div.chordChart.narrow>div>div {
   padding-left: 0.5ch; }
 
 /* WIDE styling */
@@ -159,7 +159,7 @@ div.bar:first-of-type, div.line>div:first-of-type, div.chordChart>div>div:first-
 .chordChart.wide td,
 .chordChart.wide div.bar,
 .chordChart.wide div.line>div,
-.chordChart.wide div.chordChart>div>div {
+div.chordChart.wide>div>div {
   padding-left: 2pt; }
 
 /* PRE text-only styling */
