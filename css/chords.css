@@ -22,7 +22,8 @@
   text-align: left;
   clear:both;
   break-inside: avoid;
-  padding: 1em; }
+  padding: 0 1em; 
+  margin: 1em 0; }
 
 /* SECTION TITLES / LABELS */
 div.chordChart div.label {
@@ -35,12 +36,14 @@ table.chordChart th, div.chordChart div.label {
 div.bar.braceLeft::before, table.chordChart td.braceLeft::before {
   content: "{";
   font-size: 20pt;
+  font-family: "Archivo", sans-serif;
   position: absolute;
   line-height: 17pt;
   left: -12pt; }
 div.bar.braceRight::after, table.chordChart td.braceRight::after {
   content: "}";
   font-size: 20pt;
+  font-family: "Archivo", sans-serif;
   position: absolute;
   line-height: 17pt;
   right: -12pt;
@@ -105,12 +108,9 @@ table.chordChart td.comment:first-of-type,
 div.chordChart div.comment:first-of-type {
   font-style: italic;
   border: none;
-  vertical-align: middle; }
-/*table.chordChart td.comment, div.chordChart div.comment,
-table.chordChart tr td.comment:first-of-type,
-div.chordChart div.comment:first-of-type,
-div.chordChart>div>div.comment:first-of-type {
-  border: none; }*/
+  line-height: 20pt;
+  height: 10pt; 
+  padding-left: 1em; }
 
 /* MEASURE/BAR styling */
 div.bar, div.line>div, div.chordChart>div>div { display:inline; float:left; }
