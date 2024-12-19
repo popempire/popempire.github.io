@@ -37,6 +37,7 @@ div.bar.braceLeft::before, table.chordChart td.braceLeft::before {
   content: "{";
   font-size: 20pt;
   font-family: "Archivo", sans-serif;
+  font-weight: 200;
   position: absolute;
   line-height: 17pt;
   left: -12pt; }
@@ -44,6 +45,7 @@ div.bar.braceRight::after, table.chordChart td.braceRight::after {
   content: "}";
   font-size: 20pt;
   font-family: "Archivo", sans-serif;
+  font-weight: 200;
   position: absolute;
   line-height: 17pt;
   right: -12pt;
