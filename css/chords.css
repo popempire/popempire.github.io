@@ -22,6 +22,7 @@
   text-align: left;
   clear:both;
   break-inside: avoid;
+  width: fit-content;
   padding: 0 1em; 
   margin: 1em 0; }
 
