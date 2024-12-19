@@ -35,20 +35,20 @@ table.chordChart th, div.chordChart div.label {
 /* BRACES */
 div.bar.braceLeft::before, table.chordChart td.braceLeft::before {
   content: "{";
-  font-size: 20pt;
-  font-family: "Inconsolata";
+  font-size: 24pt;
+  font-family: "Inconsolata", monospace;
   font-weight: 200;
   position: absolute;
   line-height: 20pt;
-  left: -10pt; }
+  left: -12pt; }
 div.bar.braceRight::after, table.chordChart td.braceRight::after {
   content: "}";
   font-size: 20pt;
   font-family: "Archivo", sans-serif;
   font-weight: 200;
   position: absolute;
-  line-height: 17pt;
-  right: -12pt;
+  line-height: 20pt;
+  right: -10pt;
   top: 0; }
 
 /* CHORD styling */
