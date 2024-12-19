@@ -27,7 +27,7 @@
 div.chordChart {
   margin: 0 0 1em; }
 table.chordChart {
-  margin: 0 0 -1em; }
+  margin: -1em 0; }
 
 /* SECTION TITLES / LABELS */
 div.chordChart div.label {
