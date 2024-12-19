@@ -32,7 +32,7 @@ table.chordChart {
 
 /* SECTION TITLES / LABELS */
 div.chordChart div.label {
-  display:block; width:100%; padding:0; }
+  display:block; width:100%; padding:1px; margin: 0 0 5pt; }
 table.chordChart th, div.chordChart div.label {
   font-weight: bold; text-align: center;
   color:#000; background-color:hsl(330,100%,80%); }
