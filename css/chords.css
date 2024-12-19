@@ -110,7 +110,7 @@ table.chordChart td.braceRight+td { padding-left: 1.5em; }
 
 /* LINE of CHORD CHART styling */
 table.chordChart { border-spacing: 0 1em; border-collapse: separate; }
-div.line, div.chordChart>div { padding:1em 0; clear: both; }
+div.line, div.chordChart>div { display: flex; padding: 0.5em 0; clear: both; }
 
 /* COMMENT styling */
 table.chordChart td.comment, .chordChart div.comment,
