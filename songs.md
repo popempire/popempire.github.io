@@ -43,7 +43,7 @@ tags: index
  + [Black Dog Blues](/songs/black-dog/) ([*](/songs/black-dog-alt/))
  + [Tom Dula](tom-dula)
  + [Dying Silver Dagger Blues](silver-dagger.txt)
- + [God's Grandeur](gods-granduer)
+ + [God's Grandeur](gods-grandeur)
 
 ##### [organ registrations](../misc/hammond-reg-llotbw.html)  
 ##### [notation reference guide](reference)
