@@ -138,7 +138,7 @@ div.bar:first-of-type, div.line>div:first-of-type, div.chordChart>div>div:first-
 /* NARROW styling */
 .chordChart.narrow i, .chordChart.narrow .rhythm {
   letter-spacing: 0.5ch; }
-.chordChart.narrow .lyrics {
+.chordChart.narrow .lyrics, .chordChart.narrow q {
   font-stretch: condensed; }
 .chordChart.narrow td,
 .chordChart.narrow div.bar,
@@ -150,7 +150,7 @@ div.bar:first-of-type, div.line>div:first-of-type, div.chordChart>div>div:first-
 .chordChart.wide i, .chordChart.wide .rhythm {
   font-size:10pt;
   letter-spacing: 1.5ch; }
-.chordChart.wide .lyrics {
+.chordChart.wide .lyrics, .chordChart.wide q {
   font-stretch: normal; }
 .chordChart.wide td,
 .chordChart.wide div.bar,
