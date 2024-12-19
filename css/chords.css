@@ -36,20 +36,24 @@ table.chordChart th, div.chordChart div.label {
 div.bar.braceLeft::before, table.chordChart td.braceLeft::before {
   content: "{";
   font-size: 24pt;
-  font-family: "Inconsolata", monospace;
-  font-weight: 200;
+  font-family: "Archivo", sans-serif;
+  font-weight: 100;
   position: absolute;
   line-height: 20pt;
-  left: -12pt; }
+  left: -10pt; }
 div.bar.braceRight::after, table.chordChart td.braceRight::after {
   content: "}";
-  font-size: 20pt;
+  font-size: 24pt;
   font-family: "Archivo", sans-serif;
-  font-weight: 200;
+  font-weight: 100;
   position: absolute;
   line-height: 20pt;
   right: -10pt;
   top: 0; }
+div.bar.braceLeft, table.chordChart td.braceLeft {
+  margin-left: 1em; }
+div.bar.braceRight, table.chordChart td.braceRight {
+  margin-right: 1em; }
 
 /* CHORD styling */
 .chord, .chordChart b { display:block; position: relative;
@@ -112,7 +116,7 @@ div.chordChart div.comment:first-of-type {
   border: none;
   line-height: 20pt;
   height: 10pt; 
-  padding-left: 1em; }
+  padding-left: 1ch; }
 
 /* MEASURE/BAR styling */
 div.bar, div.line>div, div.chordChart>div>div { display:inline; float:left; }
