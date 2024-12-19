@@ -27,8 +27,8 @@
 div.chordChart {
   margin: 0 0 1em; }
 table.chordChart {
-  margin: 0 0 -1em; }
-table.chordChart+table.chordChart {
+  margin: -1em 0; }
+div.twoColumn>table.chordChart:first-of-type {
   margin-top: -1em; }
 
 /* SECTION TITLES / LABELS */
