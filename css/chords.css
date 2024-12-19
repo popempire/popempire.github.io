@@ -125,7 +125,8 @@ div.chordChart div.comment:first-of-type {
 
 /* MEASURE/BAR styling */
 div.bar, div.line>div, div.chordChart>div>div { display:inline; float:left; }
-div.bar>span, .chordChart td>span { display:inline; float:left; position:relative; }
+div.bar>span, div.line>div>span, div.chordChart>div>div>span,
+table.chordChart td>span { display:inline; float:left; position:relative; }
 table.chordChart td,
 div.bar, div.line>div, div.chordChart>div>div {
   position:relative;
