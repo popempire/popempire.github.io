@@ -136,7 +136,7 @@ table.chordChart th, div.chordChart div.label {
 table.chordChart td.comment, .chordChart div.comment,
 table.chordChart td.comment:first-of-type,
 div.chordChart div.comment:first-of-type {
-  font-family: "Inconsolata", monospace;
+  font-family: "Consolas", "Inconsolata", monospace;
   font-style: italic;
   border: none;
   line-height: 20pt;
