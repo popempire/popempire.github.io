@@ -44,6 +44,7 @@ table.chordChart {
   color: #ccc;
   font-family: "Inconsolata", monospace;
   font-size:10pt;                       /* cf ALTERNATIVE WIDTHS */
+  font-variation-settings: "wdth" 112.5;
   letter-spacing: 7.2pt;                /* cf ALTERNATIVE WIDTHS */
   line-height: 4pt;
   height: 4pt; }
