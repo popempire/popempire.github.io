@@ -90,16 +90,17 @@ table.chordChart {
 /* CHORD ACCENT and ARTICULATION styling */
 .chord.marcato::after, .chordChart b.marcato::after { /* MARCATO */
   content: "^";
+  font-family: "Inconsolata", monospace;
+  font-weight: 600;
   position:absolute;
-  font-weight: bold;
   top: -0.4em; left: -0.1ch; }
 .chord.diamond::after, .chordChart b.diamond::after { /* DIAMOND */
   content: "◇";
   font-family: "Inconsolata", monospace;
   font-size: 12pt;
-  font-weight: normal;
+  font-weight: 400;
   position: absolute;
-  top: -0.8em; left: 0; }
+  top: -0.8em; left: -1pt; }
 .chord.push::before, .chordChart b.push::before { /* PUSH */
   content: "<";
   font-family: "Archivo", sans-serif;
