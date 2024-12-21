@@ -65,8 +65,14 @@ table.chordChart {
 .chordChart q::before, .chordChart q::after { content: none; }
 
 /* CHORD NAME styling */
-.chord, .chordChart b { display:block; position: relative;
-  font-size:14pt; font-weight: bold; height: 16pt; line-height: 16pt;
+.chord, .chordChart b {
+  display:block;
+  position: relative;
+  font-size: 14pt; 
+  font-weight: 600; 
+  font-variation-settings: "wdth" 87.5;
+  height: 16pt; 
+  line-height: 16pt;
   margin-right: 2pt; }
 .chord sub, .chord sup, .chordChart b sub, .chordChart b sup {
   vertical-align: baseline;
@@ -93,7 +99,7 @@ table.chordChart {
   font-size: 12pt;
   font-weight: normal;
   position: absolute;
-  top: -0.8em; left: -2pt; }
+  top: -0.8em; left: 0; }
 .chord.push::before, .chordChart b.push::before { /* PUSH */
   content: "<";
   font-family: "Archivo", sans-serif;
