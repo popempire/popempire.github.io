@@ -17,8 +17,11 @@
   font-style: italic;
   src: url("../fonts/consolaz.ttf"); }
 
-.chordChart { font-size: 10pt;
-  font-family: "Consolas", myConsolas, "Inconsolata", monospace;
+
+div.chordChart, table.chordChart { 
+  font-size: 10pt;
+  font-family: /*"Consolas", myConsolas,*/ "Inconsolata", monospace;
+  font-weight: 400;
   text-align: left;
   clear:both;
   break-inside: avoid;
@@ -30,33 +33,28 @@ div.chordChart {
 table.chordChart {
   margin: 0 0 -1em; }
 
-/* SECTION TITLES / LABELS */
-div.chordChart div.label {
-  display:block; width:100%; padding:1px; margin: 0 0 5pt; }
-table.chordChart th, div.chordChart div.label {
-  font-weight: bold; text-align: center;
-  color:#000; background-color:hsl(330,100%,80%); }
+/* CHORD RHYTHM */
+.rhythm, .chordChart i {
+  display:block;
+  color: #ccc;
+  font-size:10pt;                       /* cf ALTERNATIVE WIDTHS */
+  letter-spacing: 7.2pt;                /* cf ALTERNATIVE WIDTHS */
+  line-height: 4pt;
+  height: 4pt; }
 
-/* BRACES */
-div.bar.braceLeft::before, table.chordChart td.braceLeft::before {
-  content: "{";
-  font-size: 24pt;
-  font-family: "Archivo", sans-serif;
-  font-weight: 100;
+/* LYRICS OR INLINE NOTES */
+.lyrics, .chordChart q {
   position: absolute;
-  line-height: 20pt;
-  left: -10pt; }
-div.bar.braceRight::after, table.chordChart td.braceRight::after {
-  content: "}";
-  font-size: 24pt;
-  font-family: "Archivo", sans-serif;
-  font-weight: 100;
-  position: absolute;
-  line-height: 20pt;
-  right: -10pt;
-  top: 0; }
-div.bar.braceRight { margin-right: 1em; }
-table.chordChart td.braceRight+td { padding-left: 1.5em; }
+  white-space: nowrap;
+  bottom: 100%;
+  display:block;
+  font-size:9pt;
+  color: #666;
+  line-height: 5pt;
+  height: 5pt;
+  font-variation-settings: "wdth" 115;        /* cf ALTERNATIVE WIDTHS */
+  font-style: italic; }
+.chordChart q::before, .chordChart q::after { content: none; }
 
 /* CHORD NAME styling */
 .chord, .chordChart b { display:block; position: relative;
@@ -74,17 +72,6 @@ table.chordChart td.braceRight+td { padding-left: 1.5em; }
   bottom: 40%; }
 .chord sup+sub, .chord sub+sup, .chordChart b sup+sub, .chordChart b sub+sup {
   position:relative; left: -1ch; }
-
-/* CHORD RHYTHM */
-.rhythm, .chordChart i {
-  display:block; font-size:9pt; color: #ccc; letter-spacing: 1ch; line-height: 4pt; height: 4pt; }
-
-/* CHORD ANNOTATION */
-.lyrics, .chordChart q {
-  position: absolute; white-space: nowrap; bottom: 100%;
-  display:block; font-size:9pt; color: #666; line-height: 5pt; height: 5pt;
-  /*font-family: 'garamond-premier-pro', Garamond, serif; */ font-style: italic; }
-.chordChart q::before, .chordChart q::after { content: none; }
 
 /* CHORD ACCENT and ARTICULATION styling */
 .chord.marcato::after, .chordChart b.marcato::after { /* MARCATO */
@@ -116,6 +103,13 @@ table.chordChart td.braceRight+td { padding-left: 1.5em; }
 table.chordChart { border-spacing: 0 1em; border-collapse: separate; }
 div.line, div.chordChart>div { display: flex; padding: 0.5em 0; clear: both; }
 
+/* SECTION TITLES / LABELS */
+div.chordChart div.label {
+  display:block; width:100%; padding:1px; margin: 0 0 5pt; }
+table.chordChart th, div.chordChart div.label {
+  font-weight: bold; text-align: center;
+  color:#000; background-color:hsl(330,100%,80%); }
+
 /* COMMENT styling */
 table.chordChart td.comment, .chordChart div.comment,
 table.chordChart td.comment:first-of-type,
@@ -134,36 +128,77 @@ table.chordChart td,
 div.bar, div.line>div, div.chordChart>div>div {
   position:relative;
   border-right: 1pt solid;
-  padding-left: 0.5ch; min-width: 4ch; }
+  padding-left: 2pt;                  /* cf ALTERNATIVE WIDTHS */
+  min-width: 4ch; }
 table.chordChart tr td:first-of-type,
 div.bar:first-of-type, div.line>div:first-of-type, div.chordChart>div>div:first-of-type
  { border-left: 1pt solid;}
 
+/* BRACES */
+div.bar.braceLeft::before, table.chordChart td.braceLeft::before {
+  content: "{";
+  font-size: 24pt;
+  font-family: "Archivo", sans-serif;
+  font-weight: 100;
+  position: absolute;
+  line-height: 20pt;
+  left: -10pt; }
+div.bar.braceRight::after, table.chordChart td.braceRight::after {
+  content: "}";
+  font-size: 24pt;
+  font-family: "Archivo", sans-serif;
+  font-weight: 100;
+  position: absolute;
+  line-height: 20pt;
+  right: -10pt;
+  top: 0; }
+div.bar.braceRight { margin-right: 1em; }
+table.chordChart td.braceRight+td { padding-left: 1.5em; }
+
+/*---------------------------------------------
+-------------ALTERNATIVE WIDTHS----------------
+----------------------------------------------*/
+
+/* EXTRA-NARROW styling */
+.chordChart.extraNarrow i, .chordChart.extraNarrow .rhythm {    /* CHORD RHYTHM */
+  font-size: 9pt;
+  letter-spacing: 3.6pt; }
+.chordChart.extraNarrow .lyrics, .chordChart.extraNarrow q {    /* CHORD LYRICS/NOTES */
+  font-variation-settings: "wdth" 95; }
+.chordChart.extraNarrow td,
+.chordChart.extraNarrow div.bar,
+.chordChart.extraNarrow div.line>div,
+div.chordChart.extraNarrow>div>div {                       /* MEASURE */
+  padding-left: 1pt; }
+
 /* NARROW styling */
-.chordChart.narrow i, .chordChart.narrow .rhythm {
-  letter-spacing: 0.5ch; }
-.chordChart.narrow .lyrics, .chordChart.narrow q {
-  font-stretch: condensed; }
+.chordChart.narrow i, .chordChart.narrow .rhythm {    /* CHORD RHYTHM */
+  font-size: 9pt;
+  letter-spacing: 5.4pt; }
+.chordChart.narrow .lyrics, .chordChart.narrow q {    /* CHORD LYRICS/NOTES */
+  font-variation-settings: "wdth" 105; }
 .chordChart.narrow td,
 .chordChart.narrow div.bar,
 .chordChart.narrow div.line>div,
-div.chordChart.narrow>div>div {
-  padding-left: 0.5ch; }
+div.chordChart.narrow>div>div {                       /* MEASURE */
+  padding-left: 1.5pt; }
 
 /* WIDE styling */
-.chordChart.wide i, .chordChart.wide .rhythm {
+.chordChart.wide i, .chordChart.wide .rhythm {        /* CHORD RHYTHM */
   font-size:10pt;
-  letter-spacing: 7.2pt; }
-.chordChart.wide .lyrics, .chordChart.wide q {
-  font-stretch: normal; }
+  letter-spacing: 9.6pt; }
+.chordChart.wide .lyrics, .chordChart.wide q {        /* CHORD LYRICS/NOTES */
+  font-variation-settings: "wdth" 125; }
 .chordChart.wide td,
 .chordChart.wide div.bar,
 .chordChart.wide div.line>div,
-div.chordChart.wide>div>div {
-  padding-left: 2pt; }
+div.chordChart.wide>div>div {                         /* MEASURE */
+  padding-left: 3pt; }
 
 /* PRE text-only styling */
 pre.chordChart {
+  font-family: "Inconsolata", monospace;
+  font-variation-settings: "wdth" 125;
   font-size: 1rem; }
 .chordChart pre sub, .chordChart pre sup, pre.chordChart sub, pre.chordChart sup {
   vertical-align: baseline;
@@ -174,5 +209,6 @@ pre.chordChart {
   letter-spacing: inherit; }
 pre.chordChart b, pre.chordChart i {
   font-size: 1em;
+  font-variation-settings: "wdth" 125;
   letter-spacing: normal; margin: 0;
   display: inline; position: static; }
