@@ -91,7 +91,8 @@ table.chordChart {
 .chord.marcato::after, .chordChart b.marcato::after { /* MARCATO */
   content: "^";
   font-family: "Inconsolata", monospace;
-  font-weight: 600;
+  font-weight: 500;
+  font-variation-settings: "wdth" 140;
   position:absolute;
   top: -0.4em; left: -0.1ch; }
 .chord.diamond::after, .chordChart b.diamond::after { /* DIAMOND */
