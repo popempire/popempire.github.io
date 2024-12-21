@@ -221,7 +221,7 @@ div.chordChart.wide>div>div {                         /* MEASURE */
 
 /* PRE text-only styling */
 pre.chordChart {
-  font-family: "Inconsolata", monospace;
+  font-family: "Consolas", "Inconsolata", monospace;
   font-variation-settings: "wdth" 125;
   font-size: 1rem; }
 .chordChart pre sub, .chordChart pre sup, pre.chordChart sub, pre.chordChart sup {
