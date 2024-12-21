@@ -8,18 +8,18 @@
   font-family: "Consolas";
   font-weight: bold;
   src: local ("Consolas"),
-       url("../fonts/consola.ttf"); }
+       url("../fonts/consolab.ttf"); }
 @font-face {
   font-family: "Consolas";
   font-style: italic;
   src: local ("Consolas"),
-       url("../fonts/consola.ttf"); }
+       url("../fonts/consolai.ttf"); }
 @font-face {
   font-family: "Consolas";
   font-weight: bold;
   font-style: italic;
   src: local ("Consolas"),
-       url("../fonts/consola.ttf"); }
+       url("../fonts/consolaz.ttf"); }
 
 
 div.chordChart, table.chordChart { 
