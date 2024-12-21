@@ -229,11 +229,15 @@ pre.chordChart {
   vertical-align: baseline;
   position:relative;
   top:0.5em;
+  font-family: inherit;
   font-size:1em;
   font-weight: inherit;
-  letter-spacing: inherit; }
+  letter-spacing: 0; }
 pre.chordChart b, pre.chordChart i {
+  font-family: inherit;
   font-size: 1em;
   font-variation-settings: "wdth" 125;
-  letter-spacing: normal; margin: 0;
-  display: inline; position: static; }
+  letter-spacing: normal;
+  margin: 0;
+  display: inline;
+  position: static; }
