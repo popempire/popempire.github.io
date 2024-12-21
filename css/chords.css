@@ -7,18 +7,18 @@
 @font-face {
   font-family: "Consolas";
   font-weight: bold;
-  src: local ("Consolas"),
+  src: local ("Consolas Bold"),
        url("../fonts/consolab.ttf"); }
 @font-face {
   font-family: "Consolas";
   font-style: italic;
-  src: local ("Consolas"),
+  src: local ("Consolas Italic"),
        url("../fonts/consolai.ttf"); }
 @font-face {
   font-family: "Consolas";
   font-weight: bold;
   font-style: italic;
-  src: local ("Consolas"),
+  src: local ("Consolas Bold Italic"),
        url("../fonts/consolaz.ttf"); }
 
 
