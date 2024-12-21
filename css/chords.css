@@ -1,26 +1,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wdth,wght@0,62..125,100..900;1,62..125,100..900&family=Inconsolata:wdth,wght@50..200,200..900&display=swap');
 
 @font-face {
-  font-family: myConsolas;
-  src: url("../fonts/consola.ttf"); }
+  font-family: "Consolas";
+  src: local ("Consolas"),
+       url("../fonts/consola.ttf"); }
 @font-face {
-  font-family: myConsolas;
+  font-family: "Consolas";
   font-weight: bold;
-  src: url("../fonts/consolab.ttf"); }
+  src: local ("Consolas"),
+       url("../fonts/consola.ttf"); }
 @font-face {
-  font-family: myConsolas;
+  font-family: "Consolas";
   font-style: italic;
-  src: url("../fonts/consolai.ttf"); }
+  src: local ("Consolas"),
+       url("../fonts/consola.ttf"); }
 @font-face {
-  font-family: myConsolas;
+  font-family: "Consolas";
   font-weight: bold;
   font-style: italic;
-  src: url("../fonts/consolaz.ttf"); }
+  src: local ("Consolas"),
+       url("../fonts/consola.ttf"); }
 
 
 div.chordChart, table.chordChart { 
   font-size: 10pt;
-  font-family: /*"Consolas", myConsolas,*/ "Archivo", sans-serif;
+  font-family: /*"Consolas",*/ "Archivo", sans-serif;
   font-weight: 400;
   font-variation-settings: "wdth" 100;
   text-align: left;
@@ -50,12 +54,14 @@ table.chordChart {
   white-space: nowrap;
   bottom: 100%;
   display:block;
+  font-family: "Inconsolata", monospace;
   font-size:9pt;
+  font-variation-settings: "wdth" 115;        /* cf ALTERNATIVE WIDTHS */
+  font-style: italic; 
   color: #666;
   line-height: 5pt;
-  height: 5pt;
-  font-variation-settings: "wdth" 115;        /* cf ALTERNATIVE WIDTHS */
-  font-style: italic; }
+  height: 5pt; }
+  
 .chordChart q::before, .chordChart q::after { content: none; }
 
 /* CHORD NAME styling */
@@ -123,6 +129,7 @@ table.chordChart th, div.chordChart div.label {
 table.chordChart td.comment, .chordChart div.comment,
 table.chordChart td.comment:first-of-type,
 div.chordChart div.comment:first-of-type {
+  font-family: "Inconsolata", monospace;
   font-style: italic;
   border: none;
   line-height: 20pt;
