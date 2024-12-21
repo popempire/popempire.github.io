@@ -154,7 +154,7 @@ div.bar, div.line>div, div.chordChart>div>div {
   position:relative;
   border-right: 1pt solid;
   padding-left: 2pt;                  /* cf ALTERNATIVE WIDTHS */
-  min-width: 4ch; }
+  min-width: 4em; }
 table.chordChart tr td:first-of-type,
 div.bar:first-of-type, div.line>div:first-of-type, div.chordChart>div>div:first-of-type
  { border-left: 1pt solid;}
@@ -193,7 +193,7 @@ table.chordChart td.braceRight+td { padding-left: 1.5em; }
 .chordChart.extraNarrow div.bar,
 .chordChart.extraNarrow div.line>div,
 div.chordChart.extraNarrow>div>div {                       /* MEASURE */
-  min-width: 2ch;
+  min-width: 2em;
   padding-left: 1pt; }
 
 /* NARROW styling */
@@ -205,7 +205,7 @@ div.chordChart.extraNarrow>div>div {                       /* MEASURE */
 .chordChart.narrow div.bar,
 .chordChart.narrow div.line>div,
 div.chordChart.narrow>div>div {                       /* MEASURE */
-  min-width: 3ch;
+  min-width: 3em;
   padding-left: 1.5pt; }
 
 /* WIDE styling */
@@ -217,7 +217,7 @@ div.chordChart.narrow>div>div {                       /* MEASURE */
 .chordChart.wide div.bar,
 .chordChart.wide div.line>div,
 div.chordChart.wide>div>div {                         /* MEASURE */
-  min-width: 6ch;
+  min-width: 6em;
   padding-left: 3pt; }
 
 /* PRE text-only styling */
