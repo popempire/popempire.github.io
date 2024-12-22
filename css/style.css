@@ -19,7 +19,7 @@ body {
     min-height:40rem;
     width: 7.5in;
     max-width:100%;
-    margin:0 auto;
+    margin:0 auto 0.5in;
     padding: 0 0.25in; }
 
 @media print {
