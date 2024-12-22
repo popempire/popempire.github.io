@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Pop Empire Song List"
-permalink: "songs/"
-tags: index
+permalink: "/songs/"
+logo: true
 ---
 
 ### *The Violent Bear It Away* era ###
