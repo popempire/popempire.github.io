@@ -9,6 +9,10 @@ TEAL        hsl(165,80%,60%)    #47ebc2     rgb(71,235,195)
 
 html {
     font-size: 16px;}
+
+@media screen and (min-width: 1280px) {
+    html { font-size: 20px; }}
+    
 body {
     background-color:#111;
     color:#fcf9f3;
