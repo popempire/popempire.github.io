@@ -121,7 +121,8 @@ main p {
         columns: 2;}
     .twoColumn section, .twoColumn pre {
       break-inside: avoid-column; }
-    .twoColumn pre:first-of-type {
+    .twoColumn pre:first-of-type,
+    .twoColumn h1, .twoColumn h2, .twoColumn h3, .twoColumn h4, .twoColumn h5, .twoColumn h6 {
         margin-top:0; }
     }
 
