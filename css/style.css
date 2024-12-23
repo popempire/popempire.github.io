@@ -150,24 +150,22 @@ nav a:hover {
 .popTeal {
     color:#000;
     background-color: hsl(165,80%,60%);}
-.popTeal2 {
-    color: hsl(165,80%,60%);
-    background-color:#000;}
 .popPink {
     color:#fff;
     background-color: hsl(330,100%,60%);}
 .popLitePink {
     color:#000;
     background-color:hsl(330,100%,80%);}
-.popLitePink2 {
-    color:hsl(330,100%,80%);
-    background-color:#000;}
-.popPink2 {
-    color:hsl(330,100%,60%);
-    background-color:#000;}
 .popBW {
     color:#000;
     background-color: #fff;}
+
+.popTeal2 {
+    color: hsl(165,80%,60%); }
+.popLitePink2 {
+    color:hsl(330,100%,80%); }
+.popPink2 {
+    color:hsl(330,100%,60%); }
 
 /* font classes */
 
