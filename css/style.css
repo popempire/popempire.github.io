@@ -12,19 +12,19 @@ html {
 
 @media screen and (min-width: 1280px) {
     html { font-size: 20px; }}
-    
+
 body {
     background-color:#111;
     color:#fcf9f3;
     text-align: center;
     font-family: "Consolas", "Inconsolata", monospace;
     font-size:1rem;
-    line-height:1.5rem;
+    line-height:1.5em;
     min-height:40rem;
-    width: 7.5in;
+    width: 45rem;
     max-width:100%;
-    margin:0 auto 0.5in;
-    padding: 0 0.25in; }
+    margin:0 auto 3rem;
+    padding: 0 1.5rem; }
 
 @media print {
     body {
