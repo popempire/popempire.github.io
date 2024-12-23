@@ -81,6 +81,7 @@ h4 {font-family: "garamond-premier-pro", serif;
     line-height: 1.5rem;}
 
 ul, ol {
+    padding-left: 3rem;
     text-align: left; }
 
 pre, code {
@@ -115,7 +116,8 @@ main p {
     text-align: left;
     font-family: "garamond-premier-pro", "Garamond", serif;
     font-size: 1rem;
-    margin-bottom: 1em; }
+    margin:0 auto 1em;
+    max-width: 39rem; }
 
 /* two-column format */
 
