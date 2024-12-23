@@ -80,9 +80,9 @@ h4 {font-family: "garamond-premier-pro", serif;
 ul, ol {
     text-align: left; }
 
-pre {
+pre, code {
     text-align: left;
-    /*margin-left: 4em;*/
+    margin: 1em 2.5rem;
     line-height: 1rem;
     font-size: 0.833rem; }
 
@@ -169,14 +169,17 @@ nav a:hover {
 
 /* font classes */
 
-.fontGaramond {
+.fontGaramond,
+main p {
     font-family: 'garamond-premier-pro', 'Garamond', serif;
     font-style: normal;}
 
-.fontGranjon {
+.fontGranjon,
+blockquote {
     font-family: 'garamond-premier-pro', 'Garamond', serif;
     font-style: italic;}
-.fontGranjon em, .fontGranjon i {
+.fontGranjon em, .fontGranjon i,
+blockquote em, blockquote i {
     font-style: normal;}
 
 .sansSerif {
