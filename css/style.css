@@ -84,7 +84,7 @@ ul, ol {
     padding-left: 3rem;
     text-align: left; }
 
-pre, blockquote {
+pre {
     text-align: left;
     margin: 1em 3rem;
     line-height: 1rem;
