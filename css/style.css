@@ -11,7 +11,7 @@ html {
     font-size: 16px;}
 body {
     background-color:#111;
-    color:#ffe;
+    color:#fcf9f3;
     text-align: center;
     font-family: "Consolas", "Inconsolata", monospace;
     font-size:1rem;
@@ -43,7 +43,8 @@ img, iframe {
     max-width: 100%;}
 
 hr {
-    margin: 2rem 12rem;
+    margin: 2rem;
+    max-width: 10rem;
     border: 1pt dashed #ff99cc; }
 
 h1, h2, h3, h4, h5, h6 {
@@ -85,7 +86,7 @@ pre {
     line-height: 1rem;
     font-size: 0.833rem; }
 
-/* ID-specific styles */
+/* primary body area styles */
 
 header {
     margin:0 auto 1rem;
@@ -107,6 +108,14 @@ main {
     margin: 1rem auto;
     padding: 0 0 2rem; }
 
+main p {
+    text-align: left;
+    font-family: "garamond-premier-pro", "Garamond", serif;
+    font-size: 1rem;
+    margin-bottom: 1em; }
+
+/* two-column format */
+
 @media print, (min-width: 800px) {
     .twoColumn {
         columns: 2;}
@@ -115,6 +124,8 @@ main {
     .twoColumn pre:first-of-type {
         margin-top:0; }
     }
+
+/* nav links */
 
 nav {
     background-color: hsl(330,100%,60%);
@@ -132,11 +143,6 @@ nav a:visited, nav a {
 nav a:hover {
     color:black;}
 
-main p {
-    text-align: left;
-    font-family: "garamond-premier-pro", "Garamond", serif;
-    font-size: 1rem;
-    margin-bottom: 1em; }
 
 /* color scheme classes */
 
