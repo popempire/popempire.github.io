@@ -23,7 +23,7 @@
 
 
 div.chordChart, table.chordChart { 
-  font-size: 10pt;
+  font-size: 0.833rem;
   font-family: /*"Consolas",*/ "Archivo", sans-serif;
   font-weight: 400;
   font-variation-settings: "wdth" 100;
@@ -43,11 +43,11 @@ table.chordChart {
   display:block;
   color: #ccc;
   font-family: "Inconsolata", monospace;
-  font-size:10pt;                       /* cf ALTERNATIVE WIDTHS */
+  font-size: 1em;                       /* cf ALTERNATIVE WIDTHS */
   font-variation-settings: "wdth" 112.5;
-  letter-spacing: 7.2pt;                /* cf ALTERNATIVE WIDTHS */
-  line-height: 4pt;
-  height: 4pt; }
+  letter-spacing: 0.72em;                /* cf ALTERNATIVE WIDTHS */
+  line-height: 0.4em;
+  height: 0.4em; }
 
 /* LYRICS OR INLINE NOTES */
 .lyrics, .chordChart q {
@@ -56,12 +56,12 @@ table.chordChart {
   bottom: 100%;
   display:block;
   font-family: "Archivo", sans-serif;
-  font-size:9pt;
+  font-size: 0.9em;
   font-variation-settings: "wdth" 115;        /* cf ALTERNATIVE WIDTHS */
   font-style: italic; 
   color: #666;
-  line-height: 5pt;
-  height: 5pt; }
+  line-height: 0.5em;
+  height: 0.5em; }
   
 .chordChart q::before, .chordChart q::after { content: none; }
 
@@ -69,16 +69,16 @@ table.chordChart {
 .chord, .chordChart b {
   display:block;
   position: relative;
-  font-size: 14pt; 
+  font-size: 1.4em; 
   font-weight: 600; 
   font-variation-settings: "wdth" 87.5;
-  height: 16pt; 
-  line-height: 16pt;
-  margin-right: 2pt; }
+  height: 1.14em; 
+  line-height: 1.14em;
+  margin-right: 0.14em; }
 .chord sub, .chord sup, .chordChart b sub, .chordChart b sup {
   vertical-align: baseline;
   position: relative;
-  font-size: 12pt;}
+  font-size: 0.85em;}
 .chord sub, .chordChart b sub {
   top: 10%;
   font-weight: 500;
@@ -99,26 +99,26 @@ table.chordChart {
 .chord.diamond::after, .chordChart b.diamond::after { /* DIAMOND */
   content: "◇";
   font-family: "Inconsolata", monospace;
-  font-size: 12pt;
+  font-size: 0.85em;    /* 12pt */
   font-weight: 400;
   position: absolute;
-  top: -0.8em; left: -1pt; }
+  top: -0.8em; left: -0.08em; }
 .chord.push::before, .chordChart b.push::before { /* PUSH */
   content: "<";
   font-family: "Archivo", sans-serif;
-  font-size: 12pt;
+  font-size: 0.85em;    /* 12pt */
   font-weight: 200;
   position: absolute;
   top: -0.6em; left: -0.7ch; }
 
 /* SMALL chords */
 .chordChart small {
-  font-size: 10pt;
+  font-size: 0.7em;
   font-weight: 500;
   font-variation-settings: "wdth" 75;
   letter-spacing: -0.2ch; }
 .chordChart small sub, .chordChart small sup {
-  font-size:9pt; }
+  font-size: 0.9em; }
 
 /* LINE of CHORD CHART styling */
 table.chordChart { border-spacing: 0 1em; border-collapse: separate; }
@@ -126,7 +126,7 @@ div.line, div.chordChart>div { display: flex; padding: 0.5em 0; clear: both; }
 
 /* SECTION TITLES / LABELS */
 div.chordChart div.label {
-  display:block; width:100%; padding:1px; margin: 0 0 5pt; }
+  display:block; width:100%; padding:0.08em; margin: 0 0 0.5em; }
 table.chordChart th, div.chordChart div.label {
   font-weight: bold;
   font-variation-settings: "wdth" 125;
@@ -141,7 +141,7 @@ div.chordChart div.comment:first-of-type {
   font-family: "Consolas", "Inconsolata", monospace;
   font-style: italic;
   border: none;
-  line-height: 20pt;
+  line-height: 2em;
   padding-left: 1ch; }
 
 /* MEASURE/BAR styling */
@@ -151,30 +151,30 @@ table.chordChart td>span { display:inline; float:left; position:relative; }
 table.chordChart td,
 div.bar, div.line>div, div.chordChart>div>div {
   position:relative;
-  border-right: 1pt solid;
-  padding-left: 2pt;                  /* cf ALTERNATIVE WIDTHS */
+  border-right: 0.1em solid;
+  padding-left: 0.2em;                  /* cf ALTERNATIVE WIDTHS */
   min-width: 2em; }
 table.chordChart tr td:first-of-type,
 div.bar:first-of-type, div.line>div:first-of-type, div.chordChart>div>div:first-of-type
- { border-left: 1pt solid;}
+ { border-left: 0.1em solid;}
 
 /* BRACES */
 div.bar.braceLeft::before, table.chordChart td.braceLeft::before {
   content: "{";
-  font-size: 24pt;
+  font-size: 2.4em;
   font-family: "Archivo", sans-serif;
   font-weight: 100;
   position: absolute;
-  line-height: 20pt;
-  left: -10pt; }
+  line-height: 0.833em;
+  left: -0.417em; }
 div.bar.braceRight::after, table.chordChart td.braceRight::after {
   content: "}";
-  font-size: 24pt;
+  font-size: 2.4em;
   font-family: "Archivo", sans-serif;
   font-weight: 100;
   position: absolute;
-  line-height: 20pt;
-  right: -10pt;
+  line-height: 0.833rem;
+  right: -0.417em;
   top: 0; }
 div.bar.braceRight { margin-right: 1em; }
 table.chordChart td.braceRight+td { padding-left: 1.5em; }
@@ -185,7 +185,7 @@ table.chordChart td.braceRight+td { padding-left: 1.5em; }
 
 /* EXTRA-NARROW styling */
 .chordChart.extraNarrow i, .chordChart.extraNarrow .rhythm {    /* CHORD RHYTHM */
-  letter-spacing: 3.6pt; }
+  letter-spacing: 0.36em; }
 .chordChart.extraNarrow .lyrics, .chordChart.extraNarrow q {    /* CHORD LYRICS/NOTES */
   font-variation-settings: "wdth" 95; }
 .chordChart.extraNarrow td,
@@ -193,11 +193,11 @@ table.chordChart td.braceRight+td { padding-left: 1.5em; }
 .chordChart.extraNarrow div.line>div,
 div.chordChart.extraNarrow>div>div {                       /* MEASURE */
   min-width: 1em;
-  padding-left: 1pt; }
+  padding-left: 0.1em; }
 
 /* NARROW styling */
 .chordChart.narrow i, .chordChart.narrow .rhythm {    /* CHORD RHYTHM */
-  letter-spacing: 5.4pt; }
+  letter-spacing: .54em; }
 .chordChart.narrow .lyrics, .chordChart.narrow q {    /* CHORD LYRICS/NOTES */
   font-variation-settings: "wdth" 105; }
 .chordChart.narrow td,
@@ -205,11 +205,11 @@ div.chordChart.extraNarrow>div>div {                       /* MEASURE */
 .chordChart.narrow div.line>div,
 div.chordChart.narrow>div>div {                       /* MEASURE */
   min-width: 1.5em;
-  padding-left: 1.5pt; }
+  padding-left: 0.15em; }
 
 /* WIDE styling */
 .chordChart.wide i, .chordChart.wide .rhythm {        /* CHORD RHYTHM */
-  letter-spacing: 9.6pt; }
+  letter-spacing: .96em; }
 .chordChart.wide .lyrics, .chordChart.wide q {        /* CHORD LYRICS/NOTES */
   font-variation-settings: "wdth" 125; }
 .chordChart.wide td,
@@ -217,7 +217,7 @@ div.chordChart.narrow>div>div {                       /* MEASURE */
 .chordChart.wide div.line>div,
 div.chordChart.wide>div>div {                         /* MEASURE */
   min-width: 4em;
-  padding-left: 3pt; }
+  padding-left: 0.3em; }
 
 /* PRE text-only styling */
 pre.chordChart {
