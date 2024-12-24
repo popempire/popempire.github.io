@@ -40,10 +40,10 @@ body {
 }
 
 a {
-    color: hsl(330,100%,60%);
+    color: hsl(335,100%,60%);
     text-decoration: none; }
 a:visited {
-    color: hsl(330,100%,80%);}
+    color: hsl(330,94%,80%);}
 a:hover {
     text-decoration: underline; }
 
@@ -121,9 +121,9 @@ main {
 main p {
     text-align: left;
     font-family: "garamond-premier-pro", "Garamond", serif;
-    font-size: 1rem;
+    font-size: 1.08rem;
     margin:0 auto 1em;
-    max-width: 39rem; }
+    /* max-width: 39rem; */ }
 
 /* two-column format */
 
@@ -188,6 +188,7 @@ main p {
 .fontGranjon,
 blockquote {
     font-family: 'garamond-premier-pro', 'Garamond', serif;
+    font-size: 1.08em;
     font-style: italic;}
 .fontGranjon em, .fontGranjon i,
 blockquote em, blockquote i {
