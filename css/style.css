@@ -93,9 +93,10 @@ ul, ol {
 
 pre {
     text-align: left;
-    margin: 1em 0;
+    margin: 1em auto;
     line-height: 1em;
     font-size: 0.833rem;
+    width:fit-content;
     white-space: pre-wrap; }
 
 /* primary body area styles */
