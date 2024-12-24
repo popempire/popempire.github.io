@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wdth@112.5&display=swap');
+⁸@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wdth@112.5&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wdth,wght@0,75..112.5,200..700;1,75..112.5,200..700&display=swap');
 
 /*
@@ -96,7 +96,8 @@ pre {
     margin: 1em 0;
     line-height: 1em;
     font-size: 0.833rem;
-    white-space: pre-wrap; }
+    width:fit-content;
+    white-space: pre; }
 
 /* primary body area styles */
 
