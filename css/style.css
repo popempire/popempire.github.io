@@ -1,10 +1,19 @@
+---
+turquoise: "#47ebda"
+---
+
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wdth@112.5&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wdth,wght@0,75..112.5,200..700;1,75..112.5,200..700&display=swap');
 
 /*
 HOT PINK    hsl(330,100%,60%)   #ff3399     rgb(255,51,153)
+            hsl(335,100%,60%)   #ff3388     
 LITE PINK   hsl(330,100%,80%)   #ff99cc     rgb(255,153,204)
+            hsl(330,95%,80%)    
 TEAL        hsl(165,80%,60%)    #47ebc2     rgb(71,235,195)
+            hsl(170,80%,60%)
+BLACK       hsl(0,0,7%)         #111111
+white       hsl(40,60%,97%)     #fcf9f3
 */
 
 html {
@@ -153,20 +162,20 @@ nav a:hover {
 /* color scheme classes */
 
 .popTeal {
-    color:#000;
-    background-color: hsl(165,80%,60%);}
+    color:#111;
+    background-color: hsl(170,80%,60%);}
 .popPink {
     color:#fcf9f3;
     background-color: hsl(330,100%,60%);}
 .popLitePink {
-    color:#000;
+    color:#111;
     background-color:hsl(330,100%,80%);}
 .popBW {
     color:#111;
     background-color: #fcf9f3;}
 
 .popTeal2 {
-    color: hsl(165,80%,60%); }
+    color: hsl(170,80%,60%); }
 .popLitePink2 {
     color:hsl(330,100%,80%); }
 .popPink2 {
