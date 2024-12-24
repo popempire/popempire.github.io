@@ -96,8 +96,7 @@ pre {
     margin: 1em 0;
     line-height: 1em;
     font-size: 0.833rem;
-    width:fit-content;
-    white-space: pre; }
+    white-space: pre-wrap; }
 
 /* primary body area styles */
 
