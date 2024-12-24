@@ -5,9 +5,9 @@
 HOT PINK    hsl(330,100%,60%)   #ff3399     rgb(255,51,153)
             hsl(335,100%,60%)   #ff3388     
 LITE PINK   hsl(330,100%,80%)   #ff99cc     rgb(255,153,204)
-            hsl(330,95%,80%)    
+            hsl(330,94%,80%)    #fc9ccc
 TEAL        hsl(165,80%,60%)    #47ebc2     rgb(71,235,195)
-            hsl(170,80%,60%)
+            hsl(174,80%,60%)    #47ebda
 BLACK       hsl(0,0,7%)         #111111
 white       hsl(40,60%,97%)     #fcf9f3
 */
@@ -53,7 +53,7 @@ img, iframe {
 hr {
     margin: 2rem auto;
     max-width: 12rem;
-    border: 1pt dashed #ff99cc; }
+    border: 1pt dashed #fc9ccc; }
 
 h1, h2, h3, h4, h5, h6 {
     margin: 1rem 0 1em;}
@@ -139,7 +139,7 @@ main p {
 /* nav links */
 
 nav {
-    background-color: hsl(330,100%,60%);
+    background-color: hsl(335,100%,60%);
     padding: 1em;
     margin: 1.5rem auto 2.5rem;
     max-width: 72ch; }
@@ -159,23 +159,23 @@ nav a:hover {
 
 .popTeal {
     color:#111;
-    background-color: hsl(170,80%,60%);}
+    background-color: hsl(174,80%,60%);}
 .popPink {
     color:#fcf9f3;
-    background-color: hsl(330,100%,60%);}
+    background-color: hsl(335,100%,60%);}
 .popLitePink {
     color:#111;
-    background-color:hsl(330,100%,80%);}
+    background-color:hsl(330,94%,80%);}
 .popBW {
     color:#111;
     background-color: #fcf9f3;}
 
 .popTeal2 {
-    color: hsl(170,80%,60%); }
+    color: hsl(174,80%,60%); }
 .popLitePink2 {
-    color:hsl(330,100%,80%); }
+    color:hsl(330,94%,80%); }
 .popPink2 {
-    color:hsl(330,100%,60%); }
+    color:hsl(335,100%,60%); }
 
 /* font classes */
 
@@ -204,7 +204,7 @@ small, .smallerText {
 @media screen {
     table.chordChart td,
     div.bar, div.line>div, div.chordChart>div>div
-        {border-color: white;}
+        {border-color: hsl(40,60%,97%);}
     }
 @media print {
     table.chordChart td,
