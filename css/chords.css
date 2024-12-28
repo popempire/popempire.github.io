@@ -175,7 +175,7 @@ div.bar.braceRight::after, table.chordChart td.braceRight::after {
   position: absolute;
   line-height: 0.833rem;
   right: -0.417em;
-  top: 0; }
+  top: 0.2em; }
 div.bar.braceRight { margin-right: 1em; }
 table.chordChart td.braceRight+td { padding-left: 1.5em; }
 
