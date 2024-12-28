@@ -5,3 +5,7 @@ collections:
   chords:
     output: true
     permalink: /:collection/:title/
+
+  lyrics:
+    output: true
+    permalink: /:collection/:title/
