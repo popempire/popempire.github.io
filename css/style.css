@@ -209,6 +209,11 @@ blockquote {
 blockquote em, blockquote i {
     font-style: normal;}
 
+.fontConsolas,
+code, kbd {
+    font-family: "Consolas", monospace;
+    font-size: 1em; }
+
 .sansSerif {
     font-family: 'Archivo', sans-serif;
     font-size: 1em;
