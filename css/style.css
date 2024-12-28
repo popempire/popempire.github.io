@@ -210,10 +210,13 @@ blockquote em, blockquote i {
     font-style: normal;}
 
 .fontConsolas,
-code, kbd,
-main p code, main p kbd {
+code, kbd {
     font-family: "Consolas", monospace;
     font-size: 1em; }
+.fontGaramond code, .fontGaramond kbd,
+.fontGranjon code, .fontGranjon kbd,
+main p code, main p kbd {
+    font-size: 0.926em; }
 
 .sansSerif {
     font-family: 'Archivo', sans-serif;
