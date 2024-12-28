@@ -80,7 +80,7 @@ table.chordChart {
   position: relative;
   font-size: 0.85em;}
 .chord sub, .chordChart b sub {
-  top: 10%;
+  top: 25%;
   font-weight: 500;
   letter-spacing: -0.2ch; }
 .chord sup, .chordChart b sup {
