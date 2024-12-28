@@ -1,0 +1,7 @@
+<!-- lyrics from collection -->
+<pre class="lyrics">
+  {%- assign lyrics = site.lyrics | where: 'slug', include.slug -%}
+  {% for theLyrics in lyrics %}
+    {{- theLyrics.content -}}
+  {% endfor %}
+</pre>
