@@ -20,7 +20,7 @@ html {
 
 body {
     background-color:#111;
-    color:#fcf9f3;
+    color:floralwhite;
     text-align: center;
     font-family: "Consolas", "Inconsolata", monospace;
     font-size:1rem;
@@ -167,14 +167,23 @@ nav a:hover {
     color:#111;
     background-color: hsl(174,80%,60%);}
 .popPink {
-    color:#fcf9f3;
+    color:floralwhite;
     background-color: hsl(335,100%,60%);}
 .popLitePink, .bubblegum {
     color:#111;
     background-color:hsl(330,94%,80%);}
 .popBW, .reverse {
     color:#111;
-    background-color: #fcf9f3;}
+    background-color: floralwhite;}
+@media print {
+    .surfGreen, .bubblegum {
+        color: #000; }
+    .popPink {
+        color: #fff; }
+    .reverse {
+        color: #fff;
+        background-color: #000;  }
+    }
 
 .popTeal2, .surfGreenText {
     color: hsl(174,80%,60%); }
@@ -212,7 +221,7 @@ small, .smallerText {
 @media screen {
     table.chordChart td,
     div.bar, div.line>div, div.chordChart>div>div
-        {border-color: hsl(40,60%,97%);}
+        {border-color: floralwhite;}
     }
 @media print {
     table.chordChart td,
