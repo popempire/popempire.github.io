@@ -147,16 +147,17 @@ nav {
     padding: 1em;
     margin: 1.5rem auto 2.5rem;
     max-width: 72ch; }
-nav a div {
-    border: solid 1px white;
+nav a div, nav a {
+    display: block;
+    border: solid 1px floralwhite;
     padding: 1em;
     margin: 1em;}
-nav a div:hover {
-    background-color:white;}
+nav a div:hover, nav a:hover {
+    background-color:floralwhite;}
 nav a:visited, nav a {
-    color:white;}
+    color:floralwhite;}
 nav a:hover {
-    color:black;}
+    color:#111;}
 
 
 /* color scheme classes */
