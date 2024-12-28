@@ -50,7 +50,7 @@ table.chordChart {
   height: 0.4em; }
 
 /* LYRICS OR INLINE NOTES */
-.lyrics, .chordChart q {
+.chordChart .lyrics, .chordChart q {
   position: absolute;
   white-space: nowrap;
   bottom: 100%;
