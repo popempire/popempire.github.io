@@ -126,6 +126,9 @@ main p {
     margin:0 auto 1em;
     /* max-width: 39rem; */ }
 
+section {
+    clear: both; }
+
 /* two-column format */
 
 @media print, (min-width: 800px) {
