@@ -126,7 +126,7 @@ main p {
     margin:0 auto 1em;
     /* max-width: 39rem; */ }
 
-section, article {
+section, article, header, main, footer {
     clear: both; }
 
 /* two-column format */
@@ -227,4 +227,3 @@ iframe.bandcamp {
     height: 15rem; 
     float:right; 
     margin-bottom: 2em; }
-    
