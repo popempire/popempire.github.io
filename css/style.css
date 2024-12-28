@@ -63,27 +63,27 @@ h1 {
     font-family: "Archivo", sans-serif;
     font-weight: 700;
     font-style: normal;
-    font-size: 2.5rem;
+    font-size: 2rem;
     font-variation-settings:"wdth" 112.5;
     text-transform: uppercase;
-    line-height: 3rem;
+    line-height: 2.5rem;
     letter-spacing: -0.075em; }
 
 h2 {font-family: "garamond-premier-pro", serif;
     font-weight: 400;
     font-style: italic;
-    font-size: 2.25rem;
-    line-height: 2.5rem;}
+    font-size: 1.75rem;
+    line-height: 2rem;}
 
 h3 {font-family: "garamond-premier-pro", serif;
     font-weight:400;
-    font-size: 1.75rem;
-    line-height: 2rem;
+    font-size: 1.5rem;
+    line-height: 1.5rem;
     font-variant-caps:small-caps;}
 
 h4 {font-family: "garamond-premier-pro", serif;
     font-weight:700;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     line-height: 1.5rem;}
 
 ul, ol {
