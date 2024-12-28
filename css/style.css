@@ -219,3 +219,12 @@ small, .smallerText {
     div.bar, div.line>div, div.chordChart>div>div
         { border-color: black;}
     }
+
+/* BANDCAMP EMBED */
+iframe.bandcamp {
+    border: 0;
+    width: 15rem; 
+    height: 15rem; 
+    float:right; 
+    margin-bottom: 2em; }
+    
