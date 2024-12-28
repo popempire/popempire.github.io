@@ -210,7 +210,8 @@ blockquote em, blockquote i {
     font-style: normal;}
 
 .fontConsolas,
-code, kbd {
+code, kbd,
+main p code, main p kbd {
     font-family: "Consolas", monospace;
     font-size: 1em; }
 
