@@ -227,6 +227,11 @@ main p code, main p kbd {
 small {
     font-size: 0.5em; }
 
+/* LYRICS STYLING */
+pre.lyrics {
+    font-size: 1em; 
+    line-height: 1.5em; }
+
 /* CONDITIONAL STYLES FOR CHORD CHARTS */
 @media screen {
     table.chordChart td,
