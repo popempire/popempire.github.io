@@ -163,16 +163,16 @@ nav a:hover {
 
 /* color scheme classes */
 
-.popTeal, .surfGreen {
+.surfGreen {
     color:#111;
     background-color: hsl(174,80%,60%);}
 .popPink {
     color:floralwhite;
     background-color: hsl(335,100%,60%);}
-.popLitePink, .bubblegum {
+.bubblegum {
     color:#111;
     background-color:hsl(330,94%,80%);}
-.popBW, .reverse {
+.reverse {
     color:#111;
     background-color: floralwhite;}
 @media print {
@@ -185,11 +185,11 @@ nav a:hover {
         background-color: #000;  }
     }
 
-.popTeal2, .surfGreenText {
+.surfGreenText {
     color: hsl(174,80%,60%); }
-.popLitePink2, .bubblegumText {
+.bubblegumText {
     color:hsl(330,94%,80%); }
-.popPink2, .popPinkText {
+.popPinkText {
     color:hsl(335,100%,60%); }
 
 /* font classes */
