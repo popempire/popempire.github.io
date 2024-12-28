@@ -163,24 +163,24 @@ nav a:hover {
 
 /* color scheme classes */
 
-.popTeal {
+.popTeal, .surfGreen {
     color:#111;
     background-color: hsl(174,80%,60%);}
 .popPink {
     color:#fcf9f3;
     background-color: hsl(335,100%,60%);}
-.popLitePink {
+.popLitePink, .bubblegum {
     color:#111;
     background-color:hsl(330,94%,80%);}
-.popBW {
+.popBW, .reverse {
     color:#111;
     background-color: #fcf9f3;}
 
-.popTeal2 {
+.popTeal2, .surfGreenText {
     color: hsl(174,80%,60%); }
-.popLitePink2 {
+.popLitePink2, .bubblegumText {
     color:hsl(330,94%,80%); }
-.popPink2 {
+.popPink2, .popPinkText {
     color:hsl(335,100%,60%); }
 
 /* font classes */
