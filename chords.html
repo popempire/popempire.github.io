@@ -1,0 +1,13 @@
+---
+layout: default
+logo: true
+permalink: /chords/
+---
+
+<h2>Chord Charts</h2>
+
+<ul>
+{% for song in site.chords %}
+  <li><a href="{{ song.url }}">{{ song.title }}</a></li>
+{% endfor %}
+</ul>
