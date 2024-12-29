@@ -1,9 +1,9 @@
 ---
+layout: lyrics
 slug: some-fun
+title: Some Fun
+writer: Henry Wilson
 ---
-
-Some Fun
-by Henry Wilson
 
 I got free from my pride and passion
 I got an edge on my modern fashion
