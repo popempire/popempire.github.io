@@ -8,6 +8,6 @@ logo: true
 <div class="twoColumn">
 
   {% capture songlist %}{% include_relative songs.md %}{% endcapture %}
-  {{ songlist | markdownify }}
+  {{ songlist.content | markdownify }}
 
 </div>
