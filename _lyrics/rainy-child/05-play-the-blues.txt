@@ -2,11 +2,8 @@
 layout: lyrics
 slug: play-the-blues
 title: Play The Blues
-writer: Henry Wilson
+notes: by Henry Wilson
 ---
-
-Play the Blues
-by Henry Wilson
 
 I got a hole in my soul
   and baby that's alright
