@@ -1,10 +1,9 @@
 ---
-layout: blank
+layout: lyrics
 slug: twirling
+title: Twirling
+writer: Henry Wilson
 ---
-
-Twirling
-by Henry Wilson
 
 You know the literate man
   is full of superstitions
