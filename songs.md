@@ -1,6 +1,3 @@
----
-layout: default
----
 
 ### *The Violent Bear It Away* era ###
 
