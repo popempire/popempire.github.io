@@ -45,6 +45,10 @@ logo: true
  + [Dying Silver Dagger Blues](silver-dagger.txt)
  + [God's Grandeur](gods-grandeur)
 
+### *Rainy Child* ###
+
+ + [Twirling](twirling)
+
 ##### [organ registrations](../misc/hammond-reg-llotbw.html)  
 ##### [notation reference guide](reference)
 ##### [chord chart styles]({{ site.url }}/misc/chord-styles/)
