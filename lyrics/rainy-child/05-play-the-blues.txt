@@ -1,5 +1,8 @@
-Play the Blues
-by Henry Wilson
+---
+layout: lyrics
+title: Play The Blues
+writer: Henry Wilson
+---
 
 I got a hole in my soul
   and baby that's alright
