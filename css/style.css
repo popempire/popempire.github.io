@@ -198,14 +198,16 @@ nav a:hover {
 .fontGaramond,
 main p {
     font-family: 'garamond-premier-pro', 'Garamond', serif;
-    font-size: 1.08em;
-    font-style: normal;}
+    font-size: 1.167em;         /* 14pt */
+    font-style: normal;
+    letter-spacing: 0.01em;}
 
 .fontGranjon,
 blockquote {
     font-family: 'garamond-premier-pro', 'Garamond', serif;
-    font-size: 1.08em;
-    font-style: italic;}
+    font-size: 1.167em;
+    font-style: italic;
+    letter-spacing: 0.03em;}
 .fontGranjon em, .fontGranjon i,
 blockquote em, blockquote i {
     font-style: normal;}
@@ -217,13 +219,15 @@ code, kbd {
 .fontGaramond code, .fontGaramond kbd,
 .fontGranjon code, .fontGranjon kbd,
 main p code, main p kbd {
-    font-size: 0.926em; }
+    font-size: 0.857em;
+    letter-spacing: 0; }
 
 .sansSerif {
     font-family: 'Archivo', sans-serif;
     font-size: 1em;
     font-weight: 400;
-    font-variation-settings:'wdth' 100; }
+    font-variation-settings:'wdth' 100;
+    letter-spacing: 0; }
 
 small {
     font-size: 0.5em; }
