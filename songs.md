@@ -1,5 +1,3 @@
----
----
 ### *The Violent Bear It Away* era ###
 
  + [Sweetest Thing](sweetest-thing.txt)
