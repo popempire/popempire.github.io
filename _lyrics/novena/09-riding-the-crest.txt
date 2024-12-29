@@ -1,3 +1,7 @@
+---
+layout: lyrics
+---
+
 RIDING THE CREST
 
 Riding on that crest of silver-starlight-

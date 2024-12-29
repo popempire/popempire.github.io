@@ -1,4 +1,7 @@
 ---
+layout: lyrics
+slug: the-way
+title: The Way
 ---
 
 In your time of the heart's desolation--

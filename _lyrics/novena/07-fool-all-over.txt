@@ -1,4 +1,7 @@
-FOOL ALL OVER
+---
+layout: lyrics
+title: FOOL ALL OVER
+---
 
 Lilies of white, roses of red,
 myrtle of black and pale amaranth--

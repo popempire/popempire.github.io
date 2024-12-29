@@ -1,3 +1,7 @@
+---
+layout: lyrics
+---
+
 NIGHTWALKING
 
 I go out walking after midnight,
