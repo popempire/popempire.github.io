@@ -1,5 +1,7 @@
 ---
-slug: play-the-blues
+layout: lyrics
+title: Play The Blues
+writer: Henry Wilson
 ---
 
 Play the Blues
