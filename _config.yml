@@ -4,8 +4,8 @@ collections:
 
   chords:
     output: true
-    permalink: /:collection/:title/
+    permalink: /:collection/:slug/
 
   lyrics:
     output: true
-    permalink: /:collection/:title/
+    permalink: /:collection/:slug/
