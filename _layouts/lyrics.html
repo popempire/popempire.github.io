@@ -4,8 +4,8 @@ layout: default
 
 <h2>{{ page.title }}</h2>
 
-{% if page.writer %}
-  <div>By {{ page.writer }}</div>
+{% if page.notes %}
+  {{ page.notes | markdownify }}
 {% endif %}
 
 <h3>Lyrics</h3>
