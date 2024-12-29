@@ -1,3 +1,7 @@
+---
+layout: lyrics
+---
+
 Psycho
 by Leon Payne
 

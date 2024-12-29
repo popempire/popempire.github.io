@@ -1,3 +1,7 @@
+---
+layout: lyrics
+---
+
 I-75 BLUES
 ==========
 

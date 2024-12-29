@@ -1,3 +1,7 @@
+---
+layout: lyrics
+---
+
 Some people want to be a big fish
 Lord knows I wanna be a lake
 I wanna be an island all to myself
