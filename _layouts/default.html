@@ -2,20 +2,16 @@
 layout: empty
 ---
 
-{% if page.empty == true %}
-  {{ content }}
-{% else %}
-  {% if page.logo %}
-    <header>
-      <a href="{{ site.url }}">
-      {% include logo.html %}
-      </a>
-    </header>
-  {% endif %}
-  <main>
+{% if page.logo %}
+  <header>
+    <a href="{{ site.url }}">
+    {% include logo.html %}
+    </a>
+  </header>
+{% endif %}
+<main>
 
 {{ content }}
 
-  </main>
-  {% include footer.html %}
-{% endif %}
+</main>
+{% include footer.html %}
