@@ -41,8 +41,3 @@
 ### *Rainy Child* ###
 
  + [Twirling](twirling)
-
-##### [organ registrations](../misc/hammond-reg-llotbw.html)  
-##### [notation reference guide](reference)
-##### [chord chart styles]({{ site.url }}/misc/chord-styles/)
-##### [song collection](collection)
