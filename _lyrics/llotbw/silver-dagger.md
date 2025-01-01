@@ -2,7 +2,6 @@
 layout: lyrics
 title: Dying Silver Dagger Blues
 slug: silver-dagger
-permalink: lyrics/silver-dagger
 ---
 
     Don't sing love songs, you'll wake my mother
