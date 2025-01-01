@@ -152,13 +152,13 @@ section, article, header, main, footer {
 
 nav {
     background-color: hsl(335,100%,60%);
-    padding: 1em;
+    padding: 1px;
     margin: 1.5rem auto 2.5rem;
-    max-width: 72ch; }
+    max-width: 24em; }
 nav a div, nav a {
     display: block;
     border: solid 1px floralwhite;
-    padding: 1em;
+    padding: 0.5em;
     margin: 1em;}
 nav a div:hover, nav a:hover {
     background-color:floralwhite;}
