@@ -12,4 +12,4 @@ collections:
 
   tabs:
     output: true
-    permalink: /songs/:slug/:collection/:instrument/
+    permalink: /:collection/:path/
