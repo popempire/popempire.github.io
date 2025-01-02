@@ -3,7 +3,12 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <title>{{ page.title }}</title>
+    {% if page.title %}
+      {% capture htmlTitle %}{{ page.title }} | POP EMPIRE{% endcapture %}
+    {% else %}
+      {% capture htmlTitle %}POP EMPIRE{% endcapture %}
+    {% endif %}
+    <title>{{ htmlTitle }}</title>
     <!-- adobe fonts -->
 	  <link rel="stylesheet" href="https://use.typekit.net/fgf4ivf.css">
     <!-- stylesheet -->
