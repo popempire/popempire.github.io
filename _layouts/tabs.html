@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<h2>{{ page.title }}</h2>
+
+{% if page.notes %}
+  {{ page.notes | markdownify }}
+{% endif %}
+
+{% if page.instrument %}
+<h3>{{ page.instrument | capitalize }} Tab</h3>
+{% else %}
+<h3>Tablature</h3>
+{% endif %}
+
+<div class="tab">
+{{ content }}
+</div>
+
+<footer>
+  <a href="../">&lt; Lyrics</a>
+</footer>
