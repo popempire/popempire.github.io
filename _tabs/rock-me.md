@@ -1,11 +1,8 @@
 ---
 layout: tabs
+title: Rock Me
+instrument: bass
 ---
-
-Rock Me
--------
-
-### Bass Tab ###
 
 #### Intro/Coda ####
 
