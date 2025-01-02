@@ -9,3 +9,7 @@ collections:
   lyrics:
     output: true
     permalink: /:collection/:slug/
+
+  tabs:
+    output: true
+    permalink: /songs/:slug/:collection/
