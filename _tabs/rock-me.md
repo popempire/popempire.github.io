@@ -1,14 +1,9 @@
 ---
 layout: default
-permalink: /songs/rock-me/
 ---
 
 Rock Me
 -------
-
-### Chords ###
-
-{% include chords.html slug="rock-me" %}
 
 ### Bass Tab ###
 
