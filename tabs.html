@@ -1,0 +1,13 @@
+---
+layout: default
+logo: true
+permalink: /tabs/
+---
+
+<h2>Tablature</h2>
+
+<ul>
+{% for everyTab in site.tabs %}
+  <li><a href="{{ everyTab.url }}">{{ everyTab.title }}</a></li>
+{% endfor %}
+</ul>
