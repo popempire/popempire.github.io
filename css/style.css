@@ -215,6 +215,7 @@ main p {
     font-family: 'garamond-premier-pro', 'Garamond', serif;
     font-size: 1.167em;         /* 14pt */
     font-style: normal;
+    font-weight: 400;
     letter-spacing: 0.01em;
     text-transform: none; }
 
@@ -223,6 +224,7 @@ blockquote {
     font-family: 'garamond-premier-pro', 'Garamond', serif;
     font-size: 1.167em;
     font-style: italic;
+    font-weight: 400;
     letter-spacing: 0.03em;
     text-transform: none; }
 .fontGranjon em, .fontGranjon i,
@@ -230,12 +232,13 @@ blockquote em, blockquote i {
     font-style: normal;}
 
 .fontConsolas,
-code, kbd {
+pre, code, kbd {
     font-family: "Consolas", monospace;
     font-size: 1em;
+    font-weight: 400;
     text-transform: none; }
-.fontGaramond code, .fontGaramond kbd,
-.fontGranjon code, .fontGranjon kbd,
+.fontGaramond pre, .fontGaramond code, .fontGaramond kbd,
+.fontGranjon pre, .fontGranjon code, .fontGranjon kbd,
 main p code, main p kbd {
     font-size: 0.857em;
     letter-spacing: 0; }
