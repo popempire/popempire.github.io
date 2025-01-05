@@ -152,7 +152,7 @@ section, article, header, main, footer {
 
 nav {
     background-color: hsl(335,100%,60%);
-    /*padding: 1px;*/
+    padding: 0 0 1em;
     margin: 1.5rem auto 2.5rem;
     max-width: 24em; }
 nav a {
