@@ -3,7 +3,7 @@
 
 /*
 HOT PINK    hsl(330,100%,60%)   #ff3399     rgb(255,51,153)
-            hsl(335,100%,60%)   #ff3388     
+            hsl(335,100%,60%)   #ff3388
 LITE PINK   hsl(330,100%,80%)   #ff99cc     rgb(255,153,204)
             hsl(330,94%,80%)    #fc9ccc
 TEAL        hsl(165,80%,60%)    #47ebc2     rgb(71,235,195)
@@ -98,7 +98,7 @@ pre {
     white-space: pre-wrap; }
 
 pre.lyrics, .lyrics pre {           /* LYRICS */
-    font-size: 1em; 
+    font-size: 1em;
     line-height: 1.5em; }
 
 pre.tab, .tab pre {               /* TABLATURE */
@@ -152,11 +152,12 @@ section, article, header, main, footer {
 
 nav {
     background-color: hsl(335,100%,60%);
-    padding: 1px;
+    /*padding: 1px;*/
     margin: 1.5rem auto 2.5rem;
     max-width: 24em; }
-nav a div, nav a {
-    display: block;
+nav a {
+    display: block; }
+nav a div, nav a.buttonStyle {
     border: solid 1px floralwhite;
     padding: 0.5em;
     margin: 1em;}
@@ -253,7 +254,7 @@ small {
 /* BANDCAMP EMBED */
 iframe.bandcamp {
     border: 0;
-    width: 15rem; 
-    height: 15rem; 
-    float:right; 
+    width: 15rem;
+    height: 15rem;
+    float:right;
     margin-bottom: 2em; }
