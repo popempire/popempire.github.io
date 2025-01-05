@@ -157,7 +157,7 @@ nav {
     max-width: 24em; }
 nav a {
     display: block; }
-nav a div, nav a.buttonStyle {
+nav a.buttonStyle, nav.buttonStyle a {
     border: solid 1px floralwhite;
     padding: 0.5em;
     margin: 1em;}
