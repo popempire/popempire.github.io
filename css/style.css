@@ -238,9 +238,6 @@ main p code, main p kbd {
     font-variation-settings:'wdth' 100;
     letter-spacing: 0; }
 
-small {
-    font-size: 0.5em; }
-
 /* CONDITIONAL STYLES FOR CHORD CHARTS */
 @media screen {
     table.chordChart td,
