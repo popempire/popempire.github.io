@@ -124,7 +124,8 @@ pre.tab, .tab pre {               /* TABLATURE */
 header {
     margin:0 auto 1rem;
     max-width:100%;
-    text-align:center; }
+    text-align:center; 
+    text-transform: uppercase; }
 header img {
     margin:0 auto;
     height:auto;
@@ -176,7 +177,10 @@ nav a {
 nav a.buttonStyle, nav.buttonStyle a {
     border: solid 1px floralwhite;
     padding: 0.5em;
-    margin: 1em;}
+    margin: 1em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: -0.075em;}
 nav a div:hover, nav a:hover {
     background-color:floralwhite;}
 nav a:visited, nav a {
