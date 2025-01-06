@@ -2,13 +2,13 @@
 layout: default
 ---
 
-<h2>{{ page.title }}</h2>
+<h2 class="granjon">{{ page.title }}</h2>
 
 {% if page.notes %}
   {{ page.notes | markdownify }}
 {% endif %}
 
-<h3>Lyrics</h3>
+<h3 class="garamond">Lyrics</h3>
 
 <div class="lyrics">
 {{ content }}
