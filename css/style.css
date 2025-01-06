@@ -61,7 +61,7 @@ hr {
 /* HEADER STYLES */
 
 h1, h2, h3, h4, h5, h6 {
-    margin: 1rem 0 1em;
+    margin: 1em 0;
     font-weight: 700;
     font-variation-settings: "wdth" 112.5; 
     text-transform: uppercase;
@@ -83,7 +83,7 @@ h1.garamond, h2.garamond, h3.garamond, h4.garamond, h5.garamond, h6.garamond {
 
 h1 {
     font-size: 2rem;
-    line-height: 2.5rem; }
+    line-height: 2rem; }
 h1.granjon, h1.garamond {
     font-size: 2.333rem; }
 
@@ -117,11 +117,15 @@ h6 {
 h6.granjon, h6.garamond {
     font-size: 1rem; }
 
+/* LIST styles */
+
 ul, ol, menu {
     padding-left: 3rem;
     text-align: left;
     line-height: 1.5em;
     text-transform: uppercase; }
+
+/* PRE-formatted text styles */
 
 pre {
     text-align: left;
