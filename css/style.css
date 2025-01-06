@@ -103,7 +103,8 @@ h6 { font-size: 0.75em;
 ul, ol, menu {
     padding-left: 3rem;
     text-align: left;
-    line-height: 1.5em; }
+    line-height: 1.5em;
+    text-transform: uppercase; }
 
 pre {
     text-align: left;
