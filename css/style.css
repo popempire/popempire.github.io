@@ -254,7 +254,7 @@ main p code, main p kbd {
     font-family: "Archivo";
     font-size: 1em;
     font-weight: 600;
-    font-variation-setting: "wdth" 112.5;
+    font-variation-settings: "wdth" 112.5;
     letter-spacing: 0;
     text-transform: uppercase; }
 
