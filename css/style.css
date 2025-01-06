@@ -76,7 +76,7 @@ h1.garamond, h2.garamond, h3.garamond, h4.garamond, h5.garamond, h6.garamond {
     font-family: "garamond-premier-pro", "Garamond", serif;
     font-weight: 400;
     font-variant-caps: small-caps;
-    letter-spacing: 0.025em;
+    letter-spacing: 0;
     text-transform: none; }
 
 h1 {
