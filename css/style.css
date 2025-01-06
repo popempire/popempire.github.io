@@ -65,6 +65,20 @@ h1, h2, h3, h4, h5, h6 {
     text-transform: uppercase;
     letter-spacing: -0.075em; }
 
+h1.granjon, h2.granjon, h3.granjon, h4.granjon, h5.granjon, h6.granjon {
+    font-family: "garamond-premier-pro", "Garamond", serif;
+    font-weight: 400;
+    font-style: italic;
+    letter-spacing: 0.025em;
+    text-transform: none; }
+
+h1.garamond, h2.garamond, h3.garamond, h4.garamond, h5.garamond, h6.garamond {
+    font-family: "garamond-premier-pro", "Garamond", serif;
+    font-weight: 400;
+    font-variant-caps: small-caps;
+    letter-spacing: 0.025em;
+    text-transform: none; }
+
 h1 {
     /*font-family: "Archivo", sans-serif;
     font-weight: 700;
