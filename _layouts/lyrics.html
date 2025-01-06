@@ -15,7 +15,7 @@ layout: default
 </div>
 
 <footer>
-  {% assign file_ext = page.path | split "." | last %}
+  {% assign file_ext = page.path | split: "." | last %}
   <p><code>file extension: {{ file_ext }}</code></p>
   <a href="../">&lt; Lyrics</a>
 </footer>
