@@ -270,17 +270,11 @@ main p code, main p kbd {
     font-size: 0.857em;
     letter-spacing: 0; }
 
-.sansSerif {
-    font-family: 'Archivo', sans-serif;
-    font-size: 1em;
-    font-weight: 400;
-    font-variation-settings:'wdth' 100;
-    letter-spacing: 0; }
-
+.sansSerif,
 .imperialGrotesk {
     font-family: "Archivo";
     font-size: 1em;
-    font-weight: 600;
+    /*font-weight: 600;*/
     font-variation-settings: "wdth" 112.5;
     letter-spacing: 0;
     text-transform: uppercase; }
