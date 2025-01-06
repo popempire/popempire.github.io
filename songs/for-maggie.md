@@ -9,8 +9,8 @@ For Maggie
 
 ### Chords ###
 
-{% chords.html slug="for-maggie" %}
+{% include chords.html slug="for-maggie" %}
 
 ### Lyrics ###
 
-{$ lyrics.html slug="for-maggie" %}
+{$ include lyrics.html slug="for-maggie" %}
