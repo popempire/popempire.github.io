@@ -58,6 +58,8 @@ hr {
     max-width: 12rem;
     border: 1pt dashed #fc9ccc; }
 
+/* HEADER STYLES */
+
 h1, h2, h3, h4, h5, h6 {
     margin: 1rem 0 1em;
     font-weight: 700;
@@ -80,39 +82,40 @@ h1.garamond, h2.garamond, h3.garamond, h4.garamond, h5.garamond, h6.garamond {
     text-transform: none; }
 
 h1 {
-    /*font-family: "Archivo", sans-serif;
-    font-weight: 700;
-    font-style: normal;*/
     font-size: 2rem;
-    /*font-variation-settings:"wdth" 112.5;
-    text-transform: uppercase;*/
-    line-height: 2.5rem;
-    /*letter-spacing: -0.075em;*/ }
+    line-height: 2.5rem; }
+h1.granjon, h1.garamond {
+    font-size: 2.333rem; }
 
-h2 {/*font-family: "garamond-premier-pro", serif;
-    font-weight: 400;
-    font-style: italic;*/
+h2 {
     font-size: 1.75rem;
-    line-height: 2rem;
-    /*text-transform: none;*/ }
+    line-height: 2rem;}
+h2.granjon, h2.garamond {
+    font-size: 2rem; }
 
-h3 {/*font-family: "garamond-premier-pro", serif;
-    font-weight:400;*/
+h3 {
     font-size: 1.5rem;
-    line-height: 1.5rem;
-    /*font-variant-caps:small-caps;
-    text-transform: none;*/ }
+    line-height: 1.5rem;}
+h3.granjon, h3.garamond {
+    font-size: 1.75rem; }
 
-h4 {/*font-family: "garamond-premier-pro", serif;
-    font-weight:700;*/
+h4 {
     font-size: 1.25rem;
     line-height: 1.5rem;}
+h4.granjon, h4.garamond {
+    font-size: 1.5rem; }
 
-h5 { font-size: 1em;
+h5 { 
+    font-size: 1em;
     line-height: 1.5rem;}
+h5.granjon, h5.garamond {
+    font-size: 1.25rem; }
 
-h6 { font-size: 0.75em;
+h6 { 
+    font-size: 0.75em;
     line-height: 1rem;}
+h6.granjon, h6.garamond {
+    font-size: 1rem; }
 
 ul, ol, menu {
     padding-left: 3rem;
