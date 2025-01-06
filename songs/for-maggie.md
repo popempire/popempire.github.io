@@ -13,4 +13,4 @@ For Maggie
 
 ### Lyrics ###
 
-{$ include lyrics.html slug="for-maggie" %}
+{% include lyrics.html slug="for-maggie" %}
