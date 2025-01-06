@@ -1,5 +1,10 @@
 name: Pop Empire
 
+kramdown:
+  highlighter: none
+  syntax_highlighter_opts:
+    disable: true
+
 collections:
 
   chords:
