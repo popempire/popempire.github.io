@@ -25,6 +25,7 @@ body {
     /*font-family: "Consolas", "Inconsolata", monospace;*/
     font-family: "Archivo";
     font-variation-settings: "wdth" 112.5;
+    font-stretch: semi-expanded;
     font-size:1rem;
     line-height: 1.5em;
     min-height:40rem;
@@ -64,6 +65,7 @@ h1, h2, h3, h4, h5, h6 {
     margin: 1em 0;
     font-weight: 700;
     font-variation-settings: "wdth" 112.5; 
+    font-stretch: semi-expanded;
     text-transform: uppercase;
     letter-spacing: -0.075em; }
 
@@ -283,6 +285,7 @@ main p code, main p kbd {
     font-size: 1em;
     /*font-weight: 600;*/
     font-variation-settings: "wdth" 112.5;
+    font-stretch: semi-expanded;
     letter-spacing: 0;
     text-transform: uppercase; }
 
