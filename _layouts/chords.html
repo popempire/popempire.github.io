@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<h2 class="granjon">{{ page.title }}</h2>
+
+{% if page.notes %}
+  {{ page.notes | markdownify }}
+{% endif %}
+
+<h3 class="garamond">Chords</h3>
+
+<div class="chordChart">
+{{ content }}
+</div>
+
+<footer>
+  <a href="../">&lt; Chord Charts</a>
+</footer>
