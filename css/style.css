@@ -72,6 +72,7 @@ h1, h2, h3, h4, h5, h6 {
 h1.granjon, h2.granjon, h3.granjon, h4.granjon, h5.granjon, h6.granjon {
     font-family: "garamond-premier-pro", "Garamond", serif;
     font-weight: 400;
+    font-stretch: normal;
     font-style: italic;
     letter-spacing: 0.025em;
     text-transform: none; }
@@ -79,6 +80,7 @@ h1.granjon, h2.granjon, h3.granjon, h4.granjon, h5.granjon, h6.granjon {
 h1.garamond, h2.garamond, h3.garamond, h4.garamond, h5.garamond, h6.garamond {
     font-family: "garamond-premier-pro", "Garamond", serif;
     font-weight: 400;
+    font-stretch: normal;
     font-variant-caps: small-caps;
     letter-spacing: 0;
     text-transform: none; }
@@ -252,6 +254,7 @@ main p {
     font-size: 1.167em;         /* 14pt */
     font-style: normal;
     font-weight: 400;
+    font-stretch: normal;
     letter-spacing: 0.01em;
     text-transform: none; }
 
@@ -261,6 +264,7 @@ blockquote {
     font-size: 1.167em;
     font-style: italic;
     font-weight: 400;
+    font-stretch: normal;
     letter-spacing: 0.03em;
     text-transform: none; }
 .fontGranjon em, .fontGranjon i,
@@ -272,6 +276,7 @@ pre, code, kbd {
     font-family: "Consolas", monospace;
     font-size: 1em;
     font-weight: 400;
+    font-stretch: normal;
     text-transform: none; }
 .fontGaramond pre, .fontGaramond code, .fontGaramond kbd,
 .fontGranjon pre, .fontGranjon code, .fontGranjon kbd,
