@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{% assign file_ext = page.path | split: "." | last %}
+
 <h2 class="granjon">{{ page.title }}</h2>
 
 {% if page.notes %}
@@ -10,12 +12,15 @@ layout: default
 
 <h3 class="garamond">Lyrics</h3>
 
+{% if file_ext = "txt" %}
+<pre class="lyrics">{{ content }}</pre>
+{% else %}
 <div class="lyrics">
 {{ content }}
 </div>
+{% endif %}
 
 <footer>
-  {% assign file_ext = page.path | split: "." | last %}
   <p><code>file extension: {{ file_ext }}</code></p>
   <a href="../">&lt; Lyrics</a>
 </footer>
