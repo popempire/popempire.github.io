@@ -1,9 +1,9 @@
 ---
 layout: lyrics
+title: Psycho
+slug: psycho
+notes: by Leon Payne
 ---
-
-Psycho
-by Leon Payne
 
 Can Mary fry some fish, Mama?
 I'm as hungry as can be
@@ -13,7 +13,7 @@ You could keep the baby quiet cause my head is killing me
 I seen my ex last night, Mama
 At a dance at Miller's store
 She was with that Jackie White, Mama
-I killed 'em both, and they're buried under Jenkin's sycamore
+I killed 'em both, and they're buried under Jenkins' sycamore
 
 Don't you think I'm psycho, Mama?
 You can pour me a cup
