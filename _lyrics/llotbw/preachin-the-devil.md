@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: lyrics
+title: Preachin' The Devil
 ---
-
-Preachin' The Devil
--------------------
 
     Who kissed you, Sleeping Beauty?
     Who gave you those clothes to wear?
