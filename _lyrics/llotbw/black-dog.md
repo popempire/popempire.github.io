@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: lyrics
 title: Black Dog Blues
 ---
 
