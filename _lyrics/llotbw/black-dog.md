@@ -1,11 +1,7 @@
 ---
 layout: default
+title: Black Dog Blues
 ---
-
-Black Dog Blues
----------------
-
-### Lyrics 
 
     Black dog in the garden, tell me where your friend has gone
     Black dog in the garden, I wonder where your friend has gone
