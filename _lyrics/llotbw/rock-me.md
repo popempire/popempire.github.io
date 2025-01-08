@@ -1,19 +1,15 @@
 ---
-layout: default
+layout: lyrics
+title: Rock Me (Hide Me in Thy Bosom)
+notes: |
+    Composed by Rev. Thomas Dorsey (1937?)
+
+    Recorded by Sister Rosetta Tharpe during her first session (1938)
+
+    Recorded by Blind Willie McTell (1949, and another?)
+
+    My lyrics are slightly modified (as are those of every recorded version!)
 ---
-
-Rock Me (Hide Me in Thy Bosom)
-------------------------------
-
-Composed by Rev. Thomas Dorsey (1937?)
-
-Recorded by Sister Rosetta Tharpe during her first session (1938)
-
-Recorded by Blind Willie McTell (1949, and another?)
-
-My lyrics are slightly modified (as are those of every recorded version!)
-
-### Lyrics
 
     Mother, hear me praying
     Hear these words I keep saying
