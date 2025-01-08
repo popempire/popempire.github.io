@@ -1,5 +1,10 @@
 ---
 layout: lyrics
+title: Don't Go Gentle
+slug: dont-go-gentle
+notes: |
+    Dylan Thomas - I See You Boys of Summer In Your Ruin
+    Bob Dylan - Rainy Day Women
 ---
 
 Yeah the dead rise up but they do not hear
