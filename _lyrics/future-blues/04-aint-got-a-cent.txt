@@ -2,6 +2,12 @@
 layout: lyrics
 title: Ain't Got a Cent
 slug: aint-got-a-cent
+notes: |
+    Howlin' Wolf "Going Down Slow" (1961) with narration by Willie Dixon.
+    Mose Allison "Young Man's Blues" (1957).
+    John Coltrane "A Love Supreme".
+    Hobart Smith "See That My Grave Is Kept Clean" var. of Blind Lemon Jefferson
+    (cf. trad. "Two White Horses in a Line").
 ---
 
 I work so hard an try to pay my rent
