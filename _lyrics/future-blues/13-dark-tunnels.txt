@@ -1,5 +1,9 @@
 ---
 layout: lyrics
+title: Dark Tunnels
+slug: dark-tunnels
+notes: |
+    by Ryan Back
 ---
 
 Where do they go those dark dark tunnels I've been walkin alone
