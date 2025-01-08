@@ -1,13 +1,10 @@
 ---
-layout: default
+layout: lyrics
+title: Mother Earth
+notes: |
+    by Memphis Slim, 1951  
+    new arrangement by Pop Empire
 ---
-
-Mother Earth
-------------
-
-by Memphis Slim, 1951
-
-### Lyrics
 
     You may high hat me all the time
     You may never go my way
