@@ -1,24 +1,20 @@
 ---
-layout: default
+layout: lyrics
+title: Lagan Dream
+notes: |
+    From "My Lagan Love" (Roud 1418) traditional Irish air, first collected in 1903
+    in northern Donegal County. English lyrics attributed to Joseph Campbell.
+
+    "The Quiet Joys of Brotherhood", words by Richard Fariña. Recorded by Pete Seeger
+    (released 1966), Mimi Fariña (released 1968), Sandy Denny of Fairport Convention
+    (released 1972).
+
+    Lewis Carroll, *Alice's Adventures in Wonderland*, chapter 2.
+
+    A *leannan sidhe* in Irish folklore is a fairy-lover, a beautiful woman of the 
+    fairy folk who would take a mortal lover. Those mortal lovers are known to live
+    brief but highly inspired lives.
 ---
-
-Lagan Dream
------------
-
-From "My Lagan Love" (Roud 1418) traditional Irish air, first collected in 1903
-in northern Donegal County. English lyrics attributed to Joseph Campbell.
-
-"The Quiet Joys of Brotherhood", words by Richard Fariña. Recorded by Pete Seeger
-(released 1966), Mimi Fariña (released 1968), Sandy Denny of Fairport Convention
-(released 1972).
-
-Lewis Carroll, *Alice's Adventures in Wonderland*, chapter 2.
-
-A *leannan sidhe* in Irish folklore is a fairy-lover, a beautiful woman of the 
-fairy folk who would take a mortal lover. Those mortal lovers are known to live
-brief but highly inspired lives.
-
-### Lyrics
 
     Where gentle tides go rolling by
     Along the salt sea strand
