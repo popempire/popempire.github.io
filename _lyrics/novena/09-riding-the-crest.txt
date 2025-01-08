@@ -1,8 +1,8 @@
 ---
 layout: lyrics
+title: RIDING THE CREST
+slug: riding-the-crest
 ---
-
-RIDING THE CREST
 
 Riding on that crest of silver-starlight-
 dazzled dim, dark water by the shore

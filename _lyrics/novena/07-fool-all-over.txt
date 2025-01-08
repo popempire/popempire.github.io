@@ -1,6 +1,7 @@
 ---
 layout: lyrics
 title: FOOL ALL OVER
+slug: fool-all-over
 ---
 
 Lilies of white, roses of red,

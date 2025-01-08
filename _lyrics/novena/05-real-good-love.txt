@@ -1,8 +1,8 @@
 ---
 layout: lyrics
+title: REAL GOOD LOVE
+slug: real-good-love
 ---
-
-REAL GOOD LOVE
 
 It's all I really need when I get sadistic,
 when wires in my head get so sick and twisted:
