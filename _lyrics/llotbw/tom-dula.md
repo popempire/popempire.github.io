@@ -11,7 +11,7 @@ notes: |
     In his version of this song, Doc also sings of "poor Laurie Foster",
     whom we recognize as *Laura* Foster.
 
-    The tune is a is our own variant of "Little Margaret" and has not been used for
+    The tune is our own variant of "Little Margaret" and has not been used for
     this text before.
 ---
 
