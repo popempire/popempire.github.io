@@ -3,11 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    {% if page.title %}
-      {% capture htmlTitle %}{{ page.title | downcase }} | POP EMPIRE{% endcapture %}
-    {% else %}
-      {% capture htmlTitle %}POP EMPIRE{% endcapture %}
+    {% if layout.sectionTitle %}
+      {% capture sectTitle %}{{ layout.sectionTitle }} | {% endcapture %}
     {% endif %}
+    {% if page.title %}
+      {% capture pageTitle %}{{ page.title | downcase }} | {% endcapture %}
+    {% endif %}
+    {% capture htmlTitle %}{{ pageTitle }}{{ sectTitle }}POP EMPIRE{% endcapture %}
     <title>{{ htmlTitle }}</title>
     <!-- adobe fonts -->
 	  <link rel="stylesheet" href="https://use.typekit.net/fgf4ivf.css">
