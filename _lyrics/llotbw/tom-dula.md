@@ -1,20 +1,16 @@
 ---
-layout: default
+layout: lyrics
+title: Tom Dula
+notes: |
+    This text is better known as "Tom Dooley", as recorded by Doc Watson or The Kingston Trio.
+    The concerned fellow's name, as it was originally spelled, was *Dula*, while "Dooley"
+    represents the Appalachian pronunciation of this name, as most names and words ending with "-a"
+    were modified to "-ey" in this dialect. Consistent with this, Doc also sings of "poor Laurie
+    Foster" in this song, whom we would recognize as *Laura* Foster.
+
+    The tune is a new one for this text. It is based loosely on "Little Maggie" as sung by
+    Karen Dalton.
 ---
-
-Tom Dula
---------
-
-This text is better known as "Tom Dooley", as recorded by Doc Watson or The Kingston Trio.
-The concerned fellow's name, as it was originally spelled, was *Dula*, while "Dooley"
-represents the Appalachian pronunciation of this name, as most names and words ending with "-a"
-were modified to "-ey" in this dialect. Consistent with this, Doc also sings of "poor Laurie
-Foster" in this song, whom we would recognize as *Laura* Foster.
-
-The tune is a new one for this text. It is based loosely on "Little Maggie" as sung by
-Karen Dalton.
-
-### Lyrics
 
     Hang down your head, Tom Dula
     Hang your head and cry
