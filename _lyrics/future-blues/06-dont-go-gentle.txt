@@ -3,7 +3,7 @@ layout: lyrics
 title: Don't Go Gentle
 slug: dont-go-gentle
 notes: |
-    Dylan Thomas - I See You Boys of Summer In Your Ruin
+    Dylan Thomas - I See You Boys of Summer In Your Ruin  
     Bob Dylan - Rainy Day Women
 ---
 
