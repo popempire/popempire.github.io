@@ -1,6 +1,6 @@
 ---
 layout: lyrics
-title: Young Henry parts 1 and 2
+title: Young Henry, parts I and II
 notes: |
     This song has also been known as "Henry Lee" (as by Dick Justice)
     and earlier as "Young Hunting" (Child No. 68).
