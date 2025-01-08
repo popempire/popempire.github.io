@@ -1,9 +1,11 @@
 ---
 layout: lyrics
+title: I-75 Blues
+slug: i-75-blues
+notes: |
+    Willie Brown - Future Blues (1930)  
+    Easy Lantana - All Hustle, No Luck (2013)
 ---
-
-I-75 BLUES
-==========
 
 I can't tell my future
     I can't tell my past
@@ -34,8 +36,3 @@ Eisenhower's highways
 Eisenhower's highways
     is a long long crooked line
 I-75's a groove for my wicked mind
-
-
-~~~
-Willie Brown - Future Blues (1930)
-Easy Lantana - All Hustle, No Luck (2013)
