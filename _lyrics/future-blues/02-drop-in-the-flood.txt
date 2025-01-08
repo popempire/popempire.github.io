@@ -1,5 +1,7 @@
 ---
 layout: lyrics
+title: Drop In the Flood
+slug: drop-in-the-flood
 ---
 
 Some people want to be a big fish
