@@ -1,13 +1,9 @@
 ---
-layout: default
+layout: lyrics
+title: The Living End
+notes: |
+    by The Jesus and Mary Chain, from *Psychocandy* (1985)
 ---
-
-The Living End
---------------
-
-by The Jesus and Mary Chain, from *Psychocandy* (1985)
-
-### Lyrics
 
     I get ahead on my motorbike
     I get ahead on my motorbike
