@@ -192,18 +192,18 @@ section, article, header, main, footer {
 /* nav links */
 
 nav {
-    background-color: hsl(335,100%,60%);
-    padding: 0 0 1em;
+    /*background-color: hsl(335,100%,60%);
+    padding: 0 0 1em;*/
     margin: 1.5rem auto 2.5rem;
     max-width: 24em; }
-nav.buttonStyle {
-    padding: 1px; }
+/*nav.buttonStyle {
+    padding: 1px; }*/
 nav a {
     display: block; }
 nav a.buttonStyle, nav.buttonStyle a {
-    border: solid 1px floralwhite;
+    /*border: solid 1px floralwhite;*/
     padding: 0.5em;
-    margin: 1em;
+    margin: 1em 0;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: -0.075em;}
