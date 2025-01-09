@@ -135,6 +135,7 @@ details summary {
     display: block;
     background-color: hsl(335,100%,60%); 
     &::hover {
+        color: #111;
         background-color: floralwhite;
     }}
 
