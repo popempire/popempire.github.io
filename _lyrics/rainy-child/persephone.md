@@ -1,5 +1,7 @@
 ---
 layout: lyrics
+notes: |
+    by Cameron Cochran
 ---
 
     Well, I fought so hard
