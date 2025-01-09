@@ -22,7 +22,6 @@ body {
     background-color:#111;
     color:floralwhite;
     text-align: center;
-    /*font-family: "Consolas", "Inconsolata", monospace;*/
     font-family: "Archivo";
     font-variation-settings: "wdth" 112.5;
     font-stretch: semi-expanded;
@@ -130,6 +129,15 @@ ul, ol, menu {
     line-height: 1.5em;
     text-transform: uppercase; }
 
+/* DETAILS and SUMMARY */
+
+details summary {
+    display: block;
+    background-color: hsl(335,100%,60%); 
+    &::hover {
+        background-color: floralwhite;
+    }}
+
 /* PRE-formatted text styles */
 
 pre {
@@ -171,8 +179,7 @@ main {
 
 main p {
     text-align: left;
-    margin:0 auto 1em;
-    /* max-width: 39rem; */ }
+    margin:0 auto 1em; }
 
 section, article, header, main, footer {
     clear: both; }
