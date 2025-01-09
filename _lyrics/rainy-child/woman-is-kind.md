@@ -17,7 +17,7 @@ notes: |
 
     The Winter, it stings you
     The Spring gets you wet
-    The Summer, it burns
+    The Summer, it burns you
     And you start to sweat
     The Fall, it betrays you
     With a colorful death
@@ -29,7 +29,7 @@ notes: |
     Without any proof
     And as you lie in jail
     Got one thing on your mind
-    But a woman is kind
+    A woman is kind
 
     You look to some money
     But it leaves you broke
