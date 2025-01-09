@@ -313,7 +313,7 @@ iframe.bandcamp {
     height: 15rem;
     margin-bottom: 2em; }
 
-@media (min-width: 768px) {
+@media (min-width: 800px) {
     iframe.bandcamp {
         float: right; }
 }
