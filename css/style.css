@@ -310,7 +310,8 @@ main p code, main p kbd {
 iframe.bandcamp {
     border: 0;
     width: 15rem;
-    height: 15rem; }
+    height: 15rem;
+    margin-bottom: 1em; }
 
 @media (min-width: 640px) {
     iframe.bandcamp {
