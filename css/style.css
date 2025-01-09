@@ -311,5 +311,9 @@ iframe.bandcamp {
     border: 0;
     width: 15rem;
     height: 15rem;
-    float:right;
     margin-bottom: 2em; }
+
+@media (min-width: 768px) {
+    iframe.bandcamp {
+        float: right; }
+}
