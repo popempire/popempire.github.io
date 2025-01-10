@@ -141,7 +141,9 @@ details summary:hover {
     color: #111;
     background-color: floralwhite; }
 details summary::after {
-    content: "+"; }
+    content: "+"; 
+    float: right; 
+    font-weight: 900; }
 details[open] summary::after {
     content: "-"; }
 
