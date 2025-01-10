@@ -134,6 +134,7 @@ ul, ol, menu {
 details summary {
     display: block;
     cursor: pointer;
+    padding: 1rem;
     background-color: hsl(335,100%,60%); }
 details summary:hover {
     color: #111;
