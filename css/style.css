@@ -140,6 +140,10 @@ details summary {
 details summary:hover {
     color: #111;
     background-color: floralwhite; }
+details summary::after {
+    content: "+"; }
+details[open] summary::after {
+    content: "-"; }
 
 /* PRE-formatted text styles */
 
