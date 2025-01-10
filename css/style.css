@@ -133,11 +133,10 @@ ul, ol, menu {
 
 details summary {
     display: block;
-    background-color: hsl(335,100%,60%); 
-    &::hover {
+    background-color: hsl(335,100%,60%); }
+details summary:hover {
         color: #111;
-        background-color: floralwhite;
-    }}
+        background-color: floralwhite; }
 
 /* PRE-formatted text styles */
 
