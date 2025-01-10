@@ -135,7 +135,8 @@ details summary {
     display: block;
     cursor: pointer;
     padding: 1rem;
-    background-color: hsl(335,100%,60%); }
+    color: #111;
+    background-color: hsl(330,94%,80%); }
 details summary:hover {
     color: #111;
     background-color: floralwhite; }
