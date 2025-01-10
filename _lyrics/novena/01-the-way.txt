@@ -4,6 +4,8 @@ slug: the-way
 title: The Way
 ---
 
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1379266757/size=small/bgcol=333333/linkcol=fe7eaf/artwork=none/track=859645064/transparent=true/" seamless><a href="https://popempire.bandcamp.com/album/novena">Novena by Pop Empire</a></iframe>
+
 In your time of the heart's desolation--
     the imperial peace of despair--
 I don't call it brave to feel no fear
