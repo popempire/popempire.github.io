@@ -140,6 +140,8 @@ details summary {
 details summary:hover {
     color: #111;
     background-color: floralwhite; }
+details summary::marker {
+    float: left; }
 
 /* PRE-formatted text styles */
 
