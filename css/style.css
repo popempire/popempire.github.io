@@ -134,16 +134,17 @@ ul, ol, menu {
 details > summary {
     display: block;
     cursor: pointer;
-    padding: 1rem;
+    padding: 0 1rem;
     color: #111;
     background-color: hsl(330,94%,80%); }
 details > summary:hover {
     color: #111;
     background-color: floralwhite; }
 details > summary::after {
-    content: ">"; }
+    content: "+";
+    font-weight: bold; }
 details[open] > summary::after {
-    content: "^"; }
+    content: "-"; }
 
 /* PRE-formatted text styles */
 
