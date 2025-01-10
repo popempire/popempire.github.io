@@ -141,7 +141,7 @@ details > summary:hover {
     color: #111;
     background-color: floralwhite; }
 details > summary::after {
-    content: "\25B8";
+    content: "\25B6";
     font-weight: bold; }
 details[open] > summary::after {
     content: "\25BC"; }
