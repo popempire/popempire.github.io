@@ -324,7 +324,16 @@ iframe.bandcamp {
     height: 15rem;
     margin-bottom: 1em; }
 
-@media (min-width: 640px) {
+/*@media (min-width: 640px) {
     iframe.bandcamp {
         float: right;
-        margin-bottom: 2em; }}
+        margin-bottom: 2em; }}*/
+
+iframe.bandcamp-small {
+    border: 0;
+    width: 10rem; 
+    height: 10rem; 
+    margin-bottom: 1em;
+    /*float: right; 
+    margin-right: 2.5rem; 
+    margin-bottom: 2em;*/ }
