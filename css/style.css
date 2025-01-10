@@ -303,7 +303,7 @@ main p code, main p kbd {
     /*font-weight: 600;*/
     font-variation-settings: "wdth" 112.5;
     font-stretch: semi-expanded;
-    letter-spacing: 0;
+    letter-spacing: -0.075em;
     text-transform: uppercase; }
 
 /* CONDITIONAL STYLES FOR CHORD CHARTS */
