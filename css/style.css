@@ -131,17 +131,19 @@ ul, ol, menu {
 
 /* DETAILS and SUMMARY */
 
-details summary {
-    /*display: block;*/
+details > summary {
+    display: block;
     cursor: pointer;
     padding: 1rem;
     color: #111;
     background-color: hsl(330,94%,80%); }
-details summary:hover {
+details > summary:hover {
     color: #111;
     background-color: floralwhite; }
-details summary::marker {
-    float: left; }
+details > summary::after {
+    content: ">"; }
+details[open] > summary::after {
+    content: "^"; }
 
 /* PRE-formatted text styles */
 
