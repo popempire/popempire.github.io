@@ -341,17 +341,21 @@ iframe.bandcamp-small {
 
 /* Discography */
 
+div#albums section, div#singles section {
+    margin-bottom: 3rem; }
+
 @media (min-width: 768px) {
+    div#albums section, div#singles section {
+        margin: unset;
+    }
     div#albums {
         display: grid; 
         grid-template-columns: 21rem 21rem; 
         gap: 1.5rem 3rem; 
         margin: -1em 0 3em; }
-
     div#singles {
         display: grid; 
         grid-template-columns: 14rem 14rem 14rem; 
         gap: 1.5rem;
         margin: -1em 0 3em; }
     }
-    
