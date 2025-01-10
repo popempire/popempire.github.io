@@ -141,10 +141,10 @@ details > summary:hover {
     color: #111;
     background-color: floralwhite; }
 details > summary::after {
-    content: "&#9654;";
+    content: "\25B8";
     font-weight: bold; }
 details[open] > summary::after {
-    content: "&#9660;"; }
+    content: "\25BC"; }
 
 /* PRE-formatted text styles */
 
