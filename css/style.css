@@ -143,6 +143,7 @@ details summary:hover {
 details summary::before {
     content: "+"; 
     float: right; 
+    font-size: 2.5em;
     font-weight: 900; }
 details[open] summary::before {
     content: "-"; }
