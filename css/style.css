@@ -59,6 +59,36 @@ hr {
     max-width: 12rem;
     border: 1pt dashed #fc9ccc; }
 
+/* primary body area styles */
+
+header {
+    margin:0 auto 1rem;
+    max-width:100%;
+    text-align:center; 
+    text-transform: uppercase; }
+header img {
+    margin:0 auto;
+    height:auto;
+    width:auto;
+    max-height:3rem;
+    max-width:100%; }
+header h1 {
+    margin: 1rem; }
+
+footer {
+    margin: 3rem auto 1rem; }
+
+main {
+    margin: 1rem auto;
+    padding: 0; }
+
+main p {
+    text-align: left;
+    margin:0 auto 1em; }
+
+section, article, header, main, footer {
+    clear: both; }
+
 /* HEADER STYLES */
 
 h1, h2, h3, h4, h5, h6 {
@@ -167,36 +197,6 @@ pre.lyrics, .lyrics pre {           /* LYRICS */
 pre.tab, .tab pre {               /* TABLATURE */
     font-size: 0.833rem;
     line-height: 1em; }
-
-/* primary body area styles */
-
-header {
-    margin:0 auto 1rem;
-    max-width:100%;
-    text-align:center; 
-    text-transform: uppercase; }
-header img {
-    margin:0 auto;
-    height:auto;
-    width:auto;
-    max-height:3rem;
-    max-width:100%; }
-header h1 {
-    margin: 1rem; }
-
-footer {
-    margin: 3rem auto 1rem; }
-
-main {
-    margin: 1rem auto;
-    padding: 0; }
-
-main p {
-    text-align: left;
-    margin:0 auto 1em; }
-
-section, article, header, main, footer {
-    clear: both; }
 
 /* two-column format */
 
