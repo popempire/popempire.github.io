@@ -171,6 +171,7 @@ details > summary {
     display: block;
     cursor: pointer;
     padding: 0.5rem;
+    margin: 1rem 0;
     color: #111;
     background-color: hsl(330,94%,80%); }
 details > summary:hover {
