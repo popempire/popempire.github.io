@@ -27,6 +27,7 @@ div.chordChart, table.chordChart {
   font-family: /*"Consolas",*/ "Archivo", sans-serif;
   font-weight: 400;
   font-variation-settings: "wdth" 100;
+  font-stretch: normal;
   text-align: left;
   clear:both;
   break-inside: avoid;
