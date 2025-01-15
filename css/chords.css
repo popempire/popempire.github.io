@@ -30,7 +30,7 @@ div.chordChart, table.chordChart {
   font-stretch: normal;
   text-align: left;
   clear:both;
-  break-inside: avoid;
+  /*break-inside: avoid;*/
   width: fit-content;
   padding: 0 1em; }
 div.chordChart {
@@ -46,6 +46,7 @@ table.chordChart {
   font-family: "Inconsolata", monospace;
   font-size: 1em;                       /* cf ALTERNATIVE WIDTHS */
   font-variation-settings: "wdth" 112.5;
+  font-stretch: 112.5%;
   letter-spacing: 0.72em;                /* cf ALTERNATIVE WIDTHS */
   line-height: 0.4em;
   height: 0.4em; }
@@ -59,6 +60,7 @@ table.chordChart {
   font-family: "Archivo", sans-serif;
   font-size: 0.9em;
   font-variation-settings: "wdth" 115;        /* cf ALTERNATIVE WIDTHS */
+  font-stretch: 115%;
   font-style: italic; 
   color: #666;
   line-height: 0.5em;
@@ -73,6 +75,7 @@ table.chordChart {
   font-size: 1.4em; 
   font-weight: 600; 
   font-variation-settings: "wdth" 87.5;
+  font-stretch: 87.5%;
   height: 1.14em; 
   line-height: 1.14em;
   margin-right: 0.14em; }
@@ -95,6 +98,7 @@ table.chordChart {
   font-family: "Inconsolata", monospace;
   font-weight: 500;
   font-variation-settings: "wdth" 140;
+  font-stretch: 140%;
   position:absolute;
   top: -0.4em; left: -0.1ch; }
 .chord.diamond::after, .chordChart b.diamond::after { /* DIAMOND */
@@ -117,6 +121,7 @@ table.chordChart {
   font-size: 0.7em;
   font-weight: 500;
   font-variation-settings: "wdth" 75;
+  font-stretch: 75%;
   letter-spacing: -0.2ch; }
 .chordChart small sub, .chordChart small sup {
   font-size: 0.9em; }
@@ -131,6 +136,7 @@ div.chordChart div.label {
 table.chordChart th, div.chordChart div.label {
   font-weight: bold;
   font-variation-settings: "wdth" 125;
+  font-stretch: 125%;
   text-align: center;
   color:#000;
   background-color:hsl(330,94%,80%); }
@@ -188,7 +194,8 @@ table.chordChart td.braceRight+td { padding-left: 1.5em; }
 .chordChart.extraNarrow i, .chordChart.extraNarrow .rhythm {    /* CHORD RHYTHM */
   letter-spacing: 0.36em; }
 .chordChart.extraNarrow .lyrics, .chordChart.extraNarrow q {    /* CHORD LYRICS/NOTES */
-  font-variation-settings: "wdth" 95; }
+  font-variation-settings: "wdth" 95; 
+  font-stretch: 95%; }
 .chordChart.extraNarrow td,
 .chordChart.extraNarrow div.bar,
 .chordChart.extraNarrow div.line>div,
@@ -200,7 +207,8 @@ div.chordChart.extraNarrow>div>div {                       /* MEASURE */
 .chordChart.narrow i, .chordChart.narrow .rhythm {    /* CHORD RHYTHM */
   letter-spacing: .54em; }
 .chordChart.narrow .lyrics, .chordChart.narrow q {    /* CHORD LYRICS/NOTES */
-  font-variation-settings: "wdth" 105; }
+  font-variation-settings: "wdth" 105; 
+  font-stretch: 105%; }
 .chordChart.narrow td,
 .chordChart.narrow div.bar,
 .chordChart.narrow div.line>div,
@@ -212,7 +220,8 @@ div.chordChart.narrow>div>div {                       /* MEASURE */
 .chordChart.wide i, .chordChart.wide .rhythm {        /* CHORD RHYTHM */
   letter-spacing: .96em; }
 .chordChart.wide .lyrics, .chordChart.wide q {        /* CHORD LYRICS/NOTES */
-  font-variation-settings: "wdth" 125; }
+  font-variation-settings: "wdth" 125; 
+  font-stretch: 125%; }
 .chordChart.wide td,
 .chordChart.wide div.bar,
 .chordChart.wide div.line>div,
@@ -224,6 +233,7 @@ div.chordChart.wide>div>div {                         /* MEASURE */
 pre.chordChart {
   font-family: "Consolas", "Inconsolata", monospace;
   font-variation-settings: "wdth" 125;
+  font-stretch: 125%;
   font-size: 1rem; }
 .chordChart pre sub, .chordChart pre sup, pre.chordChart sub, pre.chordChart sup {
   vertical-align: baseline;
@@ -237,6 +247,7 @@ pre.chordChart b, pre.chordChart i {
   font-family: inherit;
   font-size: 1em;
   font-variation-settings: "wdth" 125;
+  font-stretch: 125%;
   letter-spacing: normal;
   margin: 0;
   display: inline;
