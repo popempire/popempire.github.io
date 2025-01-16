@@ -1,11 +1,7 @@
 ---
-layout: default
+layout: song
+title: God's Grandeur
+slug: gods-grandeur
 permalink: /songs/gods-grandeur/
 ---
 
-God's Grandeur
---------------
-
-### Chords ###
-
-{% include chords.html slug="gods-grandeur" %}
