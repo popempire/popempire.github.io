@@ -5,7 +5,7 @@
   {%- assign theSlug = page.slug -%}
 {%- endif -%}
 {% if theSlug %}
-<p>theSlug = {{ theSlug }}</p>
+<!-- theSlug = {{ theSlug }} -->
 <div class="twoColumn">
   <div class="chordChart">
     {%- assign chords = site.chords | where: 'slug', theSlug -%}
