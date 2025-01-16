@@ -8,7 +8,7 @@ PREACHIN THE DEVIL
 
 ### Chords ###
 
-{% include chords.html %}
+{% include chords.html slug="preachin-the-devil" %}
 
 ### Bass Tab ###
 
