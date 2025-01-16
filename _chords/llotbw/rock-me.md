@@ -1,5 +1,5 @@
 ---
-slug: rock-me
+slug: rock-me-md
 ---
 ```
     ———intro———
