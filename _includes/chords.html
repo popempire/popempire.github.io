@@ -1,4 +1,5 @@
 <!-- chord chart from collection -->
+<p>slug = {{ include.slug }}</p>
 <div class="twoColumn">
   {%- assign chords = site.chords | where: 'slug', include.slug -%}
   {% for theChords in chords %}
