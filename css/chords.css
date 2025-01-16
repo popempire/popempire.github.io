@@ -21,7 +21,7 @@
   src: local ("Consolas Bold Italic"),
        url("../fonts/consolaz.ttf"); }
 
-
+.chordChartArea
 div.chordChart, table.chordChart { 
   font-size: 0.833rem;
   font-family: /*"Consolas",*/ "Archivo", sans-serif;
