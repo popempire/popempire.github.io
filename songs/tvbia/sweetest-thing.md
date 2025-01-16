@@ -4,6 +4,7 @@ permalink: /songs/sweetest-thing/
 --- 
                                  SWEETEST THING
                                ================
+
 ~~~
 --------------------------------------- intro
     C#      C#      F#      F#
@@ -55,6 +56,7 @@ permalink: /songs/sweetest-thing/
 
 
           ### Guitar Ostinato ###
+
 ~~~
   C# C# B  C#  E   C#      B  C#   F#   E       (F#-E)
 |-X--X--X--X-|-X---X----|--X--X--|-X-xx-X----|--xxxxx----|
