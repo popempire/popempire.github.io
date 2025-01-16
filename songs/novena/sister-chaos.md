@@ -7,6 +7,7 @@ permalink: /songs/sister-chaos/
                                 ==============
 
                                 ### Chords ###
+
 ~~~
 ------------------------------------------- Intro
     B-7(4)  B-7(4)  DΔ7     DΔ7
@@ -54,6 +55,7 @@ permalink: /songs/sister-chaos/
 
 
                                ### Bass Tab ###
+
 ~~~
 [Intro]
   B-7(4)                        DΔ7
