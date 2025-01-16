@@ -1,7 +1,17 @@
 <!-- lyrics from collection -->
+{%- if include.slug -%}
+  {%- assign theSlug = include.slug -%}
+{%- elsif page.slug -%}
+  {%- assign theSlug = page.slug -%}
+{%- endif -%}
+{% if theSlug %}
+<!-- theSlug = {{ theSlug }} -->
 <pre class="lyrics">
-  {%- assign lyrics = site.lyrics | where: 'slug', include.slug -%}
+  {%- assign lyrics = site.lyrics | where: 'slug', theSlug -%}
   {% for theLyrics in lyrics %}
     {{- theLyrics.content -}}
   {% endfor %}
 </pre>
+{% else %}
+<p>No slug provided!</p>
+{% endif %}
