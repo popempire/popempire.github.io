@@ -1,4 +1,10 @@
 <!-- chord chart from collection -->
+{%- if include.slug -%}
+  {%- assign theSlug = include.slug -%}
+{%- elsif page.slug -%}
+  {%- assign theSlug = page.slug -%}
+{%- endif -%}
+{% if theSlug %}
 <p>slug = {{ page.slug }}</p>
 <div class="twoColumn">
   {%- assign chords = site.chords | where: 'slug', include.slug -%}
@@ -6,3 +12,6 @@
     {{- theChords.content -}}
   {% endfor %}
 </div>
+{% else %}
+<p>No slug provided!</p>
+{% endif %}
