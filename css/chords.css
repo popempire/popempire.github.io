@@ -37,7 +37,8 @@ div.chordChart, table.chordChart {
   margin: 0 0 1em;
   padding-top: 1em;}*/ 
 table.chordChart {
-  margin: 0 0 -1em; }
+  margin: 0 0 -1em;
+  break-inside: avoid; }
 
 /* CHORD RHYTHM */
 .rhythm, .chordChart i {
