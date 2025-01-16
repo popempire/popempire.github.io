@@ -7,4 +7,6 @@ permalink: /songs/silver-dagger/
 {{ page.title }}
 ----------------
 
+### Chords ###
+
 {% include chords.html %}
