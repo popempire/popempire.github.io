@@ -7,10 +7,12 @@
 {% if theSlug %}
 <p>theSlug = {{ theSlug }}</p>
 <div class="twoColumn">
-  {%- assign chords = site.chords | where: 'slug', theSlug -%}
-  {% for theChords in chords %}
-    {{- theChords.content -}}
-  {% endfor %}
+  <div class="chordChart">
+    {%- assign chords = site.chords | where: 'slug', theSlug -%}
+    {% for theChords in chords %}
+      {{- theChords.content -}}
+    {% endfor %}
+  </div>
 </div>
 {% else %}
 <p>No slug provided!</p>
