@@ -4,4 +4,7 @@ slug: silver-dagger
 permalink: /songs/silver-dagger/
 ---
 
+{{ page.title }}
+----------------
+
 {% include chords.html %}
