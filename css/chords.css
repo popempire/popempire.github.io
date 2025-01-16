@@ -231,25 +231,27 @@ div.chordChart.wide>div>div {                         /* MEASURE */
   padding-left: 0.3em; }
 
 /* PRE text-only styling */
+.chordChartArea pre,
 pre.chordChart {
-  font-family: "Consolas", "Inconsolata", monospace;
-  font-variation-settings: "wdth" 125;
-  font-stretch: 125%;
-  font-size: 1rem; }
-.chordChart pre sub, .chordChart pre sup, pre.chordChart sub, pre.chordChart sup {
-  vertical-align: baseline;
-  position:relative;
-  top:0.5em;
-  font-family: inherit;
-  font-size:1em;
-  font-weight: inherit;
-  letter-spacing: 0; }
-pre.chordChart b, pre.chordChart i {
-  font-family: inherit;
-  font-size: 1em;
-  font-variation-settings: "wdth" 125;
-  font-stretch: 125%;
-  letter-spacing: normal;
-  margin: 0;
-  display: inline;
-  position: static; }
+    font-family: "Consolas", "Inconsolata", monospace;
+    font-variation-settings: "wdth" 125;
+    font-stretch: 125%;
+    font-size: 1rem;
+  sub, sup {
+    vertical-align: baseline;
+    position:relative;
+    top:0.5em;
+    font-family: inherit;
+    font-size:1em;
+    font-weight: inherit;
+    letter-spacing: 0; }
+  b, i {
+    font-family: inherit;
+    font-size: 1em;
+    font-variation-settings: "wdth" 125;
+    font-stretch: 125%;
+    letter-spacing: normal;
+    margin: 0;
+    display: inline;
+    position: static; }
+  }
