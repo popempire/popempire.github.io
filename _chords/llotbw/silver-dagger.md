@@ -11,8 +11,7 @@ slug: silver-dagger
   |C-      |G7      |        |C-      |
 
   |C-      |G7      |        |C-      |
-```
-```
+
 [Verse 1]
 
 { |C-      |G7      |        |C-      |
