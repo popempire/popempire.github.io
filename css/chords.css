@@ -21,7 +21,6 @@
   src: local ("Consolas Bold Italic"),
        url("../fonts/consolaz.ttf"); }
 
-.chordChartArea
 div.chordChart, table.chordChart { 
   font-size: 0.833rem;
   font-family: /*"Consolas",*/ "Archivo", sans-serif;
@@ -30,15 +29,14 @@ div.chordChart, table.chordChart {
   font-stretch: normal;
   text-align: left;
   clear:both;
-  /*break-inside: avoid;*/
+  break-inside: avoid;
   width: fit-content;
   padding: 0 1em; }
 /*div.chordChart {
   margin: 0 0 1em;
   padding-top: 1em;}*/ 
 table.chordChart {
-  margin: 0 0 -1em;
-  break-inside: avoid; }
+  margin: 0 0 -1em; }
 
 /* CHORD RHYTHM */
 .rhythm, .chordChart i {
