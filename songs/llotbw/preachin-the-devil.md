@@ -8,57 +8,7 @@ PREACHIN THE DEVIL
 
 ### Chords ###
 
-*Half-time feel with swing*
-
-~~~
-[Intro]      
-        F#     <F#>     F#     <F#>        
-[Riff]
-        F#      F#      F#      F#
-[Verse 1]
-        F#      F#      F#      F#
-        F#      F#      G#      C#
-        F#      F#      B       B
-        C#      C#     <B>
-        F#      F#      F#      F#
-[Verse 2]
-        F#      F#      F#      F#
-        F#      F#      G#      C#
-        F#      F#      B       B
-        C#      C#     <B>
-        F#      F#      F#      F#
-[Bridge] *Straight eighths*
-        D#      G#      D#      G#
-        D#      G#     <C#>
-[Break] *as riff, half-time feel with swing*
-        F#      F#      F#      F#
-[Solo] *as verse*
-        F#      F#      F#      F#
-        F#      F#      G#      C#
-        F#      F#      B       B
-        C#      C#     <B>
-        F#      F#      F#      F#
-[Verse 3]
-        F#      F#      F#      F#
-        F#      F#      G#      C#
-        F#      F#      B       B
-        C#      C#     <B>
-        F#      F#      F#      F#
-[Bridge] *straight feel*
-        D#      G#      D#      G#
-        D#      G#     <C#>
-[Break] *half-time swing*
-        F#      F#      F#      F#
-[Bridge] *straight feel*
-        D#      G#      D#      G#
-        D#      G#     <C#>
-[Outro] *half-time swing*
-        F#      F#      F#      F#
-        F#      F#      F#      F#     
-       <F#>
-~~~
-
-
+{% include chords.html %}
 
 ### Bass Tab ###
 
