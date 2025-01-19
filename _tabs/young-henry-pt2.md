@@ -3,9 +3,6 @@ layout: tabs
 slug: young-henry-pt2
 instrument: bass
 ---
-
-### part ii ###
-
 ~~~
 [Intro]
 
