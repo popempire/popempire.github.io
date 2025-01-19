@@ -196,6 +196,7 @@ pre.lyrics, .lyrics pre {           /* LYRICS */
     line-height: 1.5em; }
 
 pre.tab, .tab pre {               /* TABLATURE */
+    width: auto;
     font-size: 0.833rem;
     line-height: 1em; }
 
