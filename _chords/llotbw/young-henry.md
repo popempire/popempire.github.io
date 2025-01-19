@@ -3,7 +3,7 @@ layout: chords
 slug: young-henry
 ---
 
-#### part i ####
+### part i ###
 
 *3/4   116bpm*
 ~~~
@@ -78,7 +78,7 @@ slug: young-henry
   ///  ///  ///  ///  |
 ~~~
 
-#### part ii ####
+### part ii ###
 
 ~~~
 *modulate +1 and a little faster each verse!*
