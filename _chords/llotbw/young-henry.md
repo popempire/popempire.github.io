@@ -173,7 +173,8 @@ slug: young-henry
 
           C              G
     shall be supplied to thee  
-
+```
+```
     [verse 2]
 
              C         G
@@ -187,7 +188,8 @@ slug: young-henry
 
         C                            G
     and tonight she's waitin' up for me  
-
+```
+```
     [verse 3]
 
        D               C          G
@@ -201,7 +203,8 @@ slug: young-henry
 
         C                       G
     and stabbed him through his heart  
-
+```
+```
     [verse 4]
 
     D                C       G   
