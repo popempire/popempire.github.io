@@ -1,4 +1,5 @@
 ---
+layout: chords
 slug: nightwalking
 ---
 ```
