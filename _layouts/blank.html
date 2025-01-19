@@ -5,16 +5,23 @@
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width">
     <style type="text/css">
-      html { font-size: 10pt; font-family: "Consolas", Consolas, "Inconsolata", monospace; }
+      html { font-size: 10pt; font-family: "Consolas", "Inconsolata", monospace; }
       body { width: 96ch; }
       pre { break-inside: avoid-page; }
       th { background-color: rgba(0,0,0,0.2); }
       td { position: relative; }
-      span.chAbove { position: absolute; top: 0.5em; font-weight: bold; }
-      span.chBehind { position: absolute; left: 0; font-weight: bold; }
       @media print {
         body { margin-left: 0.5in; }
       }
+      /* two-column format */
+      @media print, (min-width: 800px) {
+        .twoColumn {
+            columns: 2;
+          section, pre, p, ul, ol {
+            break-inside: avoid-column; }
+          pre:first-of-type, > hr:first-child,
+          h1, h2, h3, h4, h5, h6 {
+            margin-top:0; } } }
     </style>
     <link type="text/css" href="{{ site.url }}/css/chords.css" rel="stylesheet">
   </head>
