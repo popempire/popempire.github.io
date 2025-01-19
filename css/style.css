@@ -199,6 +199,9 @@ pre.tab, .tab pre {               /* TABLATURE */
     width: auto;
     font-size: 0.833rem;
     line-height: 1em; }
+.tab {
+    h1, h2, h3, h4, h5, h6 {
+        column-span: all; } }
 
 /* two-column format */
 
@@ -207,11 +210,9 @@ pre.tab, .tab pre {               /* TABLATURE */
         columns: 2;
       section, pre, p, ul, ol {
         break-inside: avoid-column; }
-      pre:first-of-type, > hr:first-child {
-        margin-top: 0; }
+      pre:first-of-type, > hr:first-child,
       h1, h2, h3, h4, h5, h6 {
-        margin-top:0;
-        column-span: all; } } }
+        margin-top:0; } } }
 
 /* nav links */
 
