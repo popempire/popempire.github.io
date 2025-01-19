@@ -1,5 +1,5 @@
 ---
-layout: blank
+layout: default
 permalink: /songs/young-henry/
 ---
 
