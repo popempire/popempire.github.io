@@ -199,9 +199,6 @@ pre.tab, .tab pre {               /* TABLATURE */
     width: auto;
     font-size: 0.833rem;
     line-height: 1em; }
-.tab {
-    h1, h2, h3 {
-        column-span: all; } }
 
 /* two-column format */
 
