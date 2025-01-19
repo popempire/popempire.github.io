@@ -1,68 +1,78 @@
 ---
 layout: blank
-permalink: songs/young-henry
+permalink: /songs/young-henry/
 ---
 
-Young Henry pts I & II
-----------------------
+{% include chords.html slug="young-henry" %}
 
-### Chords ###
+### [Bass Tab for Part II]({{ site.url }}/tabs/young-henry-pt2)
 
-#### part i ####
-
-*3/4   116bpm*
-
-    --- intro ---
-    I   I   I   I
-    --- verse 1 ---
-    I   I   I   IV  IV  I   I
-    IV  IV  I   I   I
-    I   IV  I   I   I   I
-    IV  IV  I   I   I
-    --- verse 2 ---
-    I   IV  I   I   
-    IV  IV  I   I   I
-
-*rhythm change!   2/4   88bpm*
-
-    I   IV  I   I   I   I
-    IV  IV  I   I   I   I
-    --- verse 3 ---
-    V   IV  I   I  
-    IV  IV  I   I   I
-    V   IV  I   I   i   i
-    IV  IV  I   I   I
-    --- verse 4 ---
-    V   IV  I   I   I   I
-    IV  IV  I   I   I
-    V   IV  I   I   i   i
-    IV  IV  I   I   I
-
-#### part ii ####
-
-    --- interregnum ---
-    I   I   I   I
-    I   I   I   I
-
-*modulate +1 and a little faster each verse!*
-
-    --- verse 5, 6, 7 ---
-    V   ii7 I   I
-    IV  IV  I   I   I
-    V   IV  I   I   i   i
-    IV  iv  I   I   I
-
-*modulate +1 and a litle faster*
-
-    --- verse 8 ---
-    V   ii7 I   I
-    IV  IV  I   I   I
-    V   IV  I   I   i   i
-    IV  iv/1  <I>
+### part i - lyrical timing ###
 
 ```
-    ### ChordPro ###
+    [verse 1]
 
+    G               C     G 
+    Lie down, young Hen - ry  
+
+        C                   G
+    and stay all night with me  
+
+               C       G
+    The golden cords a-round my bed  
+
+          C              G
+    shall be supplied to thee  
+```
+```
+    [verse 2]
+
+             C         G
+    Oh no, I can't lie down  
+
+        C                   G
+    nor stay all night with thee  
+
+                   C           G
+    for I've got a girl in the sweet sunny South  
+
+        C                            G
+    and tonight she's waitin' up for me  
+```
+```
+    [verse 3]
+
+       D               C          G
+    He leaned her up a-gainst the wall  
+
+        C                       G
+    and kissed her there in the dark  
+
+    D               C          G           Gm
+    She wrapped her arms all a-round and a-round  
+
+        C                       G
+    and stabbed him through his heart  
+```
+```
+    [verse 4]
+
+    D                C       G   
+    Lie there, false-heart - ed Henry  
+
+             C                   G   
+    till the flesh rot from your bone  
+
+    D           C           G           Gm
+    That little girl in the sweet sunny South  
+
+        C              G 
+    may wait for you a-lone  
+```
+
+### ChordPro ###
+
+```
     [G]Lie down, young [C]Hen[G]ry  
     and [C]stay all night with [G]me  
     The golden [C]cords a[G]round my bed  
