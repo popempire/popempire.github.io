@@ -204,15 +204,14 @@ pre.tab, .tab pre {               /* TABLATURE */
 
 @media print, (min-width: 800px) {
     .twoColumn {
-        columns: 2;}
-    .twoColumn section, .twoColumn pre,
-    .twoColumn p, .twoColumn ul, .twoColumn ol {
-      break-inside: avoid-column; }
-    .twoColumn pre:first-of-type,
-    .twoColumn > hr:first-child,
-    .twoColumn h1, .twoColumn h2, .twoColumn h3, .twoColumn h4, .twoColumn h5, .twoColumn h6 {
-        margin-top:0; }
-    }
+        columns: 2;
+      section, pre, p, ul, ol {
+        break-inside: avoid-column; }
+      pre:first-of-type, > hr:first-child {
+        margin-top: 0; }
+      h1, h2, h3, h4, h5, h6 {
+        margin-top:0;
+        column-span: all; } } }
 
 /* nav links */
 
