@@ -200,7 +200,7 @@ pre.tab, .tab pre {               /* TABLATURE */
     font-size: 0.833rem;
     line-height: 1em; }
 .tab {
-    h1, h2, h3, h4, h5, h6 {
+    h1, h2, h3 {
         column-span: all; } }
 
 /* two-column format */
