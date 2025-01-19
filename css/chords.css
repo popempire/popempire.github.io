@@ -232,9 +232,7 @@ div.chordChart.wide>div>div {                         /* MEASURE */
 .chordChartArea pre,
 pre.chordChart {
     font-family: "Consolas", "Inconsolata", monospace;
-    font-variation-settings: "wdth" 125;
-    font-stretch: 125%;
-    font-size: 1rem;
+    font-size: 0.833rem;
   sub, sup {
     vertical-align: baseline;
     position:relative;
@@ -244,12 +242,10 @@ pre.chordChart {
     font-weight: inherit;
     letter-spacing: 0; }
   b, i {
+    margin: 0;
     font-family: inherit;
     font-size: 1em;
-    font-variation-settings: "wdth" 125;
-    font-stretch: 125%;
     letter-spacing: normal;
-    margin: 0;
     display: inline;
     position: static; }
   }
