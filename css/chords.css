@@ -1,10 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wdth,wght@0,62..125,100..900;1,62..125,100..900&family=Inconsolata:wdth,wght@50..200,200..900&display=swap');
 
 @font-face {
+  font-family: "Modified";
+  src: url("../fonts/Consolas-modified.woff"); }
+@font-face {
   font-family: "Consolas";
-  src: /*local ("Consolas"),
-       url("../fonts/consola.ttf"); }*/
-       url("../fonts/Consolas-modified.woff"); }
+  src: local ("Consolas"),
+       url("../fonts/consola.ttf"); }
 @font-face {
   font-family: "Consolas";
   font-weight: bold;
