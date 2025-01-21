@@ -258,3 +258,17 @@ pre.chordChart {
     display: inline;
     position: static; }
   }
+
+  /* chordLyrics module */
+.chordLyrics {
+  text-align: left;
+  div {
+    clear: both;
+    span {
+      display:inline-block;
+      b, q, i, u {
+        display: block;
+        float: left; } } }
+  q::before, q::after {
+    content: none; }
+}
