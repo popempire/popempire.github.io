@@ -263,12 +263,11 @@ pre.chordChart {
 .chordLyrics {
   text-align: left;
   div {
-    clear: both;
+    margin: 1rem 0;
     span {
       display:inline-block;
       b, q, i, u {
-        display: block;
-        float: left; } } }
+        display: block; } } }
   q::before, q::after {
     content: none; }
   q {
