@@ -237,7 +237,7 @@ ABCDEFG
 
 <!-- chordPro style lyric sheets -->
 
-<div class="chordLyrics" style="width:auto;">
+<div class="chordLyrics">
 
   <div>   <!-- let each line be a div -->
     <span>    <!-- let each chord/lyric segment be a span -->
@@ -274,3 +274,29 @@ ABCDEFG
 <div><span><b></b><q>may </q></span><span><b>C</b><q>wait for you a</q></span><span><b>G</b><q>lone</q></span></div>
 
 </div>
+
+<!-- convert ChordPro to HTML:
+
+** current pseudocode should work ok, but creates an extra span at the beginning of
+  a new line that starts with a chord name in brackets **
+** handling of stanzas / verses / chorus is not developed at this point
+  for now, just insert a 'dummy' line with empty <span> <b> and <q> tags **
+
+  <div class='chordLyrics'>
+
+{ split text by lines }
+  { for each new line, remove leading whitespace and start with: }
+    <div><span><b></b><q>
+
+  { replace all '[' with: }
+    </q></span><span><b>
+
+  { replace all ']' with: }
+    </b><q>
+
+  { end each line with: }
+    </q></span></div>
+
+  </div>
+
+-->
