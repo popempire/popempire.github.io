@@ -271,4 +271,6 @@ pre.chordChart {
         float: left; } } }
   q::before, q::after {
     content: none; }
+  q {
+    white-space: pre; }
 }
