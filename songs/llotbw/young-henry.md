@@ -1,5 +1,5 @@
 ---
-layout: blank
+layout: song
 permalink: /songs/young-henry/
 ---
 
@@ -12,7 +12,7 @@ permalink: /songs/young-henry/
 ```
     [verse 1]
 
-    G               C     G 
+    G               C     G
     Lie down, young Hen - ry  
 
         C                   G
@@ -66,7 +66,7 @@ permalink: /songs/young-henry/
     D           C           G           Gm
     That little girl in the sweet sunny South  
 
-        C              G 
+        C              G
     may wait for you a-lone  
 ```
 
