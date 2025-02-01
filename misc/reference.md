@@ -39,17 +39,19 @@ Chords
 |french sixth       |{0,4,6,10} |
 |seven flat five    |{0,4,6,10} |C<sup>7♭5</sup>|
 |german sixth       |{0,4,7,10} |C<sup>7</sup>|
-|eleventh           |{0,2,5,10} |C<sup>11</sup>|B♭/c|
+|                   |{0,2,5,10} |       |B♭/C, C<sup>11</sup>|
 |
 |**Pentads**
 |dominant ninth     |{0,2,4,7,10}|C<sup>9</sup>|G-<sup>6</sup>/C|
 |major ninth        |{0,2,4,7,11}|C<sup>Δ9</sup>|G<sup>6</sup>/C, E<sup>-7</sup>/C|
 |minor ninth        |{0,2,3,7,10}|C-<sup>9</sup>|
 |minor seven add four|{0,3,5,7,10}|C-<sup>7(4)</sup>|minor pentatonic|
-|minor eleventh     |{0,3,5,7,10}|
+|minor eleventh     |{0,3,5,7,10}|C<sup>m11</sup>|(see above)|
 |six nine           |{0,2,4,7,9}|C<sup>6/9</sup>|major pentatonic|
 |suspended nine     |{0,2,5,7,10}|C<sup>9sus</sup>|G<sup>-7</sup>/C, jazz sus|
+|eleventh           |{0,2,5,7,10}|C<sup>11</sup>|(see above)|
 |suspended six nine |{0,2,5,7,9} |C<sup>6/9sus</sup>|F<sup>6/9</sup>/C, G-<sup>7(4)</sup>/C|
+
 |
 |thirteenth         |{0,2,4,7,9,10}|C<sup>13</sup>|
 
