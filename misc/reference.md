@@ -41,6 +41,7 @@ Chords
 |french sixth       |{0,4,6,10} |
 |seven flat five    |{0,4,6,10} |C<sup>7♭5</sup>|
 |german sixth       |{0,4,7,10} |C<sup>7</sup>|
+|eleventh           |{0,2,5,10} |C<sup>11</sup>|B♭/c|
 
 
 |Pentads            |           |           |               |
