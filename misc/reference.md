@@ -9,12 +9,11 @@ Notations, Symbols & Conventions Reference
 Chords
 ------
 
-|Dyads              |           |Example    |Equivalent(s)  |
-
+|Chord              |PC Set     |Example    |Equivalent(s)  |
+|-------------------|-----------|-----------|---------------|
 |power chord        |{0,7}      |C<sup>5</sup>|
-
-|Triads             |           |Example    |Equivalent(s)  |
-
+|
+|**Triads**
 |major              |{0,4,7}    |C          |
 |minor              |{0,3,7}    |C-         |
 |diminished         |{0,3,6}    |C°         |
@@ -24,9 +23,8 @@ Chords
 |                   |{0,7,10}   |C<sup>5(7)</sup>|
 |                   |{0,4,6}    |C(♭5)      |
 |italian sixth      |{0,4,10}   |
-
-|Tetrads            |           |           |               |
-
+|
+|**Tetrads**
 |dominant seventh   |{0,4,7,10} |C<sup>7</sup>|E°/C  |
 |major seventh      |{0,4,7,11} |C<sup>Δ7</sup>|E-/C |
 |minor seventh      |{0,3,7,10} |C-<sup>7</sup>|E♭/C |
@@ -42,9 +40,8 @@ Chords
 |seven flat five    |{0,4,6,10} |C<sup>7♭5</sup>|
 |german sixth       |{0,4,7,10} |C<sup>7</sup>|
 |eleventh           |{0,2,5,10} |C<sup>11</sup>|B♭/c|
-
-|Pentads            |           |           |               |
-
+|
+|**Pentads**
 |dominant ninth     |{0,2,4,7,10}|C<sup>9</sup>|G-<sup>6</sup>/C|
 |major ninth        |{0,2,4,7,11}|C<sup>Δ9</sup>|G<sup>6</sup>/C, E<sup>-7</sup>/C|
 |minor ninth        |{0,2,3,7,10}|C-<sup>9</sup>|
