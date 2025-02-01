@@ -51,8 +51,10 @@ Chords
 |suspended nine     |{0,2,5,7,10}|C<sup>9sus</sup>|G<sup>-7</sup>/C, jazz sus|
 |eleventh           |{0,2,5,7,10}|C<sup>11</sup>|(see above)|
 |suspended six nine |{0,2,5,7,9} |C<sup>6/9sus</sup>|F<sup>6/9</sup>/C, G-<sup>7(4)</sup>/C|
+|seven sharp nine   |{0,3,4,7,10}|C<sup>7♯9</sup>|
 |
 |thirteenth         |{0,2,4,7,9,10}|C<sup>13</sup>|
+|major thirteenth   |{0,2,4,7,9,11}|C<sup>Δ13</sup>|
 |                   |{0,2,4,8,10} |C<sup>7♭13</sup>|
 |                   |{0,1,4,8,10} |C<sup>7♭9♭13</sup>|
 
