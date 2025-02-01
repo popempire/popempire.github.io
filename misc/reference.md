@@ -10,11 +10,11 @@ Chords
 ------
 
 |Dyads              |           |Example    |Equivalent(s)  |
-|-------------------|-----------|-----------|---------------|
+
 |power chord        |{0,7}      |C<sup>5</sup>|
 
 |Triads             |           |Example    |Equivalent(s)  |
-|-------------------|-----------|-----------|---------------|
+
 |major              |{0,4,7}    |C          |
 |minor              |{0,3,7}    |C-         |
 |diminished         |{0,3,6}    |C°         |
@@ -26,7 +26,7 @@ Chords
 |italian sixth      |{0,4,10}   |
 
 |Tetrads            |           |           |               |
-|-------------------|-----------|-----------|---------------|
+
 |dominant seventh   |{0,4,7,10} |C<sup>7</sup>|E°/C  |
 |major seventh      |{0,4,7,11} |C<sup>Δ7</sup>|E-/C |
 |minor seventh      |{0,3,7,10} |C-<sup>7</sup>|E♭/C |
@@ -43,9 +43,8 @@ Chords
 |german sixth       |{0,4,7,10} |C<sup>7</sup>|
 |eleventh           |{0,2,5,10} |C<sup>11</sup>|B♭/c|
 
-
 |Pentads            |           |           |               |
-|-------------------|-----------|-----------|---------------|
+
 |dominant ninth     |{0,2,4,7,10}|C<sup>9</sup>|G-<sup>6</sup>/C|
 |major ninth        |{0,2,4,7,11}|C<sup>Δ9</sup>|G<sup>6</sup>/C, E<sup>-7</sup>/C|
 |minor ninth        |{0,2,3,7,10}|C-<sup>9</sup>|
