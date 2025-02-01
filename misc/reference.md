@@ -54,6 +54,8 @@ Chords
 
 |
 |thirteenth         |{0,2,4,7,9,10}|C<sup>13</sup>|
+|                   |             |C<sup>7♭13</sup>|
+|                   |             |C<sup>7♭9♭13</sup>|
 
 HTML entities and codes
 -----------------------
