@@ -23,6 +23,7 @@ Chords
 |suspended second   |{0,2,7}    |C<sup>sus2</sup>|G<sup>sus</sup>/C|
 |                   |{0,7,10}   |C<sup>5(7)</sup>|
 |                   |{0,4,6}    |C(♭5)      |
+|italian sixth      |{0,4,10}   |
 
 |Tetrads            |           |           |               |
 |-------------------|-----------|-----------|---------------|
@@ -37,6 +38,9 @@ Chords
 |suspended seventh  |{0,5,7,10} |C<sup>7sus</sup>|
 |                   |{0,2,7,10} |           |G-/C|
 |                   |{0,2,7,11} |           |G/C|
+|french sixth       |{0,4,6,10} |
+|seven flat five    |{0,4,6,10} |C<sup>7♭5</sup>|
+|german sixth       |{0,4,7,10} |C<sup>7</sup>|
 
 
 |Pentads            |           |           |               |
@@ -45,9 +49,12 @@ Chords
 |major ninth        |{0,2,4,7,11}|C<sup>Δ9</sup>|G<sup>6</sup>/C, E<sup>-7</sup>/C|
 |minor ninth        |{0,2,3,7,10}|C-<sup>9</sup>|
 |minor seven add four|{0,3,5,7,10}|C-<sup>7(4)</sup>|minor pentatonic|
+|minor eleventh     |{0,3,5,7,10}|
 |six nine           |{0,2,4,7,9}|C<sup>6/9</sup>|major pentatonic|
 |suspended nine     |{0,2,5,7,10}|C<sup>9sus</sup>|G<sup>-7</sup>/C, jazz sus|
-|                   |{0,2,5,7,9} |C<sup>6/9sus</sup>|F<sup>6/9</sup>/C, G-<sup>7(4)</sup>/C|
+|suspended six nine |{0,2,5,7,9} |C<sup>6/9sus</sup>|F<sup>6/9</sup>/C, G-<sup>7(4)</sup>/C|
+|
+|thirteenth         |{0,2,4,7,9,10}|C<sup>13</sup>|
 
 HTML entities and codes
 -----------------------
