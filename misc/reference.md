@@ -40,6 +40,8 @@ Chords
 |seven flat five    |{0,4,6,10} |C<sup>7♭5</sup>|
 |german sixth       |{0,4,7,10} |C<sup>7</sup>|
 |                   |{0,2,5,10} |       |B♭/C, C<sup>11</sup>|
+|                   |{0,2,5,9}  |       |D-/C|
+|                   |{0,2,6,9}  |       |D/C|
 |
 |**Pentads**
 |dominant ninth     |{0,2,4,7,10}|C<sup>9</sup>|G-<sup>6</sup>/C|
