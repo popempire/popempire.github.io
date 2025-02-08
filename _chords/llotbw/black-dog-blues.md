@@ -1,6 +1,6 @@
 ---
 layout: chords
-slug: black-dog
+slug: black-dog-md
 title: Black Dog Blues
 ---
 
