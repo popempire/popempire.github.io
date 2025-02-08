@@ -1,12 +1,8 @@
 ---
 layout: chords
 slug: black-dog
+title: Black Dog Blues
 ---
-
-Black Dog Blues
----------------
-
-### Chords ###
 
     ---intro---
 
