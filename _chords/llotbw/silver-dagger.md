@@ -1,7 +1,7 @@
 ---
 layout: chords
 title: DYING SILVER DAGGER BLUES
-slug: silver-dagger
+slug: silver-dagger-md
 ---
 ```
 [Intro]    108 BPM
