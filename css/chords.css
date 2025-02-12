@@ -242,6 +242,7 @@ pre.chordChart {
     width: auto;
     font-family: "Consolas", "Inconsolata", monospace;
     font-size: 0.833rem;
+    line-height: 1em;
   sub, sup {
     vertical-align: baseline;
     position:relative;
