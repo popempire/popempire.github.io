@@ -12,12 +12,12 @@ slug: for-maggie
     |D7sus2  |        |        |        |
     |/ / / / |/ / / / |/ / / / |/ / / / |
 
-    |Dsus2   |        |D7sus2  |        |
+    |Dsus2   |        |D7sus2  |Dsus2   |
     |/ / / / |/ / / / |/ / / / |/ / / / |
 
 #### verse 1 ####
 
-    |Dsus    |G       |Dsus    |G       |
+    |Dsus    |Gsus2   |Dsus    |Gsus2   |
     |/ / / / |/ / / / |/ / / / |/ / / / |
 
     |Dsus    |        |C       |Dsus    |
@@ -25,23 +25,23 @@ slug: for-maggie
 
 #### verse 2 ####
 
-    |Dsus    |G       |Dsus    |G       |
+    |D5      |Gsus2   |D5      |Gsus2   |
     |/ / / / |/ / / / |/ / / / |/ / / / |
 
-    |Dsus    |        |C       |Dsus    |
+    |D5      |        |C       |D5      |
     |/ / / / |/ / / / |/ / / / |/ / / / |
 
 #### verse 3 ####
 
-    |Dsus    |G       |Dsus    |G       |
+    |D7sus   |Gsus    |D7sus   |Gsus    |
     |/ / / / |/ / / / |/ / / / |/ / / / |
 
-    |Dsus    |        |C       |Dsus    |
+    |D7sus   |        |C       |D7sus   |
     |/ / / / |/ / / / |/ / / / |/ / / / |
 
 #### solo break ####
 
-    |Dsus    |G       |Dsus    |G       |
+    |Dsus    |Gsus    |Dsus    |Gsus    |
     |/ / / / |/ / / / |/ / / / |/ / / / |
 
     |Dsus    |        |C       |Dsus    |
@@ -49,15 +49,15 @@ slug: for-maggie
 
 #### verse 4 ####
 
-    |Dsus    |G       |Dsus    |G       |
+    |D7sus   |Gsus    |D7sus   |Gsus    |
     |/ / / / |/ / / / |/ / / / |/ / / / |
 
-    |Dsus    |        |C       |Dsus    |
+    |D7sus   |        |C       |D7sus   |
     |/ / / / |/ / / / |/ / / / |/ / / / |
 
 #### verse 5 ####
 
-    |Dsus    |G       |Dsus    |G       |
+    |Dsus    |Gsus    |Dsus    |Gsus    |
     |/ / / / |/ / / / |/ / / / |/ / / / |
 
     |Dsus    |        |C       |Dsus    |
@@ -65,8 +65,8 @@ slug: for-maggie
 
 #### Outro Instrumental ####
 
-    |D       |G       |D       |G       |
+    |D5      |G5      |D5      |G5      |
     |/ / / / |/ / / / |/ / / / |/ / / / |
 
-    |D       |        |C       <D>    
+    |D5      |        |C       <D5>    
     |/ / / / |/ / / / |/ / / / |/ / / / 
