@@ -4,7 +4,6 @@ slug: shoot-me
 title: Shoot Me When I'm Happy
 ---
 ~~~
-
 [intro]
                           bass pickup:
                                     / /
