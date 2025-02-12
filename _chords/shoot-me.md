@@ -25,7 +25,8 @@ title: Shoot Me When I'm Happy
 
   E7        D         A
   / / / /   / / / /   / / / /   / / / /
-
+~~~
+~~~
 [verse 2]
 
   E         EΔ7       E7        E6
@@ -39,7 +40,8 @@ title: Shoot Me When I'm Happy
 
   E7        D         A
   / / / /   / / / /   / / / /   / / / /
-
+~~~
+```
 [chorus]
 
   D                   A
@@ -53,7 +55,8 @@ title: Shoot Me When I'm Happy
 
   E7        D         A
   / / / /   / / / /   / / / /   / / / /
-
+```
+```
 [solo break]
 
   E         EΔ7       E7        E6
@@ -67,7 +70,8 @@ title: Shoot Me When I'm Happy
 
   E7        D         A
   / / / /   / / / /   / / / /   / / / /
-
+```
+```
 [chorus]
 
   D                   A
@@ -81,7 +85,8 @@ title: Shoot Me When I'm Happy
 
   E7        D         A
   / / / /   / / / /   / / / /   / / / /
-
+```
+```
 [verse 3]
 
   E         EΔ7       E7        E6
@@ -96,4 +101,4 @@ title: Shoot Me When I'm Happy
   E7        D         A                  <A7/G>
   / / / /   / / / /   / / / /   / / / /   /
 
-~~~
+```
