@@ -12,7 +12,8 @@ intro
 
   A                       A/G♯  F♯m  
   / / / /   / / / /   / / / /   / / / /
-
+~~~
+~~~
 verse
 
   A                             D
@@ -32,7 +33,8 @@ verse
 
   D         A             A/G♯  F♯m      
   / / / /   / / / /   / / / /   / / / /
-
+~~~
+~~~
 chorus
 
   A                   D
@@ -46,7 +48,8 @@ chorus
 
   F♯m       E         A
   / / / /   / / / /   / / / /   / / / /
-
+~~~
+~~~
 bridge
 
   C♯m                 D
@@ -60,6 +63,7 @@ bridge
 
   F♯        E         D
   / / / /   / / / /   / / / /   / / / /
-
+~~~
+~~~
 intro — verse — chorus — bridge — verse — chorus — bridge — chorus
 ~~~
