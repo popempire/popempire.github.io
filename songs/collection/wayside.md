@@ -1,15 +1,10 @@
 ---
-layout: default
+layout: chords
 permalink: /songs/collection/wayside/
+title: Wayside/Back in Time
+notes: |
+  Gillian Welch
 ---
-
-Wayside/Back in Time
---------------------
-
-Gillian Welch
-
-### Chords ###
-
 ~~~
 *half-time*
 
