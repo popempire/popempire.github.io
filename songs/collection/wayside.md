@@ -4,6 +4,8 @@ permalink: /songs/collection/wayside/
 title: Wayside/Back in Time
 notes: |
   Gillian Welch
+
+  Guitar capo 2nd fret
 ---
 ~~~
 *half-time*
