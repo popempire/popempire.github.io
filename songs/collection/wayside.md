@@ -69,3 +69,50 @@ bridge
 ~~~
 intro — verse — chorus — bridge — verse — chorus — bridge — chorus
 ~~~
+
+### Lyrics ###
+
+~~~
+Standing on the corner with a nickel or a dime
+There use to be a rail car to take you down the line
+Too much beer and whiskey to ever be employed
+And when I got to Nashville, it was too much soldiers joy
+Wasted on the wayside, wasted on the way
+If I don’t go tomorrow, you know I’m gone today
+~~~
+~~~
+Back babe, back in time
+I wanna go back when you were mine
+Back babe, back in time
+I wanna go back when you were mine
+~~~
+~~~
+Black highway all night ride
+Watching the times fall away to the side
+Clear channel way down low
+Is comin’ in loud and my mind let go
+~~~
+~~~
+Peaches in the summertime, apples in the fall
+If I can’t have you all the time, I won’t have none at all
+Oh, I wish I was in Frisco in a brand new pair of shoes
+I’m sittin’ here in Nashville with Norman’s Nashville blues
+So come all you good time rounders listenin’ to my sound
+And then drink a round to Nashville for they tear it down
+~~~
+~~~
+Back babe, back in time
+I wanna go back when you were mine
+Back babe, back in time
+I wanna go back when you were mine
+Hard weather, drivin’ slow
+Buggies and the hats in town for the show
+Oh darlin, the songs they played
+All I got left of lovin’ me
+~~~
+~~~
+Back babe, back in time
+I wanna go back when you were mine
+Back babe, back in time
+I wanna go back when you were mine
+~~~
