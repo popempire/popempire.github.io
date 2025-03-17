@@ -45,3 +45,27 @@ On the cloud that He writes in His Word
 I'll be joyfully carried to meet Him
 On the wings of that great speckled bird.
 ```
+
+### Wild Side of Life
+
+```
+You wouldn't read my letter if I wrote you
+You asked me not to call you on the phone
+But there's something I'm wanting to tell you
+So I wrote it in the words of this song
+
+I didn't know God made Honky Tonk angels
+I might have known you'd never make a wife
+You gave up the only one that ever loved you
+And went back to the wild side of life
+
+The glamor of the gay nightlife has lured you
+To the places where the wine and liquor flow
+Where you wait to be anybody's baby
+And forget the truest love you'll ever know know
+
+I didn't know God made Honky Tonk angels
+I might have known you'd never make a wife
+You gave up the only one that ever loved you
+And went back to the wild side of life
+```
