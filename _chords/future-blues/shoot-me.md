@@ -43,10 +43,10 @@ title: Shoot Me When I'm Happy
 ```
 [chorus]
 
-  D                   A
+  D7                  A
   / / / /   / / / /   / / / /   / / / /
 
-  D                   A
+  D7                  A
   / / / /   / / / /   / / / /   / / / /
 
   E         EΔ7       E7        E6
@@ -73,10 +73,10 @@ title: Shoot Me When I'm Happy
 ```
 [chorus]
 
-  D                   A
+  D7                  A
   / / / /   / / / /   / / / /   / / / /
 
-  D                   A
+  D7                  A
   / / / /   / / / /   / / / /   / / / /
 
   E         EΔ7       E7        E6
