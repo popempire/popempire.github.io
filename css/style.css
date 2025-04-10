@@ -198,7 +198,8 @@ pre.lyrics, .lyrics pre {           /* LYRICS */
 pre.tab, .tab pre {               /* TABLATURE */
     width: auto;
     font-size: 0.833rem;
-    line-height: 1em; }
+    line-height: 1em;
+    break-inside: avoid; }
 
 /* two-column format */
 
