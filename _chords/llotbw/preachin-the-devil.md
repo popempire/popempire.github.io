@@ -3,102 +3,133 @@ layout: chords
 title: Preachin' the Devil
 slug: preachin-the-devil
 ---
-
-*Half-time feel with swing*
 ```
-[Intro]
+    ——intro—— 
 
-|F#          |<F#>        |F#          |<F#>        |
+  F#       <F#>       F#       <F#>        
+  / / / /   ! - - -   / / / /   ! - - -
 
-[Riff]
-
-|F#          |            |            |            |
-```
-```
-[Verse 1]
-
-|F#          |            |            |            |
-
-|F#          |            |G#          |C#          |
-
-|F#          |            |B           |            |
-
-|C#          |            |<B>         |
-
-|F#          |            |            |            |
+    *half-time feel with swing*
+  F#         
+  / / / /   / / / /   / / / /   / / / /
 ```
 ```
-[Verse 2]
+    ——verse 1——
 
-|F#          |            |            |            |
+  F#        
+  / / / /   / / / /   / / / /   / / / /
 
-|F#          |            |G#          |C#          |
+  F#                  G#        C# 
+  / / / /   / / / /   / / / /   / / / /
 
-|F#          |            |B           |            |
+  F#                  B
+  / / / /   / / / /   / / / /   / / / /
 
-|C#          |            |<B>         |
+  C#                 <B> 
+  / / / /   / / / /   / / / /  
 
-|F#          |            |            |            |
+  F# 
+  / / / /   / / / /   / / / /   / / / /
 ```
 ```
-[Bridge] *Straight eighths*
+    ——verse 2——
 
-|D#          |G#          |D#          |G#          |
+  F#        
+  / / / /   / / / /   / / / /   / / / /
 
-|D#          |G#          |<C#>        |
+  F#                  G#        C# 
+  / / / /   / / / /   / / / /   / / / /
 
-[Break] *as riff, half-time feel with swing*
+  F#                  B
+  / / / /   / / / /   / / / /   / / / /
 
-|F#          |            |            |            |
+  C#                 <B> 
+  / / / /   / / / /   / / / /  
+
+  F# 
+  / / / /   / / / /   / / / /   / / / /
 ```
 ```
-[Solo] *as verse*
+    ——bridge—— 
+    
+    *straight eighths*
+  D#        G#        D#        G# 
+  / / / /   / / / /   / / / /   / / / /
 
-|F#          |            |            |            |
+  D#        G#       <C#> 
+  / / / /   / / / /   ! - - -   
 
-|F#          |            |G#          |C#          |
-
-|F#          |            |B           |            |
-
-|C#          |            |<B>         |
-
-|F#          |            |            |            |
+    *half-time feel with swing*
+  F# 
+  / / / /   / / / /   / / / /   / / / /
 ```
 ```
-[Verse 3]
+    ——solo verse——
+    
+  F#        
+  / / / /   / / / /   / / / /   / / / /
 
-|F#          |            |            |            |
+  F#                  G#        C# 
+  / / / /   / / / /   / / / /   / / / /
 
-|F#          |            |G#          |C#          |
+  F#                  B
+  / / / /   / / / /   / / / /   / / / /
 
-|F#          |            |B           |            |
+  C#                 <B> 
+  / / / /   / / / /   / / / /  
 
-|C#          |            |<B>         |
-
-|F#          |            |            |            |
+  F# 
+  / / / /   / / / /   / / / /   / / / /
 ```
 ```
-[Bridge] *straight feel*
+    ——verse 3——
+    
+  F#        
+  / / / /   / / / /   / / / /   / / / /
 
-|D#          |G#          |D#          |G#          |
+  F#                  G#        C# 
+  / / / /   / / / /   / / / /   / / / /
 
-|D#          |G#          |<C#>        |
+  F#                  B
+  / / / /   / / / /   / / / /   / / / /
 
-[Break] *half-time swing*
+  C#                 <B> 
+  / / / /   / / / /   / / / /  
 
-|F#          |            |            |            |
+  F# 
+  / / / /   / / / /   / / / /   / / / /
 ```
 ```
-[Bridge] *straight feel*
+    ——bridge——  
+    
+    *straight eighths*
+  D#        G#        D#        G# 
+  / / / /   / / / /   / / / /   / / / /
 
-|D#          |G#          |D#          |G#          |
+  D#        G#       <C#> 
+  / / / /   / / / /   ! - - -   
 
-|D#          |G#          |<C#>        |
+    *half-time swing*
+  F# 
+  / / / /   / / / /   / / / /   / / / /
 ```
 ```
-[Outro] *half-time swing*
+    ——bridge——  
+    
+    *straight eighths*
+  D#        G#        D#        G# 
+  / / / /   / / / /   / / / /   / / / /
 
-|F#          |            |            |            |
+  D#        G#       <C#> 
+  / / / /   / / / /   ! - - - 
+```
+```
+    ——outro——  
+    
+    *half-time swing*
+  F#  
+  / / / /   / / / /   / / / /   / / / /
 
-|F#          |            |            |            |<F#>     |
+  F#                                     <F#>
+  / / / /   / / / /   / / / /   / / / /   !
 ```
