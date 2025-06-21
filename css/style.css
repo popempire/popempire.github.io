@@ -291,7 +291,7 @@ blockquote em, blockquote i {
 
 .fontConsolas,
 pre, code, kbd {
-    font-family: "Consolas", monospace;
+    font-family: "Modified" /*, "Consolas", monospace */;
     font-size: 1em;
     font-weight: 400;
     font-stretch: normal;
