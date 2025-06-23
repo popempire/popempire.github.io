@@ -92,7 +92,7 @@ section, article, header, main, footer {
 /* HEADER STYLES */
 
 h1, h2, h3, h4, h5, h6 {
-    margin: 1em 0;
+    margin: 0 0 1em;
     font-weight: 700;
     font-variation-settings: "wdth" 112.5; 
     font-stretch: semi-expanded;
@@ -100,6 +100,7 @@ h1, h2, h3, h4, h5, h6 {
     letter-spacing: -0.075em; }
 
 h1.granjon, h2.granjon, h3.granjon, h4.granjon, h5.granjon, h6.granjon {
+    margin-bottom: 0.5em;
     font-family: "garamond-premier-pro", "Garamond", serif;
     font-weight: 400;
     font-stretch: normal;

@@ -103,14 +103,16 @@ Other Scales
 HTML entities and codes
 -----------------------
 
-|Entity         |Symbol|md?|
-|---------------|------|---|
-|&flat;         |♭     |N  |        
-|&sharp;        |♯     |N  |
-|&degree;       |°     |N  |
-|&amp;mdash;    |&mdash;|Y |
-|&amp;Oslash;   |Ø     |Y  |
-|&amp;#x1D110;  |𝄐     |Y  |
+|Entity         |Symbol|MD?|Unicode|Name|
+|---------------|------|---|------|-----|
+|&flat;         |♭     |N  |U+266D|flat|
+|&sharp;        |♯     |N  |U+266F|sharp|
+|&degree;       |°     |N  |      |degree/diminished|
+|&amp;mdash;    |—     |Y  |U+2014|em dash|
+|&amp;Oslash;   |Ø     |Y  |U+  D8|O slash/half-diminished|
+|&amp;#x1D110;  |𝄐     |Y  |      |
+|&amp;Delta;    |Δ     |Y  |U+ 394|Delta/major|
+|&nbsp;         |      |   |U+  A0|non-breaking space|
 
 <p>
 &sharp;
