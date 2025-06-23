@@ -7,7 +7,8 @@ permalink: /chords/
 <h2>Chord Charts</h2>
 
 <ul>
-{% for song in site.chords %}
+{% assign theChords = site.chords | sort_natural:"title" %}
+{% for song in theChords %}
   <li><a href="{{ song.url }}">{{ song.title }}</a></li>
 {% endfor %}
 </ul>

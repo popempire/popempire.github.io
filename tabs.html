@@ -7,7 +7,8 @@ permalink: /tabs/
 <h2>Tablature</h2>
 
 <ul>
-{% for everyTab in site.tabs %}
+{% assign theTabs = site.tabs | sort_natural:"title" %}
+{% for everyTab in theTabs %}
   <li><a href="{{ everyTab.url }}">{{ everyTab.title }}</a></li>
 {% endfor %}
 </ul>
